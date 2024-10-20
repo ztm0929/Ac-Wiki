@@ -23,3 +23,8 @@
 推送频道（TG）：https://t.me/AcWiki
 
 交流群组（TG）：https://t.me/AcFourm
+
+# 参考链接
+[student-benefits-and-programs-fire](https://github.com/dipakkr/A-to-Z-Resources-for-Students?tab=readme-ov-file#3-student-benefits-and-programs-fire)
+
+[Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services)

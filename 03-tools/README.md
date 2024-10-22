@@ -18,6 +18,10 @@ Windows下的文件管理工具，比系统自带的文件管理好用，强烈�
 ## [Snipaste](https://zh.snipaste.com/)
 截图工具，很好用。现在开始收费了
 
+## [Pixpin](https://pixpinapp.com/)
+
+Snipaste 所拥有的免费/付费功能，Pixpin 免费版几乎都有。免费功能非常丰富，包括丰富的标注工具、OCR、贴图等，翻译功能需要付费，不过Pixpin的免费版可以说算是 Windows 端免费截图工具中功能最丰富的了。
+
 # MacOS
 
 ## [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)

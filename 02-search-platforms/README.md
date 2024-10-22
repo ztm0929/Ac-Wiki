@@ -34,12 +34,12 @@
 
 - 最好的英文搜索；广告较少，外国信息丰富
 ### 谷歌常用搜索语法：
-1. inurl：网址包含搜索词，比如 inurl:stackoverflow
-2. intitle: 标题包含搜索词
-3. allintitle: 标题包含多个搜索词
-4. filetype: 限定搜索结果的文件类型，如 filetype：pdf
-5. intext: 文章内容包含搜索词
-6. "xxxx": 准确匹配搜索词，搜索结果必须包含搜索词
+1. `inurl`：网址包含搜索词，比如 inurl:stackoverflow
+2. `intitle`: 标题包含搜索词
+3. `allintitle`: 标题包含多个搜索词
+4. `filetype`: 限定搜索结果的文件类型，如 filetype：pdf
+5. `intext`: 文章内容包含搜索词
+6. `"xxxx"`: 准确匹配搜索词，搜索结果必须包含搜索词
     新手推荐插件：https://github.com/penn201500/GoogleAdvSearchHint
 
 ### 如何快速阅读英文资料：
@@ -54,6 +54,10 @@
 ## [必应](https://cn.bing.com/)：
 - 适合做图片搜索
 
+## [Perplexity](https://www.perplexity.ai/)
+
+AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页。类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
+
 ## [微博搜索](https://weibo.com/)：
 - 热点事件，评论区信息可以看到不同立场的不同观点
 
@@ -67,18 +71,23 @@
 
 ## 电子书：
 - [鸠摩读书](https://www.jiumodiary.com/)
+- [Z-lib](https://z-library.sk/)
+    - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+- [安娜的档案](https://zh.annas-archive.org/)
 
 ## 经济管理领域相关：
 - [MBA智库百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
 
-## 开源软件、项目、工具相关:
-- [GitHub](https://github.com/) 搜索关键字，直接按 star 排序
+## 软件、项目、工具相关:
+- [GitHub](https://github.com/) 开源网站，搜索关键字，直接按 star 排序
+- [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
 
 ## 数学相关：
 - [数学乐](https://www.shuxuele.com/)
 
 ## 通用问题相关：
 - [知乎](https://www.zhihu.com/)：对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
+- [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高。
 
 ## 公司信息相关（对找工作的同学有用）：
 - [天眼查](https://www.tianyancha.com/)

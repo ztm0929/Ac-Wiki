@@ -33,7 +33,27 @@ Snipaste 所拥有的免费/付费功能，Pixpin 免费版几乎都有。免费
 ## [Rectangle](https://github.com/rxhanson/Rectangle)
 窗口管理工具，日常使用开源版本够用了，也可以付费升级到 pro
 
+# Android
 
+## [WakeUp课程表](https://www.wakeup.fun/)
+
+小巧强大、简洁无广告的课程表 App，适配全国多所高校，可以一键抓取学校课表信息，并支持桌面小组件、导出到系统日历等功能。该软件也支持iOS端。
+
+## [GameViewer远程](https://gv.163.com/)
+
+流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持Android、iOS、MacOS和Windows。
+
+## [GKD](https://gkd.li/)
+
+一款基于无障碍功能实现的广告跳过工具，开源于[Github](https://github.com/gkd-kit/gkd)。
+
+[官方的跳过规则](https://github.com/gkd-kit/subscription)已经不再维护，此处提供一个[第三方维护的开源规则](https://github.com/AIsouler/GKD_subscription)：
+
+```txt
+https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5
+```
+
+更多规则，可以在Github上查找。
 
 # Linux
 

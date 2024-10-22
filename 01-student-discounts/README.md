@@ -4,6 +4,10 @@
 # 🏘️生活服务
 ## 🚅旅游
 - [铁路12306](https://kyfw.12306.cn/otn/gonggao/student.html)：具体详见官方文件；
+
+- [华住会](https://www.hworld.com/)：全国8.8折；周日/周一学校周边酒店75折；跨城旅游连住两晚75折
+
+  华住会公众号[推文](https://mp.weixin.qq.com/s/YftM7f7WR2JQQPxx5godwg)，点击领取后进行学生认证，填写学校即可
 ## 🏪购物
 - 
 ## 🍽️餐饮

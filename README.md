@@ -24,7 +24,7 @@
 - ### [学生优惠](https://github.com/Ac-Wiki/AcWiKi/blob/main/01-student-discounts/README.md)
 - ### 生活常识
 ## 2.2. 学术技能
-- ### 检索信息
+- ### [检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)
 - ### 工具平台
 ## 2.3. 考赛介绍
 ## 2.4. 方法总结

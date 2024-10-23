@@ -31,12 +31,15 @@
 ## 2.1. 生活经验
 
 - ### [学生优惠](https://github.com/Ac-Wiki/AcWiKi/blob/main/01-student-discounts/README.md)
+
 - ### 生活常识
 
 ## 2.2. 学术技能
 
 - ### [检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)
+
 - ### 工具平台
+
   - [效率软件](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)
   - **Android**
     - [加密通讯](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)
@@ -53,11 +56,19 @@
 
 # 4. 💁联系我们
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram Channel-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=red&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki">
+<a href="https://t.me/AcWiki">
+ <img
+  alt="Static Badge"
+  src="https://img.shields.io/badge/Telegram Channel-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=purple&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki"
+ />
+</a>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=red&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki">
-
-
+<a href="https://t.me/AcFourm">
+ <img
+  alt="Static Badge"
+  src="https://img.shields.io/badge/Telegram Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=orange&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki"
+ />
+</a>
 
 ## Star History
 

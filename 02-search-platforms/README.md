@@ -46,6 +46,8 @@
 - 可以使用 google 翻译或者 deepl 翻译
 - 或使用[沉浸式翻译](https://immersivetranslate.com/)：
     https://github.com/immersive-translate/immersive-translate/
+- 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718) 
+
         
 ## [搜狗](https://www.sogou.com/):
 - 适合用来做微信相关内容搜索，如公章号文章
@@ -56,7 +58,7 @@
 
 ## [Perplexity](https://www.perplexity.ai/)
 
-AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页。类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
+AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页；类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
 
 ## [微博搜索](https://weibo.com/)：
 - 热点事件，评论区信息可以看到不同立场的不同观点
@@ -73,7 +75,7 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 ## 电子书：
 - [鸠摩读书](https://www.jiumodiary.com/)
 - [Z-lib](https://z-library.sk/)
-    - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+    - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站，谨防虚假网站！
 - [安娜的档案](https://zh.annas-archive.org/)
 
 ## 经济管理领域相关：
@@ -87,7 +89,7 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 - [数学乐](https://www.shuxuele.com/)
 
 ## 通用问题相关：
-- [知乎](https://www.zhihu.com/)：对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
+- [知乎](https://www.zhihu.com/) 对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
 - [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高。
 
 ## 公司信息相关（对找工作的同学有用）：
@@ -109,8 +111,17 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 7. 公司所属行业的调研报告，可以通过这些了解行业的未来发展情况
 
 ```
+## 网络空间安全相关：
+- [Hacki](https://news.ycombinator.com) 黑客新闻平台
+- [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit网络空间安全分区
+
+
+## 数码相关：
+- [酷安](https://www.coolapk.com) 活跃的数码社区，涵盖软硬件
+
 
 # 其他
+
 
 ## 文献搜索平台
 - 请正在写论文的同学们补充...

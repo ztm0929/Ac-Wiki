@@ -37,6 +37,7 @@
 - 最好的英文搜索；广告较少，外国信息丰富
 
 > [!TIP]
+>
 > <details>
 > <summary>谷歌常用搜索语法</summary>
 > 使用 Google 搜索引擎的时候，可以使用一些
@@ -108,7 +109,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [Z-lib](https://z-library.sk/)
 
 > [!WARNING]
-由于网站性质，Z-lib的官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+> 由于网站性质，Z-lib的官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
 
 - [安娜的档案](https://zh.annas-archive.org/)
 
@@ -137,14 +138,15 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [天眼查](https://www.tianyancha.com/)
 - [风鸟](https://www.riskbird.com/)
 
->[!TIP]
+> [!TIP]
+>
 > <details>
 > <summary>查询公司信息的一般步骤：</summary>
 >
 > ```txt
 > 查询公司信息的一般步骤：
 > - what, who, when, where, why, how, how much
-> 
+>
 > 一，明确需要查询的信息：公司的注册时间，主营业务，重大事项，资讯，产品，注册地址，法人，资本
 > 二，可用查询渠道：天眼查，公司官网，官方机构（商务部备案等），如果上市，应该有上市备案信息；当地的报纸报道；上下游企业；产业趋势
 > 三，公司的三流：资金流，人员流，物流/业务流

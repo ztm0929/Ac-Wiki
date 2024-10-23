@@ -51,6 +51,15 @@
 - [沉浸式翻译Github](https://github.com/immersive-translate/immersive-translate/)
 - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
 
+## [Kagi Search](https://kagi.com/welcome)
+
+- 最好用的搜索引擎之一
+- **!!付费**,拥有免费额度,可以免费试用
+- 无广告,无跟踪
+- 搜索结果优化
+- 快速简洁
+- 拥有AI总结,摘要等辅助功能
+
 ## [搜狗](https://www.sogou.com/):
 
 - 适合用来做微信相关内容搜索，如公章号文章

@@ -43,4 +43,4 @@
   
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date)](https://star-history.com/#Ac-Wiki/AcWiKi&Date)frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date)](https://star-history.com/#Ac-Wiki/AcWiKi&Date)

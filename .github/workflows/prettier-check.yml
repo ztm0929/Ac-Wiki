@@ -39,4 +39,4 @@ jobs:
         if: failure()
         run: |
           echo "The following Markdown files are not properly formatted:"
-          prettier --list-different "**/*.md"
+          prettier --list-different --write "**/*.md"

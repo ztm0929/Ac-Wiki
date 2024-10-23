@@ -1,9 +1,10 @@
 > 搜索平台，是获取信息的一个重要入口，这里对常用的信息搜索平台做一个简单的收集汇总。以方便梳理出一个搜集有效信息资料，对学习、生活社会热点等媒体热点信息的判断体系。预计包含：信息搜索，信息存储，信息使用及判断 三个部分。 本篇主要关注信息搜索部分。
 
->欢迎大家指正或补充～
-> *本文档优先推荐免费或者有试用的平台*
+> 欢迎大家指正或补充～
+> _本文档优先推荐免费或者有试用的平台_
 
 # 搜索引擎
+
 ```
 写在前面：
 一，现在很多信息被割裂分散在不同的地方，而且不同的搜索引擎适用的范围不一样。所以，需要使用不同的搜索引擎来尽量消弥这种信息偏差。
@@ -28,30 +29,35 @@
 - 最大的中文网页库，对中文的理解度最高
 - 其使用竞价排名模式，需要使用搜索指令排除广告的影响
 - 产品矩阵：如百度百科，百度文库，百度网盘 这些产品使用百度引擎更合适
-
+- this is a test
 
 ## [谷歌](https://www.google.com)：
 
 - 最好的英文搜索；广告较少，外国信息丰富
+
 ### 谷歌常用搜索语法：
+
 1. `inurl`：网址包含搜索词，比如 inurl:stackoverflow
 2. `intitle`: 标题包含搜索词
 3. `allintitle`: 标题包含多个搜索词
 4. `filetype`: 限定搜索结果的文件类型，如 filetype：pdf
 5. `intext`: 文章内容包含搜索词
 6. `"xxxx"`: 准确匹配搜索词，搜索结果必须包含搜索词
-    新手推荐插件：https://github.com/penn201500/GoogleAdvSearchHint
+   新手推荐插件：https://github.com/penn201500/GoogleAdvSearchHint
 
 ### 如何快速阅读英文资料：
+
 - 可以使用 google 翻译或者 deepl 翻译
 - 或使用[沉浸式翻译](https://immersivetranslate.com/)：
-    https://github.com/immersive-translate/immersive-translate/
-        
+  https://github.com/immersive-translate/immersive-translate/
+
 ## [搜狗](https://www.sogou.com/):
+
 - 适合用来做微信相关内容搜索，如公章号文章
-百度搜索结果广告太多时，可以用搜狗试试
+  百度搜索结果广告太多时，可以用搜狗试试
 
 ## [必应](https://cn.bing.com/)：
+
 - 适合做图片搜索
 
 ## [Perplexity](https://www.perplexity.ai/)
@@ -59,39 +65,46 @@
 AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页。类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
 
 ## [微博搜索](https://weibo.com/)：
+
 - 热点事件，评论区信息可以看到不同立场的不同观点
 
 ## [推特](https://twitter.com/):
+
 - 时政内容；
 - 外国的一些生活状况，准备留学的同学可以通过这个渠道对某些信息祛魅
-
-
 
 # 垂直领域搜索
 
 ## 电子书：
+
 - [鸠摩读书](https://www.jiumodiary.com/)
 - [Z-lib](https://z-library.sk/)
-    - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+  - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
 - [安娜的档案](https://zh.annas-archive.org/)
 
 ## 经济管理领域相关：
+
 - [MBA智库百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
 
 ## 软件、项目、工具相关:
+
 - [GitHub](https://github.com/) 开源网站，搜索关键字，直接按 star 排序
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
 
 ## 数学相关：
+
 - [数学乐](https://www.shuxuele.com/)
 
 ## 通用问题相关：
+
 - [知乎](https://www.zhihu.com/)：对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
 - [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高。
 
 ## 公司信息相关（对找工作的同学有用）：
+
 - [天眼查](https://www.tianyancha.com/)
 - [风鸟](https://www.riskbird.com/)
+
 ```
 查询公司信息的一般步骤：
 - what, who, when, where, why, how, how much
@@ -112,8 +125,8 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 # 其他
 
 ## 文献搜索平台
-- 请正在写论文的同学们补充...
 
+- 请正在写论文的同学们补充...
 
 # 🔗参考链接
 

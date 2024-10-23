@@ -38,3 +38,9 @@
 # 4. 联系我们
 -  🔗项目频道（TG）：https://t.me/AcWiki
 -  🔗交流群组（TG）：https://t.me/AcFourm
+  
+  
+  
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date)](https://star-history.com/#Ac-Wiki/AcWiKi&Date)

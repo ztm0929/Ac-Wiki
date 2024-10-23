@@ -29,7 +29,6 @@
 - 最大的中文网页库，对中文的理解度最高
 - 其使用竞价排名模式，需要使用搜索指令排除广告的影响
 - 产品矩阵：如百度百科，百度文库，百度网盘 这些产品使用百度引擎更合适
-- this is a test
 
 ## [谷歌](https://www.google.com)：
 
@@ -50,6 +49,7 @@
 - 可以使用 google 翻译或者 deepl 翻译
 - 或使用[沉浸式翻译](https://immersivetranslate.com/)：
   https://github.com/immersive-translate/immersive-translate/
+- 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718) 
 
 ## [搜狗](https://www.sogou.com/):
 
@@ -62,7 +62,7 @@
 
 ## [Perplexity](https://www.perplexity.ai/)
 
-AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页。类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
+AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页；类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
 
 ## [微博搜索](https://weibo.com/)：
 
@@ -73,13 +73,16 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 - 时政内容；
 - 外国的一些生活状况，准备留学的同学可以通过这个渠道对某些信息祛魅
 
+## [维基百科](https://wikipedia.org/):
+- 全球最大知识库，用于搜索古往今来的人事物
+
 # 垂直领域搜索
 
 ## 电子书：
 
 - [鸠摩读书](https://www.jiumodiary.com/)
 - [Z-lib](https://z-library.sk/)
-  - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+    - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站，谨防虚假网站！
 - [安娜的档案](https://zh.annas-archive.org/)
 
 ## 经济管理领域相关：
@@ -121,8 +124,17 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 7. 公司所属行业的调研报告，可以通过这些了解行业的未来发展情况
 
 ```
+## 网络空间安全相关：
+- [Hacki](https://news.ycombinator.com) 黑客新闻平台
+- [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit网络空间安全分区
+
+
+## 数码相关：
+- [酷安](https://www.coolapk.com) 活跃的数码社区，涵盖软硬件
+
 
 # 其他
+
 
 ## 文献搜索平台
 

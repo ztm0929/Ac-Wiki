@@ -34,7 +34,8 @@
 - [GitHub Copilot](https://github.com/features/copilot/plans?cft=copilot_li.features_copilot)：结对编程助手;
 - [GitHub学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月；
 - [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在GitHub学生开发者资源包中;
-- [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：
+- [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
+- [通义灵码](https://tongyi.aliyun.com/lingma/)：阿里云开发的Copilot平替，如果无法申请github学生认证的可以试试
 
 ## 📒笔记
 

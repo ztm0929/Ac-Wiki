@@ -1,0 +1,12 @@
+# .prettierignore
+
+# Ignore node modules and build directories (if any)
+node_modules
+build
+dist
+
+# Ignore Git directory
+.git
+
+# Ignore specific Markdown files (optional)
+# path/to/ignore.md

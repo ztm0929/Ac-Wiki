@@ -1,0 +1,42 @@
+# .github/workflows/prettier-check.yml
+
+name: Prettier Markdown Check
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  prettier:
+    name: Check Markdown Formatting with Prettier
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Set up Node.js environment
+      # Prettier requires Node.js to run
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        # with:
+        #   node-version: "20" # Optional: Remove this line to eliminate deprecation warning
+
+      # Step 3: Install Prettier Globally
+      - name: Install Prettier
+        run: npm install -g prettier
+
+      # Step 4: Run Prettier Check on Markdown Files
+      - name: Run Prettier Check
+        run: |
+          prettier --check "**/*.md"
+
+      # Optional Step 5: Display Formatted Files
+      - name: Show Unformatted Files
+        if: failure()
+        run: |
+          echo "The following Markdown files are not properly formatted:"
+          prettier --list-different "**/*.md"

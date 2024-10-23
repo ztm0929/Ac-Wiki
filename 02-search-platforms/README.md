@@ -48,8 +48,8 @@
 
 - 可以使用 google 翻译或者 deepl 翻译
 - 或使用[沉浸式翻译](https://immersivetranslate.com/)：
-  https://github.com/immersive-translate/immersive-translate/
-- 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718) 
+- [沉浸式翻译Github](https://github.com/immersive-translate/immersive-translate/)
+- 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
 
 ## [搜狗](https://www.sogou.com/):
 
@@ -64,6 +64,8 @@
 
 AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用AI帮你总结要点，也提供参考网页；类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)。
 
+- 类似的还有[kimi](https://kimi.moonshot.cn/)和[迷塔搜索](https://metaso.cn/)
+
 ## [微博搜索](https://weibo.com/)：
 
 - 热点事件，评论区信息可以看到不同立场的不同观点
@@ -74,7 +76,27 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 - 外国的一些生活状况，准备留学的同学可以通过这个渠道对某些信息祛魅
 
 ## [维基百科](https://wikipedia.org/):
+
 - 全球最大知识库，用于搜索古往今来的人事物
+
+## [必应](https://cn.bing.com/)：
+
+- 大陆区最好的搜索引擎
+
+## [百度](https://www.baidu.com)：
+
+- 最大的中文网页库，对中文的理解度最高
+- 其使用竞价排名模式，需要使用搜索指令排除广告的影响
+- 产品矩阵：如百度百科，百度文库，百度网盘 这些产品使用百度引擎更合适
+
+## [搜狗](https://www.sogou.com/):
+
+- 适合用来做微信相关内容搜索，如公章号文章
+- 百度搜索结果广告太多时，可以用搜狗试试
+
+## [微博搜索](https://weibo.com/)：
+
+- 热点事件，评论区信息可以看到不同立场的不同观点
 
 # 垂直领域搜索
 
@@ -82,17 +104,19 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 
 - [鸠摩读书](https://www.jiumodiary.com/)
 - [Z-lib](https://z-library.sk/)
-    - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站，谨防虚假网站！
+  - 由于网站性质，官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文Telegram频道](https://t.me/zlib_china_official)查看最新官方网站，谨防虚假网站！
 - [安娜的档案](https://zh.annas-archive.org/)
 
 ## 经济管理领域相关：
 
-- [MBA智库百科](https://wiki.mbalib.com/wiki/%E9%A6%96%E9%A1%B5)
+- [MBA智库百科](https://wiki.mbalib.com/wiki)
 
 ## 软件、项目、工具相关:
 
-- [GitHub](https://github.com/) 开源网站，搜索关键字，直接按 star 排序
+- [GitHub](https://github.com/) 托管大量开源软件，项目，工具
+- [GitLab](https://gitlab.com/) 托管大量开源软件，项目，工具，类似于GitHub
 - [小众软件](https://www.appinn.com/) 适合搜索各个垂类的软件、工具，但是不一定是开源的
+- [Flathub](https://flathub.org/) 收集了大量Linux软件
 
 ## 数学相关：
 
@@ -100,8 +124,8 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 
 ## 通用问题相关：
 
-- [知乎](https://www.zhihu.com/)：对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
-- [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高。
+- [知乎](https://www.zhihu.com/) 对某个方向的问题毫无头绪时，在这里查找相关帖子扫盲和建立初步认识
+- [Reddit](https://www.reddit.com/) 相当于海外的贴吧，搜索英文资料/问题可以尝试在检索时加入`reddit`，质量较高
 
 ## 公司信息相关（对找工作的同学有用）：
 
@@ -114,7 +138,7 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 
 一，明确需要查询的信息：公司的注册时间，主营业务，重大事项，资讯，产品，注册地址，法人，资本
 二，可用查询渠道：天眼查，公司官网，官方机构（商务部备案等），如果上市，应该有上市备案信息；当地的报纸报道；上下游企业；产业趋势
-三，公司的 3 流：资金流，人员流，物流/业务流
+三，公司的三流：资金流，人员流，物流/业务流
 1. 查询公司的营业范围、注册资本、注册地、股东等信息，是为了对公司的基本情况进行了解
 2. 查询公司所在行业的龙头企业上市公司，这些公开信息中包含营业额，利润率，员工数量，薪资范畴，运营成本。有行业龙头当作标杆就可以对要查询公司的信息进行交叉对比验证。判断搜索所得信息的真假
 3. 天眼查公司的诉讼情况，违规情况。公司的困境/问题有哪些可以从这些信息中获得
@@ -124,17 +148,18 @@ AI驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使用
 7. 公司所属行业的调研报告，可以通过这些了解行业的未来发展情况
 
 ```
+
 ## 网络空间安全相关：
+
 - [Hacki](https://news.ycombinator.com) 黑客新闻平台
 - [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit网络空间安全分区
-
+- [Hello CTF](hello-ctf.com) CTF比赛指南
 
 ## 数码相关：
+
 - [酷安](https://www.coolapk.com) 活跃的数码社区，涵盖软硬件
 
-
 # 其他
-
 
 ## 文献搜索平台
 

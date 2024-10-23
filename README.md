@@ -52,12 +52,13 @@
 # 3. 📎引用与致谢
 
 # 4. 💁联系我们
+<a href="https://t.me/AcWiki">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram Channel-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=red&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki">
+</a>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram Channel-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=red&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=red&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki">
-
-
+<a href="https://t.me/AcFourm">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=red&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki">
+</a>
 
 ## Star History
 

@@ -22,8 +22,8 @@ jobs:
       # Prettier requires Node.js to run
       - name: Set up Node.js
         uses: actions/setup-node@v3
-        with:
-          node-version: "20" # You can specify a different LTS version if needed
+        # with:
+        #   node-version: "20" # Optional: Remove this line to eliminate deprecation warning
 
       # Step 3: Install Prettier Globally
       - name: Install Prettier

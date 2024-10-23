@@ -54,9 +54,11 @@
 >
 > <details>
 > <summary>如何快速阅读英文资料</summary>
+>
 > - 可以使用 google 翻译或者 deepl 翻译
-> - 或使用[沉浸式翻译](https://immersivetranslate.com/)，[Github 页面](https://github.com/immersive-translate/> immersive-translate/)
+> - 或使用[沉浸式翻译](https://immersivetranslate.com/)，[Github 页面](https://github.com/immersive-translate/)
 > - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
+>
 > </details>
 
 ### [搜狗](https://www.sogou.com/)

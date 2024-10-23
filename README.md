@@ -41,4 +41,6 @@
   
   
   
-  <iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX202eTRlQ0JLT05YUGV6aDhqdjB4b3E2b01XZFNDVjRJN3ZKMg==#Ac-Wiki/AcWiKi&Date" frameBorder="0"></iframe>
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Ac-Wiki/AcWiKi&type=Date)](https://star-history.com/#Ac-Wiki/AcWiKi&Date)frameBorder="0"></iframe>

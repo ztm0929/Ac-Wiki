@@ -25,7 +25,10 @@
 - ### 生活常识
 ## 2.2. 学术技能
 - ### [检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)
-- ### [工具平台](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)
+- ### 工具平台
+  - [效率软件](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)
+  - Android
+    - [加密通讯](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)
 ## 2.3. 考赛介绍
 ## 2.4. 方法总结
 ## 2.5. 待补充

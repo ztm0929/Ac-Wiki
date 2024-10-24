@@ -39,4 +39,19 @@ jobs:
         if: failure()
         run: |
           echo "The following Markdown files are not properly formatted:"
-          prettier --list-different --write "**/*.md"
+          prettier --list-different "**/*.md"
+
+      # Step 6: try auto fix
+      - name: Auto Fix
+        if: failure()
+        run: |
+          prettier --write "**/*.md"
+
+      - name: Commit and Push
+        if: failure()
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Fix markdown formatting"
+          git push

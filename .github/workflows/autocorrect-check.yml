@@ -12,23 +12,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-      - name: Install and run AutoCorrect
-        run: | 
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+
+      - name: Install and run format
+        run: |
+          # 安装 autocorrect
           curl -sSL https://raw.githubusercontent.com/huacnlee/autocorrect/main/install | sh
+          # 修复文件格式
           autocorrect --fix
-      
+          # 安装并运行 prettier
+          npm install -g prettier
+          prettier --write .
+
       # 检查是否有文件更改
       - name: Check for changes
         run: git diff --exit-code || git status
-      
+
       # 如果有更改，则配置 Git 提交用户名和邮箱，并提交更改
       - name: Commit changes
-        if: success() || failure()  # 确保失败时继续
+        if: success()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "AutoCorrect: Fix Markdown formatting"
+          git commit -m "fix(typo): Fix Markdown formatting"
           git push
-        continue-on-error: true  # 即使没有更改也不影响其他步骤
+        continue-on-error: true # 即使没有更改也不影响其他步骤

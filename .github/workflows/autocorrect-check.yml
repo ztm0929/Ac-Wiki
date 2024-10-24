@@ -34,11 +34,10 @@ jobs:
 
       # 如果有更改，则配置 Git 提交用户名和邮箱，并提交更改
       - name: Commit changes
-        if: success()
+        if: failure()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
           git commit -m "fix(typo): Fix Markdown formatting"
-          git push
-        continue-on-error: true # 即使没有更改也不影响其他步骤
+          git push origin HEAD:main

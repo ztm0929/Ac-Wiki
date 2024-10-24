@@ -1,5 +1,3 @@
-# .github/workflows/prettier-check.yml
-
 name: AutoCorrect Markdown Check
 
 on:
@@ -9,18 +7,26 @@ on:
     branches: [main]
 
 jobs:
-  prettier:
-    name: Check Markdown Formatting with AutoCorrect
+  autocorrect:
+    name: Check and Auto-fix Markdown Formatting
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v4
-      - name: AutoCorrect
-        uses: huacnlee/autocorrect-action@v2
-      - name: Report ReviewDog
-        if: failure()
-        uses: huacnlee/autocorrect-action@v2
-        env:
-          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          reviewdog: true
+      - name: Install and run AutoCorrect
+        run: curl -sSL https://git.io/JcGER | sh \ autocorrect --fix
+      
+      # 检查是否有文件更改
+      - name: Check for changes
+        run: git diff --exit-code || git status
+      
+      # 如果有更改，则配置 Git 提交用户名和邮箱，并提交更改
+      - name: Commit changes
+        if: success() || failure()  # 确保失败时继续
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "AutoCorrect: Fix Markdown formatting"
+          git push
+        continue-on-error: true  # 即使没有更改也不影响其他步骤

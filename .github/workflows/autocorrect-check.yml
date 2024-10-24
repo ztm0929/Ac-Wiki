@@ -34,7 +34,7 @@ jobs:
 
       # 如果有更改，则配置 Git 提交用户名和邮箱，并提交更改
       - name: Commit changes
-        if: success()
+        if: failure()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

@@ -1,10 +1,13 @@
 # <div align='center' ><font size='140'>✨Ac Wiki</font></div>
 
-> **<div align='center'> <font size='70'>💕属于大学生群体的真·青年大学习</font></div>**
+**<div align='center'> <font size='70'>💕属于大学生群体的真·青年大学习</font></div>**
 
-> **<div align='center' ><font size='50'>AcWiki 维护组 及全体用户用❤️‍🔥制作</font></div>** > **<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
+> **<div align='center' ><font size='50'>AcWiki 维护组 及全体用户用❤️‍🔥制作</font></div>**
 
-> **<div align='center' ><font size='50'>🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</font></div>** > **<div align='center' ><font size='50'>🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
+**<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
+
+> **<div align='center' ><font size='50'>🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</font></div>**
+> **<div align='center' ><font size='50'>🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
 
 ---
 
@@ -14,13 +17,13 @@
 
 #### 1.2. 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与“AcFun”等并无主观或客观上的联系
 
-#### 1.3. 本项目更新的信息 / 内容 / 文件等资料，可能来自于各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，其他来源包括维护者们本人或群友们的经验分享，我们秉持尊重原则，尽可能注明引用来源，同时也提醒使用者对信息进行一定的辨别本项目是参考建议性的而非说教性的，所有的内容仅供参考而非命令，您并不需要完全遵守这些内容，它也不一定完全适用于您，总之，请根据个人实际情况选用
+#### 1.3. 本项目更新的信息 / 内容 / 文件等资料，可能来自于贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，尽可能注明引用来源,若侵犯到您的版权，请与我们联系
 
-#### 1.4. 基于本项目的性质，更新频率及生命周期并不能保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家用户参与到项目的维护与编写中，这样才可能使项目稳定的维持下去
+#### 1.4. 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与编写中，这样才可能使项目稳定的维持下去
 
-#### 1.5. [频道关联群组](https://t.me/AcFourm) 用作维护者与用户交流的场所，欢迎建言献策，友好沟通，群内交流并无过多约束，保持一个正常人应有的道德水平即可
+#### 1.5. [频道关联群组](https://t.me/AcFourm) 用作维护组与用户交流的场所，欢迎建言献策，友好沟通，群内交流并无过多约束，保持一个正常人应有的道德水平即可
 
-#### 1.6. 本项目并不局限于此平台，为了维护方便，我们会积极考虑建立各式网站等，后期可能会迁移已有的更新内容
+#### 1.6. 本项目并不局限于此平台，考虑到使用者群体，我们后期会积极建立各式网站等，并会迁移已有的更新内容
 
 ---
 
@@ -30,22 +33,33 @@
 
 - ### [学生优惠](https://github.com/Ac-Wiki/AcWiKi/blob/main/01-student-discounts/README.md)
 - ### 生活常识
+- **入职须知**
+- **正确维权**
+- **恋爱前置** - **学会爱自己**
+- **脱单技巧**
 
 ## 2.2. 学术技能
 
-- ### [检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)
-- ### 工具平台
-  - [效率软件](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)
-  - **Android**
-    - [加密通讯](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)
-  - **校园应用**
-    - [风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)
-    - [珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)
+### 方法论
+ - **[高效检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)**
+ - **学会撰写论文**
+ - **[计算机基础技能]**
+### 工具平台
+  - **获取资源**
+  - **[提升效率](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
+  - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
+    #### 校园应用
+    - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**
+    - **[珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)**
 
 ## 2.3. 考赛介绍
+- **学科评级**
+- **专业技能**
+- **学科竞赛**
 
 ## 2.4. 方法总结
-
+- **规划时间**
+- **学习技巧**
 ## 2.5. 待补充
 
 ---

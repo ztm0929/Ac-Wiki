@@ -40,6 +40,9 @@
   - [效率软件](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)
   - **Android**
     - [加密通讯](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)
+  - **奇技淫巧**
+    - [刷校园跑](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)
+    - [刷课](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)
 
 ## 2.3. 考赛介绍
 

@@ -7,9 +7,9 @@
 
 ## 🚅旅游
 
-- [铁路12306](https://kyfw.12306.cn/otn/gonggao/student.html)：具体详见官方文件；
+- [铁路 12306](https://kyfw.12306.cn/otn/gonggao/student.html)：具体详见官方文件；
 
-- [华住会](https://www.hworld.com/)：全国8.8折；周日/周一学校周边酒店75折；跨城旅游连住两晚75折，具体操作详见华住会公众号[推文](https://mp.weixin.qq.com/s/YftM7f7WR2JQQPxx5godwg)，点击领取后进行学生认证，填写学校即可；
+- [华住会](https://www.hworld.com/)：全国 8.8 折；周日/周一学校周边酒店 75 折；跨城旅游连住两晚 75 折，具体操作详见华住会公众号[推文](https://mp.weixin.qq.com/s/YftM7f7WR2JQQPxx5godwg)，点击领取后进行学生认证，填写学校即可；
 
 ## 🏪购物
 
@@ -17,11 +17,11 @@
 
 ## 🍽️餐饮
 
-- 海底捞：支付宝内进行学生认证，完成后享受海底捞门店69折优惠，暂时没有官方说明文件；
+- 海底捞：支付宝内进行学生认证，完成后享受海底捞门店 69 折优惠，暂时没有官方说明文件；
 
 ## 🎵音乐& 🎞️影视
 
-- [Apple Music](https://www.apple.com/apple-music/#plans)：Apple的音乐流媒体服务，相比个人普通版**优惠$5/月**，实付$5.99/月（美区为例）;
+- [Apple Music](https://www.apple.com/apple-music/#plans)：Apple 的音乐流媒体服务，相比个人普通版**优惠$5/月**，实付$5.99/月（美区为例）;
 - [网易云音乐](https://y.music.163.com/g/m/at/daydayup230505Astudyup?page=2ade783a2638439591ca02a78c0f85ca&extChannel=sms-3)：可低价开通黑胶会员，相比普通版**优惠¥8/月左右**；
 -
 
@@ -29,30 +29,30 @@
 
 ## 🖥️开发
 
-- [Azure](https://azure.microsoft.com/zh-cn/free/students/)：Microsoft旗下的开发者云服务平台，**对教育订阅每12月提供$100的免费额度**，以及部分免费服务；
+- [Azure](https://azure.microsoft.com/zh-cn/free/students/)：Microsoft 旗下的开发者云服务平台，**对教育订阅每 12 月提供$100 的免费额度**，以及部分免费服务；
   **[申请须知](https://www.bilibili.com/read/cv22794294/)**
 - [GitHub Copilot](https://github.com/features/copilot/plans?cft=copilot_li.features_copilot)：结对编程助手;
-- [GitHub学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月；
-- [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在GitHub学生开发者资源包中;
+- [GitHub 学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月；
+- [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在 GitHub 学生开发者资源包中;
 - [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
-- [通义灵码](https://tongyi.aliyun.com/lingma/)：阿里云开发的Copilot平替，如果无法申请github学生认证的可以试试
+- [通义灵码](https://tongyi.aliyun.com/lingma/)：阿里云开发的 Copilot 平替，如果无法申请 github 学生认证的可以试试
 
 ## 📒笔记
 
-- [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费体验Plus计划**，价值$10/月；
+- [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费体验 Plus 计划**，价值$10/月；
 - [语雀文案](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划;
-- [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在GitHub学生开发者资源包中，**免费体验Pro功能**，价值$10/月；
+- [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在 GitHub 学生开发者资源包中，**免费体验 Pro 功能**，价值$10/月；
 
 ## 🎨设计
 
 - [八爪鱼数据采集器](https://www.bazhuayu.com/education)：国内较知名的图形化数据采集器，具体优惠方式可能有歧义，待确认；
-- [Figma](https://www.figma.com/education/)：知名的设计协作工具，**免费体验Professional层级**，价值$15/月；
+- [Figma](https://www.figma.com/education/)：知名的设计协作工具，**免费体验 Professional 层级**，价值$15/月；
 
 _共计节省约￥400/月_
 
 # 📱硬件设备
 
-- [Apple相关](https://www.apple.com/education/)：[UNiDAYS](https://www.myunidays.com/)认证通过后即可作为学生身份访问[教育商店](https://www.apple.com.cn/cn-edu/shop)，优惠价格约￥800或更多，以具体规格型号为准；
+- [Apple 相关](https://www.apple.com/education/)：[UNiDAYS](https://www.myunidays.com/)认证通过后即可作为学生身份访问[教育商店](https://www.apple.com.cn/cn-edu/shop)，优惠价格约￥800 或更多，以具体规格型号为准；
 
 # 🔗参考链接
 

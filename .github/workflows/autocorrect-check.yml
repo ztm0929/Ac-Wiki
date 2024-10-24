@@ -14,7 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Install and run AutoCorrect
-        run: curl -sSL https://git.io/JcGER | sh \ autocorrect --fix
+        run: | 
+          curl -sSL https://raw.githubusercontent.com/huacnlee/autocorrect/main/install | sh
+          autocorrect --fix
       
       # 检查是否有文件更改
       - name: Check for changes

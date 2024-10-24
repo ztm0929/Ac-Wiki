@@ -4,9 +4,13 @@ name: Prettier Markdown Check
 
 on:
   push:
-    branches: [main]
+    branches: ["**"]
+    paths:
+      - "**/*.md"
   pull_request:
-    branches: [main]
+    branches: ["**"]
+    paths:
+      - "**/*.md"
 
 jobs:
   prettier:

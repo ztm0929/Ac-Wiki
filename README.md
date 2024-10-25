@@ -6,8 +6,8 @@
 
 **<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
 
->  **<div align='center' ><font size='50'> 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！！</font></div>**
-**</font></div>** > **<div align='center' ><font size='50'> 🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
+> **<div align='center' ><font size='50'> 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！！</font></div>**
+> **</font></div>** > **<div align='center' ><font size='50'> 🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
 
 ---
 
@@ -65,7 +65,6 @@
 - **专业技能**
 - **学科竞赛**
 
-
 ## 2.3. 待补充
 
 ---
@@ -100,6 +99,6 @@
 
 ### 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (\*´▽｀)ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (\*´▽｀) ノノ
 
 [![贡献者](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)

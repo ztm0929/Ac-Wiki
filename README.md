@@ -6,8 +6,7 @@
 
 **<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
 
-> **<div align='center' ><font size='50'> 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！！</font></div>**
-> **</font></div>** > **<div align='center' ><font size='50'> 🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
+> **<div align='center' ><font size='50'> 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！！</font></div>** > **</font></div>** > **<div align='center' ><font size='50'> 🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
 
 ---
 

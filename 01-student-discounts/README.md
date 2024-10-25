@@ -37,6 +37,17 @@
 - [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
 - [通义灵码](https://tongyi.aliyun.com/lingma/)：阿里云开发的 Copilot 平替，如果无法申请 github 学生认证的可以试试
 
+> [!TIP]
+>
+> <details>
+> <summary>GitHub学生包申请注意事项</summary>
+> 
+> - 尽量使用edu邮箱进行申请  
+> - 申请过程中会定位，请尽可能在学校位置
+> - 上传证件可上传学信网验证报告(翻译件)
+> - 多试几次
+> </details>
+
 ## 📒笔记
 
 - [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费体验 Plus 计划**，价值$10/月；

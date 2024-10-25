@@ -35,12 +35,11 @@
 - [GitHub 学生开发者资源包](https://education.github.com/pack)中，**强烈推荐**，价值$10/月；
 - [GitHub Pro](https://docs.github.com/zh/get-started/learning-about-github/githubs-plans#github-pro)：代码协作平台，包含在 GitHub 学生开发者资源包中;
 - [Jetbrains](https://www.jetbrains.com/zh-cn/community/education/#students)：打开界面后往下拉找到立刻申请按钮点击，之后按照网站需求填写信息即可（需要有学生邮箱）
-- [通义灵码](https://tongyi.aliyun.com/lingma/)：阿里云开发的 Copilot 平替，如果无法申请 github 学生认证的可以试试
 
 ## 📒笔记
 
 - [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费体验 Plus 计划**，价值$10/月；
-- [语雀文案](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划;
+- [语雀文案](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划，**免费体验专业会员**（或超级会员），价值¥99/年，;
 - [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在 GitHub 学生开发者资源包中，**免费体验 Pro 功能**，价值$10/月；
 
 ## 🎨设计

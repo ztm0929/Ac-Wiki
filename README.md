@@ -53,7 +53,7 @@
 ### 工具平台
 
 - **获取资源**
-- **[效率优化](https://github.com/Ac2xi-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
+- **[效率优化](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
 - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
   #### 校园应用
   - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**

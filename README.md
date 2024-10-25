@@ -99,6 +99,6 @@
 
 ### 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (\*´▽｀)ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (\*´▽｀) ノノ
 
 [![Contributors](https://contributors-img.web.app/image?repo=Ac-Wiki/AcWiKi&max=105&columns=15)](https://github.com/Ac-Wiki/AcWiKi/graphs/contributors)

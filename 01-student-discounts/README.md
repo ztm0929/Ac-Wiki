@@ -43,6 +43,10 @@
 - [语雀文案](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划;
 - [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在 GitHub 学生开发者资源包中，**免费体验 Pro 功能**，价值$10/月；
 
+## 📑办公
+
+- [Microsoft 365 个人版](https://www.microsoft.com/zh-cn/microsoft-365/college-student-pricing)：著名办公套件，包含1T的OneDrive空间。学生计划￥18/月(原计划￥39/月)
+
 ## 🎨设计
 
 - [八爪鱼数据采集器](https://www.bazhuayu.com/education)：国内较知名的图形化数据采集器，具体优惠方式可能有歧义，待确认；

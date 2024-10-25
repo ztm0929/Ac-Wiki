@@ -31,6 +31,8 @@
 ## 2.1. 生活经验
 
 - ### [学生优惠](https://github.com/Ac-Wiki/AcWiKi/blob/main/01-student-discounts/README.md)
+- ### 圆梦帮扶
+- **奖/助学金申请**
 - ### 生活常识
 - **保持健康**
 - **出境须知**

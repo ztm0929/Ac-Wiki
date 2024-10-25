@@ -30,6 +30,7 @@
 # 🎓学习&软件服务
 
 ## 🖥️开发
+
 - 阿里/腾讯云 对学生群体有低价服务计算资源支持，详见官网学生优惠；
 - [Azure](https://azure.microsoft.com/zh-cn/free/students/)：Microsoft 旗下的开发者云服务平台，**对教育订阅每 12 月提供$100 的免费额度**，以及部分免费服务；
   **[申请须知](https://www.bilibili.com/read/cv22794294/)**
@@ -51,7 +52,7 @@
 
 ## 📒笔记
 
-- [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费教育Plus 计划**，价值$10/月；
+- [Notion](https://www.notion.so/product/notion-for-education)：知名的笔记协作产品，**免费教育 Plus 计划**，价值$10/月；
 - [语雀文案](https://www.yuque.com/yuque/welfare/edu#zLvwf): 语雀个人版公益计划，**免费体验专业会员**（或超级会员），价值¥99/年，;
 - [Termius](https://termius.com/education)：现代美观的终端管理工具，包含在 GitHub 学生开发者资源包中，**免费体验 Pro 功能**，价值$10/月；
 

@@ -6,8 +6,7 @@
 
 **<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
 
-> **<div align='center' ><font size='50'>🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</font></div>**
-> **<div align='center' ><font size='50'>🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
+> **<div align='center' ><font size='50'>🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</font></div>** > **<div align='center' ><font size='50'>🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
 
 ---
 
@@ -17,7 +16,7 @@
 
 #### 1.2. 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与“AcFun”等并无主观或客观上的联系
 
-#### 1.3. 本项目更新的信息 / 内容 / 文件等资料，可能来自于贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，尽可能注明引用来源,若侵犯到您的版权，请与我们联系
+#### 1.3. 本项目更新的信息 / 内容 / 文件等资料，可能来自于贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，尽可能注明引用来源，若侵犯到您的版权，请与我们联系
 
 #### 1.4. 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与编写中，这样才可能使项目稳定的维持下去
 
@@ -41,25 +40,31 @@
 ## 2.2. 学术技能
 
 ### 方法论
- - **[高效检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)**
- - **学会撰写论文**
- - **[计算机基础技能]**
+
+- **[高效检索信息](https://github.com/Ac-Wiki/AcWiKi/blob/main/02-search-platforms/README.md)**
+- **学会撰写论文**
+- **[计算机基础技能]**
+
 ### 工具平台
-  - **获取资源**
-  - **[提升效率](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
-  - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
-    #### 校园应用
-    - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**
-    - **[珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)**
+
+- **获取资源**
+- **[提升效率](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
+- **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
+  #### 校园应用
+  - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**
+  - **[珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)**
 
 ## 2.3. 考赛介绍
+
 - **学科评级**
 - **专业技能**
 - **学科竞赛**
 
 ## 2.4. 方法总结
+
 - **规划时间**
 - **学习技巧**
+
 ## 2.5. 待补充
 
 ---

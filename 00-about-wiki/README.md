@@ -1,5 +1,5 @@
 > [!NOTE]
-> Wiki，简体通常译为维基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion等非自建站点）供Ac-Wiki参考。
+> Wiki，简体通常译为维基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
 >
 > 分为静态站点、动态站点，以及其他非自建站点三大类，分类内项目以首字母排序，欢迎大家指正或补充～
 
@@ -7,7 +7,7 @@
 
 - http://colleges.chat 大学生活质量指北，开源，MkDocs
 
-- https://csdiy.wiki CS自学指南，开源，MkDocs
+- https://csdiy.wiki CS 自学指南，开源，MkDocs
 
 - https://ctf-wiki.org 网络安全相关知识，开源，MkDocs
 
@@ -17,7 +17,7 @@
 
 # 动态站点
 
-- https://wiki.linux.do Linux.do的专属知识站，未知
+- https://wiki.linux.do Linux.do 的专属知识站，未知
 
 - https://www.wikipedia.org 维基百科全球站点，开源，MediaWiki
 

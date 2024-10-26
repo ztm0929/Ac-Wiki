@@ -16,10 +16,15 @@
 > 3. 你的密码是不是只存储在浏览器里？
 ### 开源密码强度检测软件：
 ![](https://f-droid.org/repo/com.cyb3rko.pazzword/en-US/icon_4TlGVCx28WCvT9UWJJd3LIJnGxbG0XnQgrMEhJKROYc=.png)
+
 **Pazzword**
+
 [**Github**](https://github.com/cyb3rko/pazzword)
+
 [**F-Droid**](https://f-droid.org/zh_Hant/packages/com.cyb3rko.pazzword/index.html)
+
 [**G-Play**](https://play.google.com/store/apps/details?id=com.cyb3rko.pazzword&hl=zh)
+
 输入你常用的(不放心可以输修改后的)密码，
 ### **可以得到诸如**：
 > 1.  密码是否安全
@@ -43,8 +48,11 @@
 ![](https://www.keepassdx.com/assets/img/keepassdx.svg)
 ## KeePassDX
 [**F-Droid**](https://f-droid.org/packages/com.kunzisoft.keepass.libre/)
+
 [**G-Play**](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free)
+
 [**Github**](https://github.com/Kunzisoft/KeePassDX/releases)
+
 ### 优点：
 * 安全性高
   * 数据不存储在云端，而是在本地仓库![OD8znB.png](https://ooo.0x0.ooo/2024/10/26/OD8znB.png)

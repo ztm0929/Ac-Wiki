@@ -1,12 +1,10 @@
-# <div align='center' ><font size='140'>✨Ac Wiki</font></div>
+<h1 align='center' >✨Ac Wiki</h1>
 
-**<div align='center'> <font size='70'>💕属于大学生群体的真·青年大学习</font></div>**
-
-> **<div align='center' ><font size='50'>AcWiki 维护组 及全体用户用❤️‍🔥制作</font></div>**
-
-**<div align='center' ><font size='50'>本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</font></div>**
-
-> **<div align='center' ><font size='50'> 🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！！</font></div>** > **</font></div>** > **<div align='center' ><font size='50'> 🚀我们衷心祝福您学业美满，人生幸福！</font></div>**
+> **<h3 align='center'>💕属于大学生群体的真·青年大学习</h3>**
+> **<h3 align='center' >AcWiki 维护组 及全体用户用❤️‍🔥制作</h3>**
+> **<h3 align='center' >本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</h3>**
+> **<h3 align='center' >🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</h3>**
+> **<h3 align='center' >🚀我们衷心祝福您学业美满，人生幸福！</h3>**
 
 ---
 
@@ -75,14 +73,14 @@
 # 4. 💁联系我们
 
 <a href="https://t.me/AcWiki">
- <img 
+ <img
   alt="Static Badge"
   src="https://img.shields.io/badge/Telegram Channel-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=purple&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki"
  />
 </a>
 
 <a href="https://t.me/AcFourm">
- <img 
+ <img
   alt="Static Badge"
   src="https://img.shields.io/badge/Telegram Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=orange&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki"
  />

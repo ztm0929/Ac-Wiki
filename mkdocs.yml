@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://mydomain.org
+site_name: AcWiki 大学生的百科全书
+# site_url: https://acwiki.live
 theme:
   name: material
   logo: assets/logo.jpg

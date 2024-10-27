@@ -26,4 +26,7 @@ extra:
     - icon: simple/telegram
       link: https://t.me/AcForum
 
+extra_javascript:
+  - js/extra.js
+
 copyright: Copyright &copy; 2024 AcWiki

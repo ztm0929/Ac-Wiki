@@ -1,10 +1,6 @@
 <h1 align='center' >✨Ac Wiki</h1>
 
-> **<h3 align='center'>💕属于大学生群体的真·青年大学习</h3>**
-> **<h3 align='center' >AcWiki 维护组 及全体用户用❤️‍🔥制作</h3>**
-> **<h3 align='center' >本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</h3>**
-> **<h3 align='center' >🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</h3>**
-> **<h3 align='center' >🚀我们衷心祝福您学业美满，人生幸福！</h3>**
+> **<h3 align='center'>💕属于大学生群体的真·青年大学习</h3>** > **<h3 align='center' >AcWiki 维护组 及全体用户用❤️‍🔥制作</h3>** > **<h3 align='center' >本项目旨在努力帮助大学生群体学习掌握各项技能，助力该群体顺利完成学业与社会的衔接</h3>** > **<h3 align='center' >🎉本项目维护组随时欢迎您的参与，入组/Pr/issue 大欢迎！</h3>** > **<h3 align='center' >🚀我们衷心祝福您学业美满，人生幸福！</h3>**
 
 ---
 
@@ -54,8 +50,8 @@
 - **获取资源**
 - **[效率优化](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/效率软件.md)**
   #### 网络安全
-   - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
-   - **[密码管理](https://github.com/KipJayChou/AcWiKi/blob/main/03-tools/cyber%20security/password_manage1.md)**
+  - **[通讯安全](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/Android/加密通讯.md)**
+  - **[密码管理](https://github.com/KipJayChou/AcWiKi/blob/main/03-tools/cyber%20security/password_manage1.md)**
   #### 校园应用
   - **[风驰电掣](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/campus-running.md)**
   - **[珍惜时间](https://github.com/Ac-Wiki/AcWiKi/blob/main/03-tools/qi-ji-yin-qiao/pointless-courses.md)**

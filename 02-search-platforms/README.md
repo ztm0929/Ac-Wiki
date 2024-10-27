@@ -47,7 +47,7 @@
 > 3. `allintitle`: 标题包含多个搜索词
 > 4. `filetype`: 限定搜索结果的文件类型，如 filetype：pdf
 > 5. `intext`: 文章内容包含搜索词
-  6. `site`: 从指定网站搜索内容，如 site:github.com 即搜索结果只显示github.com及其子域名下的匹配内容
+> 6. `site`: 从指定网站搜索内容，如 site:github.com 即搜索结果只显示 github.com 及其子域名下的匹配内容
 > 7. `"xxxx"`: 准确匹配搜索词，搜索结果必须包含搜索词
 >    新手推荐插件：<https://github.com/penn201500/GoogleAdvSearchHint>
 >

@@ -1,0 +1,29 @@
+site_name: My Docs
+site_url: https://mydomain.org
+theme:
+  name: material
+  logo: assets/logo.jpg
+  favicon: assets/logo.jpg
+  features:
+    - navigation.footer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+
+extra:
+  social:
+    - icon: simple/telegram
+      link: https://t.me/AcWiki
+    - icon: simple/telegram
+      link: https://t.me/AcForum
+
+copyright: Copyright &copy; 2024 AcWiki

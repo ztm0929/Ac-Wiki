@@ -17,6 +17,8 @@
 
 # 动态站点
 
+- https://www.wikihow.com 一个类似于生活百科的站点，闭源，定制版MediaWiki
+
 - https://wiki.linux.do Linux.do 的专属知识站，未知
 
 - https://www.wikipedia.org 维基百科全球站点，开源，MediaWiki

@@ -24,7 +24,7 @@ extra:
     - icon: simple/telegram
       link: https://t.me/AcWiki
     - icon: simple/telegram
-      link: https://t.me/AcForum
+      link: https://t.me/AcFourm
 
 extra_javascript:
   - js/extra.js

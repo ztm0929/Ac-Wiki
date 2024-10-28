@@ -28,7 +28,7 @@
 
 ## 2.1. 生活经验
 
-- ### [学生优惠](../01-student-discounts/student-discounts)
+- ### [学生优惠](/AcWiKi/01-student-discounts/student-discounts)
 - ### 圆梦帮扶
 - **奖/助学金申请**
 - ### 生活常识
@@ -52,13 +52,13 @@
 ### 工具平台
 
 - **获取资源**
-- **[效率优化](/03-tools/tools)**
+- **[效率优化](/AcWiKi/03-tools/tools)**
   #### 网络安全
-  - **[通讯安全](../03-tools/Android/加密通讯)**
-  - **[密码管理](../03-tools/cyber%20security/password_manage1)**
+  - **[通讯安全](/AcWiKi/03-tools/Android/加密通讯)**
+  - **[密码管理](/AcWiKi/03-tools/cyber%20security/password_manage1)**
   #### 校园应用
-  - **[风驰电掣](/03-tools/qi-ji-yin-qiao/campus-running)**
-  - **[珍惜时间](/03-tools/qi-ji-yin-qiao/pointless-courses)**
+  - **[风驰电掣](/AcWiKi/03-tools/qi-ji-yin-qiao/campus-running)**
+  - **[珍惜时间](/AcWiKi/03-tools/qi-ji-yin-qiao/pointless-courses)**
 
 ### 考赛介绍
 

@@ -1,117 +1,115 @@
-> [!NOTE]
->
-> _Man is a tool using animal. Without tools, he is nothing. With tools, he is all._
->
-> 本篇主要关注操作系统上的效率软件。
->
-> 欢迎大家指正或补充～
+???+ note
+    本篇主要关注操作系统上的效率软件。
+    欢迎大家指正或补充～
 
-# Windows
+# **效率软件**
 
-## [Alfred](https://www.alfredapp.com/)
+## Windows
+
+### [Alfred](https://www.alfredapp.com/)
 
 启动器 + 文件搜索工具 + Clipboard 管理 +...
 这是一款收费软件，更多用法按需[探索](https://ihtcboy.com/2020/02/09/2020-02-09_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84macOS%E7%B3%BB%E5%88%97%EF%BC%9A%E9%AB%98%E6%95%88Alfred%E8%BF%9B%E9%98%B6/)
 
-## [爱传送](https://mfiles.maokebing.com/)
+### [爱传送](https://mfiles.maokebing.com/)
 
-局域网多端传送/剪贴板同步软件，支持iOS，Android，Windows，MacOs
+局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
 
-## [Everything](https://www.voidtools.com/zh-cn/downloads/)
+### [Everything](https://www.voidtools.com/zh-cn/downloads/)
 
 基于名称快速定位文件和文件夹，Windows 中搜索文件非常好用！
 
-## [Geek](https://geekuninstaller.com/download)
+### [Geek](https://geekuninstaller.com/download)
 
 知名的卸载工具，免费版就够用了。
 
-## [qttabbar](https://indiff.github.io/qttabbar/README_zh.html)
+### [qttabbar](https://indiff.github.io/qttabbar/README_zh.html)
 
-资源管理器QTTabBar是一款可以让你在Windows资源管理器中使用Tab多标签功能的小工具。
+资源管理器 QTTabBar 是一款可以让你在 Windows 资源管理器中使用 Tab 多标签功能的小工具。
 
-## [Total Commander](https://www.ghisler.com/)
+### [Total Commander](https://www.ghisler.com/)
 
 Windows 下的文件管理工具，比系统自带的文件管理好用，强烈推荐！
 
-## [Snipaste](https://zh.snipaste.com/)
+### [Snipaste](https://zh.snipaste.com/)
 
 截图工具，很好用。现在开始收费了
 
-## [Pixpin](https://pixpinapp.com/)
+### [Pixpin](https://pixpinapp.com/)
 
 Snipaste 所拥有的免费/付费功能，Pixpin 免费版几乎都有。免费功能非常丰富，包括丰富的标注工具、OCR、贴图等，翻译功能需要付费，不过 Pixpin 的免费版可以说算是 Windows 端免费截图工具中功能最丰富的了。
 
-## [微软的 150 款免费软件](https://www.appinn.com/ultimate-list-of-free-windows-software-from-microsoft/)
+### [微软的 150 款免费软件](https://www.appinn.com/ultimate-list-of-free-windows-software-from-microsoft/)
 
 via 小众软件
 
-## [小黑课堂计算机题库](http://124.222.229.85/DuiHuanMaWeb/admin/allsofts.php)
+### [小黑课堂计算机题库](http://124.222.229.85/DuiHuanMaWeb/admin/allsofts.php)
 
-涵盖了一二级的WPS、Ms Office，二级python、C语言，三级网络技术题库
+涵盖了一二级的 WPS、Ms Office，二级 python、C 语言，三级网络技术题库
 
-# MacOS
+## MacOS
 
-## [Raycast](https://www.raycast.com/)
+### [Raycast](https://www.raycast.com/)
 
 快捷启动器，内置文件搜索、窗口管理、剪贴板管理等系统增强工具，可扩展支持翻译、AI 问答、信息查询、项目管理、App 控制等各种功能
 内置 AI、工作空间等部分功能收费（免费已经非常好用啦）
 
-## [Ice](https://github.com/jordanbaird/Ice)
+### [Ice](https://github.com/jordanbaird/Ice)
 
 菜单栏项目被刘海遮住啦？用这个就可以解决。可隐藏或悬浮显示菜单栏项目，开源免费。
 类似的软件还有 Bartender（收费）等
 
-## [Bob](https://bobtranslate.com/)
+### [Bob](https://bobtranslate.com/)
 
 快捷翻译+OCR 工具，支持各翻译 API 及插件功能，还可以一键复制为蛇形、驼峰、短横线形式。免费版存在每日次数限制。
 
-## [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix)
+### [Mac Mouse Fix](https://github.com/noah-nuebling/mac-mouse-fix)
 
 为系统提供反转鼠标滚轮、平滑滚动等功能。同时支持鼠标按键的按下、按下并滚动、按下并拖拽功能自定义。开源免费。
 
-## [Better Display](https://github.com/waydabber/BetterDisplay)
+### [Better Display](https://github.com/waydabber/BetterDisplay)
 
 为扩展屏幕开启 HiDPI 支持，管理显示器配置覆盖，允许亮度和颜色控制等功能，同时还提供 XDR/HDR 亮度升级、虚拟屏幕等高级功能。基础功能免费
 
-## [Runcat](https://kyome.io/runcat/index.html?lang=en)
+### [Runcat](https://kyome.io/runcat/index.html?lang=en)
 
 在控制栏显示一只奔跑的小猫，包含 CPU、内存占用、存储情况等状态显示功能。类似的状态监控软件还有 stats(开源免费)、iStat Menus 等
 
-## [LongShot](https://longshot.chitaner.com/)
+### [LongShot](https://longshot.chitaner.com/)
 
 截屏、OCR、测量、钉屏、滚动捕捉、步骤注释......收费
 
-## [keka](https://www.keka.io/en/)
+### [keka](https://www.keka.io/en/)
 
 全能文件压缩/解压工具，开源免费（部分渠道收费）
 
-## [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/)
+### [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/)
 
 多功能、轻量化、高性能的开源 macOS 屏幕录制工具，相比于自带录屏工具添加了录制声音的支持。
 
-## [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+### [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 
 定制你自己的按键。开源免费
 
-## [Keyboard maestro](https://www.keyboardmaestro.com/main/)
+### [Keyboard maestro](https://www.keyboardmaestro.com/main/)
 
 超好用的快捷键 + 按键触发软件。收费，有试用
 
-## [Rectangle](https://github.com/rxhanson/Rectangle)
+### [Rectangle](https://github.com/rxhanson/Rectangle)
 
 窗口管理工具，日常使用开源版本够用了，也可以付费升级到 pro
 
-# Android
+## Android
 
-## [WakeUp 课程表](https://www.wakeup.fun/)
+### [WakeUp 课程表](https://www.wakeup.fun/)
 
 小巧强大、简洁无广告的课程表 App，适配全国多所高校，可以一键抓取学校课表信息，并支持桌面小组件、导出到系统日历等功能。该软件也支持 iOS 端。
 
-## [GameViewer 远程](https://gv.163.com/)
+### [GameViewer 远程](https://gv.163.com/)
 
 流畅、好用、延迟低的远程操控软件，可以用你的移动设备远程操控电脑。功能丰富，对远程游戏适配好，最重要的是目前免费。目前支持 Android、iOS、MacOS 和 Windows。
 
-## [GKD](https://gkd.li/)
+### [GKD](https://gkd.li/)
 
 一款基于无障碍功能实现的广告跳过工具，开源于[Github](https://github.com/gkd-kit/gkd)。
 
@@ -123,26 +121,37 @@ https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIso
 
 更多规则，可以在 Github 上查找。
 
-## [禅定空间](https://www.coolapk.com/apk/com.yunlian.meditationmode)
+### [禅定空间](https://www.coolapk.com/apk/com.yunlian.meditationmode)
 
 手机锁机软件，提供定时锁机，使用手机数据统计，番茄时钟等功能
 
 相似产品 [Zen Space](https://play.google.com/store/apps/details?id=com.oneplus.brickmode) (OnePlus 预装，更为简洁) [远离手机](https://www.coolapk.com/apk/com.lijianqiang12.silent)
 
-## [滴答清单](https://www.coolapk.com/apk/cn.ticktick.task)
+### [滴答清单](https://www.coolapk.com/apk/cn.ticktick.task)
 
 提供待办事项，日程，番茄时钟，习惯追踪等功能。对于待办事项，提供清单，标签，看板，时间线，四象限等分类方式
 
 海外版本为 [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 
-# Linux
+## Linux
 
-## [LazyVim](https://github.com/LazyVim/LazyVim?tab=readme-ov-file)
+### [LazyVim](https://github.com/LazyVim/LazyVim?tab=readme-ov-file)
 
 Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Linux 环境使用。
 
-# Cross-platform apps
+## Cross-platform apps
 
-## [localsend](https://github.com/localsend/localsend)
+### [localsend](https://github.com/localsend/localsend)
 
 LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
+
+## 浏览器插件
+
+### [YouTube™ 双字幕](https://chromewebstore.google.com/detail/youtube-%E5%8F%8C%E5%AD%97%E5%B9%95/hkbdddpiemdeibjoknnofflfgbgnebcm?hl=zh-CN)
+
+YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
+
+### [B站空降助手](https://chromewebstore.google.com/detail/b%E7%AB%99%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd )
+
+精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，所有人都会从您的贡献中受益。
+

@@ -1,9 +1,12 @@
-> [!NOTE]
-> Wiki，简体通常译为维基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
->
-> 分为静态站点、动态站点，以及其他非自建站点三大类，分类内项目以首字母排序，欢迎大家指正或补充～
+???+ note
 
-# 静态站点
+    Wiki，简体通常译为维基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
+
+    分为静态站点、动态站点，以及其他非自建站点三大类，分类内项目以首字母排序，欢迎大家指正或补充～
+
+# **Wiki**
+
+## 静态站点
 
 - [http://colleges.chat](http://colleges.chat) 大学生活质量指北，开源，MkDocs
 
@@ -15,7 +18,7 @@
 
 - 欢迎按照类似格式补充～
 
-# 动态站点
+## 动态站点
 
 - [https://www.wikihow.com](https://www.wikihow.com) 一个类似于生活百科的站点，闭源，定制版 MediaWiki
 
@@ -27,17 +30,17 @@
 
 - 欢迎按照类似格式补充～
 
-# 其他非自建站点
+## 其他非自建站点
 
 - 待补充
 
-# 参考链接
+## 参考链接
 
 - [Wiki 来源与文化](https://zh.wikipedia.org/wiki/Wiki)
 
 - [Wiki 软件列举](https://zh.wikipedia.org/wiki/Wiki%E8%BB%9F%E9%AB%94)
 
-# 联系我们
+## 联系我们
 
 - 交流群组：https://t.me/AcFourm
 

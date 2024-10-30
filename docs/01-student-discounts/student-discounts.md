@@ -26,7 +26,7 @@
 
 ### 🎵音乐& 🎞️影视
 
-- [Apple Music](https://www.apple.com/apple-music/#plans)：Apple 的音乐流媒体服务，相比个人普通版**优惠$5/月**，实付$5.99/月（美区为例）;
+- [Apple Music](https://www.apple.com/apple-music/#plans)：Apple 的音乐流媒体服务，相比个人普通版**优惠$5/月**，实付$5.99/月（美区为例）; 以国区为例实付￥6.00/月，优惠￥5.00/月。
 
 - [网易云音乐](https://y.music.163.com/g/m/at/daydayup230505Astudyup?page=2ade783a2638439591ca02a78c0f85ca&extChannel=sms-3)：可低价开通黑胶会员，相比普通版**优惠¥8/月左右**
 

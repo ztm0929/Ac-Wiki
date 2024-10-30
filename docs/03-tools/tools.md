@@ -144,3 +144,14 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 ### [localsend](https://github.com/localsend/localsend)
 
 LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
+
+## 浏览器插件
+
+### [YouTube™ 双字幕](https://chromewebstore.google.com/detail/youtube-%E5%8F%8C%E5%AD%97%E5%B9%95/hkbdddpiemdeibjoknnofflfgbgnebcm?hl=zh-CN)
+
+YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
+
+### [B站空降助手](https://chromewebstore.google.com/detail/b%E7%AB%99%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd )
+
+精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，所有人都会从您的贡献中受益。
+

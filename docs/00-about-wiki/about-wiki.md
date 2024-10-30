@@ -36,9 +36,9 @@
 
 ## 参考链接
 
-- [Wiki来源与文化](https://zh.wikipedia.org/wiki/Wiki)
+- [Wiki 来源与文化](https://zh.wikipedia.org/wiki/Wiki)
 
-- [Wiki软件列举](https://zh.wikipedia.org/wiki/Wiki%E8%BB%9F%E9%AB%94)
+- [Wiki 软件列举](https://zh.wikipedia.org/wiki/Wiki%E8%BB%9F%E9%AB%94)
 
 ## 联系我们
 

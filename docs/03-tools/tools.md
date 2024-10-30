@@ -1,6 +1,6 @@
 ???+ note
-    本篇主要关注操作系统上的效率软件。
-    欢迎大家指正或补充～
+本篇主要关注操作系统上的效率软件。
+欢迎大家指正或补充～
 
 # **效率软件**
 
@@ -151,7 +151,6 @@ LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络�
 
 YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 
-### [B站空降助手](https://chromewebstore.google.com/detail/b%E7%AB%99%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd )
+### [B 站空降助手](https://chromewebstore.google.com/detail/b%E7%AB%99%E7%A9%BA%E9%99%8D%E5%8A%A9%E6%89%8B/eaoelafamejbnggahofapllmfhlhajdd)
 
 精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，所有人都会从您的贡献中受益。
-

@@ -43,13 +43,13 @@ TOEFL 也称**托福**，是由[ETS](https://www.ets.org)举办的英语能力�
 
 #### [Hackergame](https://hack.lug.ustc.edu.cn/)
 
-Hackergame是由**中国科学技术大学**主办的信息安全相关技术类的比赛，赛制为CTF[<sup>1</sup>](https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity))类比赛，从题目中获得正确flag并获取相应积分，题目具有趣味性，且对新手具有循序渐进的引导。
+Hackergame 是由**中国科学技术大学**主办的信息安全相关技术类的比赛，赛制为 CTF[<sup>1</sup>](<https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)>)类比赛，从题目中获得正确 flag 并获取相应积分，题目具有趣味性，且对新手具有循序渐进的引导。
 
 **赛制：个人线上赛，校内校外都可参加。**
 
 赛制其他具体要求参见[QA](https://hack.lug.ustc.edu.cn/qa/)。
 
-历年题目及题解(write-ups): [USTC-Hackergame](https://github.com/USTC-Hackergame)
+历年题目及题解 (write-ups): [USTC-Hackergame](https://github.com/USTC-Hackergame)
 
 ### 程序设计竞赛
 

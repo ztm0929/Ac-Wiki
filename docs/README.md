@@ -56,6 +56,7 @@
   #### 网络安全
   - **[通讯安全](./03-tools/Android/加密通讯.md)**
   - **[密码管理](./03-tools/cyber%20security/password_manage1.md)**
+  - **[账号安全](./03-tools/cyber%20security/Authenticator.md)**
   #### 校园应用
   - **[风驰电掣](./03-tools/qi-ji-yin-qiao/campus-running.md)**
   - **[珍惜时间](./03-tools/qi-ji-yin-qiao/pointless-courses.md)**

@@ -14,7 +14,10 @@
 
 - [https://ctf-wiki.org](https://ctf-wiki.org) 网络安全相关知识，开源，MkDocs
 
+- [https://oi-wiki.org/](https://oi-wiki.org/) 算法竞赛相关知识，开源，MkDocs
+  
 - [https://survivesjtu.github.io/SJTU-Application](https://survivesjtu.github.io/SJTU-Application) 上海交通大学大学飞跃手册，开源，docsify
+
 
 - 欢迎按照类似格式补充～
 

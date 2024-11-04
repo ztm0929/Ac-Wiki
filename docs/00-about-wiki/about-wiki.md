@@ -10,9 +10,13 @@
 
 - [http://colleges.chat](http://colleges.chat) 大学生活质量指北，开源，MkDocs
 
+- [https://www.criwits.top/missing](https://www.criwits.top/missing) 你缺失的那门计算机课，未知
+
 - [https://csdiy.wiki](https://csdiy.wiki) CS 自学指南，开源，MkDocs
 
 - [https://ctf-wiki.org](https://ctf-wiki.org) 网络安全相关知识，开源，MkDocs
+
+- [https://missing-semester-cn.github.io/](https://missing-semester-cn.github.io/) 计算机教育中缺失的一课，开源，Jekyll（GitHub Pages原生）
 
 - [https://oi-wiki.org/](https://oi-wiki.org/) 算法竞赛相关知识，开源，MkDocs
   

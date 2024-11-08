@@ -31,7 +31,7 @@
 
 - [https://wiki.linux.do](https://wiki.linux.do) Linux.do 的专属知识站，未知
 
-- [https://mediawiki.org](https://mediaiwki.org) MediaWiki的官方帮助网站，开源，Mediaiwki
+- [https://mediawiki.org](https://mediawki.org) MediaWiki的官方帮助网站，开源，Mediawiki
 
 - [https://www.wikipedia.org](https://www.wikipedia.org) 维基百科全球站点，开源，MediaWiki
 

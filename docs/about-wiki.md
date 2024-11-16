@@ -1,4 +1,4 @@
-???+ note
+???+ info "Wiki"
 
     Wiki，简体通常译为维基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
 
@@ -51,6 +51,6 @@
 
 ## 联系我们
 
-- 交流群组：https://t.me/AcFourm
+- 交流群组：[t.me/AcFourm](https://t.me/AcFourm)
 
-- 交流频道：https://t.me/AcWiki
+- 交流频道：[t.me/AcWiki](https://t.me/AcWiki)

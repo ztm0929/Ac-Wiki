@@ -1,4 +1,4 @@
-???+ note
+???+ info "信息检索"
 
     搜索平台，是获取信息的一个重要入口，这里对常用的信息搜索平台做一个简单的收集汇总。以方便梳理出一个搜集有效信息资料，对学习、生活社会热点等媒体热点信息的判断体系。预计包含：信息搜索，信息存储，信息使用及判断 三个部分。本篇主要关注信息搜索部分。
 
@@ -57,7 +57,7 @@
 ??? tip "如何快速阅读英文资料"
 
     - 可以使用 google 翻译或者 deepl 翻译
-    - 或使用[沉浸式翻译](https://immersivetranslate.com/)，[Github 页面](https://github.com/immersive-translate/)
+    - 或使用[沉浸式翻译](https://immersivetranslate.com/),([Github 页面](https://github.com/immersive-translate/));[划词翻译](https://hcfy.ai/)
     - 使用增强阅读脚本 [仿生阅读](https://linux.do/t/topic/238718)
 
 #### [搜狗](https://www.sogou.com/)
@@ -93,8 +93,9 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - 热点事件，评论区信息可以看到不同立场的不同观点
 
-#### [推特](https://twitter.com/)
+#### [𝕏/推特](https://twitter.com/)
 
+- 类似微博，全球最大的微博客及社交网络服务平台之一
 - 时政内容；
 - 外国的一些生活状况，准备留学的同学可以通过这个渠道对某些信息祛魅
 
@@ -162,7 +163,7 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 
 - [Hacki](https://news.ycombinator.com) 黑客新闻平台
 - [Reddit cybersecurity](https://www.reddit.com/r/cybersecurity) Reddit 网络空间安全分区
-- [Hello CTF](hello-ctf.com) CTF 比赛指南
+- [Hello CTF](https://hello-ctf.com/) CTF 比赛指南
 
 ### 数码
 

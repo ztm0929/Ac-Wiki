@@ -1,7 +1,6 @@
 nav:
   - Home: README.md
-  - 关于Wiki:
-      - 什么是Wiki: 00-about-wiki/about-wiki.md
+  - 关于Wiki: about-wiki.md
   - 学生优惠:
       - 主要: 01-student-discounts/student-discounts.md
       - 其他:
@@ -36,7 +35,7 @@ copyright: Copyright &copy; 2024 <a href="https://github.com/Ac-Wiki/AcWiKi/" ta
 theme:
   name: material
   logo: assets/logo.jpg
-  favicon: assets/logo.jpg
+  favicon: assets/logo_clear.png
   features:
     - navigation.footer
     - content.action.edit # source edit

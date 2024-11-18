@@ -7,11 +7,6 @@
 
 ## Windows
 
-### [Alfred](https://www.alfredapp.com/)
-
-启动器 + 文件搜索工具 + Clipboard 管理 +...
-这是一款收费软件，更多用法按需[探索](https://ihtcboy.com/2020/02/09/2020-02-09_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84macOS%E7%B3%BB%E5%88%97%EF%BC%9A%E9%AB%98%E6%95%88Alfred%E8%BF%9B%E9%98%B6/)
-
 ### [爱传送](https://mfiles.maokebing.com/)
 
 局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
@@ -48,7 +43,12 @@ via 小众软件
 
 涵盖了一二级的 WPS、Ms Office，二级 python、C 语言，三级网络技术题库
 
-## MacOS
+## macOS
+
+### [Alfred](https://www.alfredapp.com/)
+
+启动器 + 文件搜索工具 + Clipboard 管理 +...
+这是一款收费软件，更多用法按需[探索](https://ihtcboy.com/2020/02/09/2020-02-09_%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84macOS%E7%B3%BB%E5%88%97%EF%BC%9A%E9%AB%98%E6%95%88Alfred%E8%BF%9B%E9%98%B6/)
 
 ### [Raycast](https://www.raycast.com/)
 

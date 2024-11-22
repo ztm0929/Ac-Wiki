@@ -14,7 +14,7 @@
 
 #### CET6
 
-#### IETLS
+#### IELTS
 
 #### [TOEFL](https://www.ets.org/toefl.html)
 

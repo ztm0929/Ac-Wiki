@@ -8,7 +8,7 @@
 - HTTPS 是一种在 Web 服务器和 Web 浏览器之间发送数据的安全方式。
 
 超文本传输协议安全 (HTTPS) 是 HTTP 的安全版本，HTTP 是用于在 Web 浏览器和网站之间发送数据的主要协议。HTTPS 经过加密，以提高数据传输的安全性。当用户传输敏感数据（例如通过登录银行账户、电子邮件服务或健康保险提供商）时，这一点尤其重要。
-任何网站都应使用 HTTPS，尤其是那些需要登录凭据的网站。在现代 Web 浏览器（例如 Chrome）中，未使用 HTTPS 的网站与使用 HTTPS 的网站的标记有所不同。URL 栏中如出现挂锁，则表示该网页是安全的。Web 浏览器非常重视 HTTPS；[Google Chrome 和其他浏览器将所有非 HTTPS 网站标记为不安全。](https://www.cloudflare.com/learning/ssl/why-use-https/)
+任何网站都应使用 HTTPS，尤其是那些需要登录凭据的网站。在现代 Web 浏览器（例如 Chrome）中，未使用 HTTPS 的网站与使用 HTTPS 的网站的标记有所不同。URL 栏中如出现挂锁，则表示该网页是安全的。Web 浏览器非常重视 HTTPS；[Google Chrome 和其他浏览器将所有非 HTTPS 网站标记为不安全。](https://www.cloudflare.com/learning/ssl/why-use-https/) </br>
 ![image](https://github.com/user-attachments/assets/7903824d-137b-4ceb-80d0-81325bbf5877)
 
 
@@ -49,7 +49,33 @@ HTTPS 阻止网站以任何在网络上窥探的人都能轻松查看的方式�
 ## 常见域名（施工中）
 
 
+## 域名（Domain Name）
 
+是互联网上用来识别和访问网站的一个易于记忆的地址。它将IP地址（一串数字）转换为人类可读的格式，比如 www.example.com。域名系统（DNS）负责将域名解析为对应的IP地址，以便用户的设备能够找到并访问相应的服务器。
+顶级域名（Top-Level Domain, TLD）：  </br>
+
+![image](https://github.com/user-attachments/assets/29a37ddd-379c-452d-98c4-1e7b43bce374)
+
+
+子域名（Subdomain）：
+
+位于域名的最左侧部分，可以自定义。例如，在subdomain.example.com中，subdomain就是子域名。
+二级域名（Second-Level Domain, SLD）：
+
+紧随子域名之后，通常是注册时选择的主要域名部分。例如，在example.com中，example是二级域名。
+顶级域名（Top-Level Domain, TLD）：
+
+位于域名的最右侧部分，分为两类：
+通用顶级域名（Generic Top-Level Domains, gTLDs）：如.com、.org、.net等。
+国家代码顶级域名（Country Code Top-Level Domains, ccTLDs）：如.cn（中国）、.us（美国）、.uk（英国）等。
+根域名（Root Domain）：
+
+根域名是域名层次结构的最顶层，用.表示，但不在域名中显示。例如，example.com.实际上是example.com。
+一个完整的域名示例是www.example.com，其结构如下：
+
+> - www：子域名
+> - example：二级域名
+> - com：顶级域名
 
 
 

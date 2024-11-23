@@ -77,12 +77,13 @@
 
 - [Microsoft 365 个人版](https://www.microsoft.com/zh-cn/microsoft-365/college-student-pricing)：著名办公套件，包含 1T 的 OneDrive 空间。学生计划￥18/月 (原计划￥39/月)
 
+- [WPS](https://personal-act.wps.cn/rubik2/portal/HD2024062617146482/YM2024062617308403?cs_from=pc_wpspay_url&position=vip_guanw)：大学生优惠可以折扣价购买各层级会员，以超级会员为例，原价￥21/月，学生价￥9/月；
+
 ### 🎨设计
 
 - [八爪鱼数据采集器](https://www.bazhuayu.com/education)：国内较知名的图形化数据采集器，具体优惠方式可能有歧义，待确认；
 - [Figma](https://www.figma.com/education/)：知名的设计协作工具，**免费体验 Professional 层级**，价值$15/月；
 
-_共计节省约￥400/月_
 
 ## 📱硬件设备
 - [微软购物](https://www.microsoftstore.com.cn/student).微软部分产品9折，但是价格没有第三方（京东淘宝等专营店）便宜，但是可以买到官方的官翻机

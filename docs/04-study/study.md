@@ -14,7 +14,25 @@
 
 #### CET6
 
-#### IELTS
+#### [IELTS](https://ielts.org/)
+
+IELTS 也称**雅思**，全称**国际英语语言测试系统（International English Language Testing System）**，由澳大利亚教育国际开发署（IDP）、剑桥大学考试委员会、[英国文化协会](https://www.britishcouncil.cn/)共同于1989年设立。分数可作为一些国际上的高等院校的入学依据。
+
+IELTS分为**听**，**说**，**读**，**写**四个部分，每个部分各有9分，根据学生的能力水平评定分数，最后的分数由四个部分的得分平均值裁定。总分和四个单项分均允许半分，每一项的分数权重相同。总分即是四个部分所得分数经过平均后四舍五入的成绩。总分会以最接近的整分或半分报告。为了避免疑惑，采用以下取整规定：如果平均成绩的小数位是.25，就四舍五入到下个半分档；如果平均成绩的小数位是.75，就四舍五入到下一整分档。[<sup>1</sup>](https://zh.wikipedia.org/wiki/%E9%9B%85%E6%80%9D)
+
+💰考试费用：含税的雅思考试费为2170¥，用于英国签证及移民的雅思考试费（UKVI）为2220¥，而生活技能类考试费用为1250¥
+
+考试时间安排[<sup>1</sup>](https://zh.wikipedia.org/wiki/%E9%9B%85%E6%80%9D)：
+
+| 考题 |所需时间 |
+| ----| -------- |
+| 阅读 | 60 分钟  |
+| 听力 | 40 分钟  |
+| 口说 | 11-14 分钟  |
+| 写作 | 60 分钟  |
+
+
+中国大陆地区的报名通过[NEEA](https://ielts.neea.cn/)进行报名参加，选择适当的时间和离你学校最近的考点（也可能你的学校就有考点哦），提前到考场签到，带好证件，按时参加即可。
 
 #### [TOEFL](https://www.ets.org/toefl.html)
 
@@ -50,6 +68,17 @@ Hackergame 是由**中国科学技术大学**主办的信息安全相关技术�
 赛制其他具体要求参见[QA](https://hack.lug.ustc.edu.cn/qa/)。
 
 历年题目及题解 (write-ups): [USTC-Hackergame](https://github.com/USTC-Hackergame)
+
+#### [GeekGame](https://geekgame.pku.edu.cn/)
+
+GeekGame与Hackergame类似，是由**北京大学**（2024年第四届GeekGame与**清华大学**THUCTF合办，称为“京华杯”）主办的信息安全综合能力比赛，
+
+选手常见问题详见[选手常见问题](https://geekgame.pku.edu.cn/#/info/faq)。
+
+比赛规则和参赛须知详见[《诚信比赛须知》和《隐私政策》](https://geekgame.pku.edu.cn/#/user/terms)。
+
+历年题目及题解 (write-ups): [PKU-GeekGame](https://github.com/PKU-GeekGame/)
+
 
 ### 程序设计竞赛
 

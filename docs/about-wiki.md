@@ -27,6 +27,8 @@
 
 ## 动态站点
 
+- [https://co2co2.eu.org](https://co2co2.eu.org) DAC导航（dacdh.top）的专属wiki，开源，DokuWiki
+
 - [https://www.wikihow.com](https://www.wikihow.com) 一个类似于生活百科的站点，闭源，定制版 MediaWiki
 
 - [https://wiki.linux.do](https://wiki.linux.do) Linux.do 的专属知识站，未知

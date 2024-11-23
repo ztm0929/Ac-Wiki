@@ -1,4 +1,4 @@
-???+ note
+???+ info "Wiki"
 
     Wiki，简体通常译为维基，最早最知名的站点可能是维基百科。本文收录现存的公开站点（包含飞书、Notion 等非自建站点）供 Ac-Wiki 参考。
 
@@ -33,7 +33,7 @@
 
 - [https://wiki.linux.do](https://wiki.linux.do) Linux.do 的专属知识站，未知
 
-- [https://mediawiki.org](https://mediaiwki.org) MediaWiki的官方帮助网站，开源，Mediaiwki
+- [https://mediawiki.org](https://mediawki.org) MediaWiki的官方帮助网站，开源，Mediawiki
 
 - [https://www.wikipedia.org](https://www.wikipedia.org) 维基百科全球站点，开源，MediaWiki
 
@@ -53,6 +53,6 @@
 
 ## 联系我们
 
-- 交流群组：https://t.me/AcFourm
+- 交流群组：[t.me/AcFourm](https://t.me/AcFourm)
 
-- 交流频道：https://t.me/AcWiki
+- 交流频道：[t.me/AcWiki](https://t.me/AcWiki)

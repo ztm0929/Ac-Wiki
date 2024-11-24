@@ -150,14 +150,13 @@ LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络�
 
 ### [RSSHub Radar](https://github.com/DIYgod/RSSHub-Radar)
 
-RSS是一种标准的网站内容投递协议，通过解析RSS我们可以获取网站的内容更新。
-
+RSS 是一种标准的网站内容投递协议，通过解析 RSS 我们可以获取网站的内容更新。
 
 ### [AdBlock - 拦截整个网络的广告](https://adblockplus.org/)
 
 拦截广告，浏览体验更好。
 
-### [沉浸式翻译 - 网页翻译插件 | PDF翻译 | 免费](https://immersivetranslate.com/)
+### [沉浸式翻译 - 网页翻译插件 | PDF 翻译 | 免费](https://immersivetranslate.com/)
 
 双语对照翻译，无痛浏览论文/外语，轻度免费免费插件（订阅制会员提供更准确的翻译）
 
@@ -169,7 +168,6 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 
 精准空降到赞助广告结束或者高能时刻，自动跳过视频中的赞助广告、订阅提醒等片段。你也可以亲自标记视频中的广告并上传，所有人都会从您的贡献中受益。
 
-### [Chrome插件英雄榜 ](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
+### [Chrome 插件英雄榜 ](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
 
-为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~
-
+为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类~

@@ -108,7 +108,9 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 ### 电子书
 
 - [鸠摩读书](https://www.jiumodiary.com/)
-- [Z-lib](https://z-library.sk/)
+- [Z-lib](https://go-to-library.sk/)
+
+注：Z-lib由于版权问题经常被封禁，因此此处为地址站点。
 
 ???+ warning
 

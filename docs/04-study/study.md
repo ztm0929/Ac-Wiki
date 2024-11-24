@@ -24,12 +24,12 @@ IELTS分为**听**，**说**，**读**，**写**四个部分，每个部分各�
 
 考试时间安排[<sup>1</sup>](https://zh.wikipedia.org/wiki/%E9%9B%85%E6%80%9D)：
 
-| 考题 |所需时间 |
-| ----| -------- |
-| 阅读 | 60 分钟  |
-| 听力 | 40 分钟  |
-| 口说 | 11-14 分钟  |
-| 写作 | 60 分钟  |
+| 考题 |所需时间 |题型安排|
+| ----| -------- |------ |
+| 阅读 | 60 分钟  |三篇文章|
+| 听力 | 40 分钟  |4个part|
+| 口说 | 11-14 分钟  |4个part|
+| 写作 | 60 分钟  |两个大题|
 
 
 中国大陆地区的报名通过[NEEA](https://ielts.neea.cn/)进行报名参加，选择适当的时间和离你学校最近的考点（也可能你的学校就有考点哦），提前到考场签到，带好证件，按时参加即可。
@@ -71,7 +71,9 @@ Hackergame 是由**中国科学技术大学**主办的信息安全相关技术�
 
 #### [GeekGame](https://geekgame.pku.edu.cn/)
 
-GeekGame与Hackergame类似，是由**北京大学**（2024年第四届GeekGame与**清华大学**THUCTF合办，称为“京华杯”）主办的信息安全综合能力比赛，
+GeekGame与Hackergame类似，是由**北京大学**（2024年第四届GeekGame与**清华大学**THUCTF合办，称为“京华杯”）主办的信息安全综合能力比赛，赛制为 CTF[<sup>1</sup>](<https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)>)类比赛，从题目中获得正确 flag 并获取相应积分。
+
+相较于Hackergame，GeekGame在规则上存在不同：题目分数会随着解答成功人数的增多而减少，因此做出更少人做出的题目能够获得更多的分数。赛制分为两个阶段，第二阶段将放出提示，但只能获得40%的分数。
 
 选手常见问题详见[选手常见问题](https://geekgame.pku.edu.cn/#/info/faq)。
 
@@ -79,6 +81,13 @@ GeekGame与Hackergame类似，是由**北京大学**（2024年第四届GeekGame�
 
 历年题目及题解 (write-ups): [PKU-GeekGame](https://github.com/PKU-GeekGame/)
 
+#### [山河::CTF](https://ctf.qlu.edu.cn/)
+
+山河::CTF是由**齐鲁工业大学**主办的信息安全综合能力比赛，赛制为 CTF[<sup>1</sup>](<https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)>)类比赛，从题目中获得正确 flag 并获取相应积分。
+
+**本比赛为个人赛，禁止与他人交流正在进行中的赛题**
+
+常见问题，比赛题解等可见于[比赛官网](https://ctf.qlu.edu.cn/)与微信公众号。
 
 ### 程序设计竞赛
 

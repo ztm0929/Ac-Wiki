@@ -8,4 +8,4 @@
 
 官方代码仓库：https://github.com/ankitects/anki
 
-另请参阅[维基百科对Anki的介绍](https://zh.wikipedia.org/zh-hans/Anki)
+另请参阅[维基百科对 Anki 的介绍](https://zh.wikipedia.org/zh-hans/Anki)

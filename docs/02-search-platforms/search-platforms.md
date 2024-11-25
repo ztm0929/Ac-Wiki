@@ -110,11 +110,9 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 - [鸠摩读书](https://www.jiumodiary.com/)
 - [Z-lib](https://go-to-library.sk/)
 
-注：Z-lib 由于版权问题经常被封禁，因此此处为地址站点。
-
 ???+ warning
 
-    - 由于网站性质，Z-lib 的官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+    - 由于网站性质，Z-lib 的官网时常被屏蔽，此处的站点公布的地址可以访问到官方站点，同时可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
 
 - [安娜的档案](https://zh.annas-archive.org/)
 

@@ -32,7 +32,6 @@
 ### 圆梦帮扶
  - **奖/助学金申请**
  - **勤工俭学申请**
- - **国家无息贷款**
  - **[国家助学贷款（常见问题）](./01-student-discounts/student-assistance/national-student-loan-FAQ.md)**
  - **大学生创业扶持**
 

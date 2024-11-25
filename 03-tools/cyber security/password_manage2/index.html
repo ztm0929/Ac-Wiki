@@ -1051,14 +1051,47 @@
         <li class="md-nav__item">
   <a href="#_3" class="md-nav__link">
     <span class="md-ellipsis">
-      常见域名（施工中）
+      常见域名
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
+  <a href="#domain-name" class="md-nav__link">
+    <span class="md-ellipsis">
+      域名（Domain Name）
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="域名（Domain Name）">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#subdomain" class="md-nav__link">
+    <span class="md-ellipsis">
+      子域名（Subdomain）：
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      总结
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_5" class="md-nav__link">
     <span class="md-ellipsis">
       参考文章
     </span>
@@ -1105,7 +1138,7 @@
 <li>HTTPS 是一种在 Web 服务器和 Web 浏览器之间发送数据的安全方式。</li>
 </ul>
 <p>超文本传输协议安全 (HTTPS) 是 HTTP 的安全版本，HTTP 是用于在 Web 浏览器和网站之间发送数据的主要协议。HTTPS 经过加密，以提高数据传输的安全性。当用户传输敏感数据（例如通过登录银行账户、电子邮件服务或健康保险提供商）时，这一点尤其重要。
-任何网站都应使用 HTTPS，尤其是那些需要登录凭据的网站。在现代 Web 浏览器（例如 Chrome）中，未使用 HTTPS 的网站与使用 HTTPS 的网站的标记有所不同。URL 栏中如出现挂锁，则表示该网页是安全的。Web 浏览器非常重视 HTTPS；<a href="https://www.cloudflare.com/learning/ssl/why-use-https/">Google Chrome 和其他浏览器将所有非 HTTPS 网站标记为不安全。</a>
+任何网站都应使用 HTTPS，尤其是那些需要登录凭据的网站。在现代 Web 浏览器（例如 Chrome）中，未使用 HTTPS 的网站与使用 HTTPS 的网站的标记有所不同。URL 栏中如出现挂锁，则表示该网页是安全的。Web 浏览器非常重视 HTTPS；<a href="https://www.cloudflare.com/learning/ssl/why-use-https/">Google Chrome 和其他浏览器将所有非 HTTPS 网站标记为不安全。</a> </br>
 <a class="glightbox" href="https://github.com/user-attachments/assets/7903824d-137b-4ceb-80d0-81325bbf5877" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://github.com/user-attachments/assets/7903824d-137b-4ceb-80d0-81325bbf5877" /></a></p>
 <h3 id="https-https">HTTPS 为什么很重要？如果网站没有 HTTPS，那会如何？<a class="headerlink" href="#https-https" title="Permanent link">&para;</a></h3>
 <p>HTTPS 阻止网站以任何在网络上窥探的人都能轻松查看的方式广播信息。通过常规 HTTP 发送信息时，信息会分解为数据包，使用免费软件即可轻松“嗅探”这些数据包。这使得通过不安全的媒介（例如公共 Wi-Fi）进行的通信极易受到拦截。实际上，所有通过 HTTP 进行的通信都是以纯文本形式进行的，因而能够为任何使用正确工具的人轻松访问，而且容易遭受在途攻击。</p>
@@ -1115,13 +1148,13 @@
 <li>加密前：</br></li>
 </ul>
 </blockquote>
-<p>这是完全可读的文本字符串</p>
+<p><code>这是完全可读的文本字符串</code></p>
 <blockquote>
 <ul>
 <li>加密后：</br></li>
 </ul>
 </blockquote>
-<p>ITM0IRyiEhVpa6VnKyExMiEgNveroyWBPlgGyfkflYjDaaFf/Kn3bo3OfghBPDWo6AfSHlNtL8N7ITEwIXc1gU5X73xMsJormzzXlwOyrCs+9XCPk63Y+z0= </p>
+<p><code>ITM0IRyiEhVpa6VnKyExMiEgNveroyWBPlgGyfkflYjDaaFf/Kn3bo3OfghBPDWo6AfSHlNtL8N7ITEwIXc1gU5X73xMsJormzzXlwOyrCs+9XCPk63Y+z0=</code></p>
 <h3 id="http">HTTP 为什么不安全<a class="headerlink" href="#http" title="Permanent link">&para;</a></h3>
 <ul>
 <li>HTTP 由于是明文传输，主要存在三大风险</li>
@@ -1135,26 +1168,111 @@
 </thead>
 <tbody>
 <tr>
-<td style="text-align: center;">1、 窃听风险 <br> 中间人可以获取到通信内容，由于内容是明文，所以获取明文后有安全风险</td>
+<td style="text-align: center;">1、窃听风险 <br> 中间人可以获取到通信内容，由于内容是明文，所以获取明文后有安全风险</td>
 <td style="text-align: center;"><a class="glightbox" href="https://github.com/user-attachments/assets/90d82d50-8d3c-4c7d-9f9b-e8b55ce89fb7" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://github.com/user-attachments/assets/90d82d50-8d3c-4c7d-9f9b-e8b55ce89fb7" /></a></td>
 </tr>
 <tr>
-<td style="text-align: center;">2、 篡改风险 <br> 中间人可以篡改报文内容后再发送给对方，风险极大</td>
+<td style="text-align: center;">2、篡改风险 <br> 中间人可以篡改报文内容后再发送给对方，风险极大</td>
 <td style="text-align: center;"><a class="glightbox" href="https://github.com/user-attachments/assets/3ba95012-58be-4132-b9bd-31cda09bed3f" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://github.com/user-attachments/assets/3ba95012-58be-4132-b9bd-31cda09bed3f" /></a></td>
 </tr>
 <tr>
-<td style="text-align: center;">3、 冒充风险 <br> 比如你以为是在和某宝通信，但实际上是在和一个钓鱼网站通信。</td>
+<td style="text-align: center;">3、冒充风险 <br> 比如你以为是在和某宝通信，但实际上是在和一个钓鱼网站通信。</td>
 <td style="text-align: center;"><a class="glightbox" href="https://github.com/user-attachments/assets/1807e749-aa5d-4c5c-a21e-f1b342ef8a02" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://github.com/user-attachments/assets/1807e749-aa5d-4c5c-a21e-f1b342ef8a02" /></a></td>
 </tr>
 </tbody>
 </table>
 <h3 id="_2">总结<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
-<p>增强安全性：HTTPS通过SSL/TLS协议对数据进行加密，保护用户数据不被窃取或篡改，确保通信的安全性。</p>
-<p>提升信任度：使用HTTPS的网站更受用户信赖，因为它表明网站采取了额外的安全措施来保护用户隐私和数据。</p>
-<p>浏览器支持：现代浏览器如Chrome将HTTP网站标记为“不安全”，而HTTPS网站则不会，这影响了用户对网站安全性的感知。</p>
-<p>搜索引擎优化：搜索引擎倾向于提升使用HTTPS的网站的搜索排名，因为它们被认为是更安全、更可靠的资源。</p>
-<h2 id="_3">常见域名（施工中）<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
-<h2 id="_4">参考文章<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p>增强安全性：HTTPS 通过 SSL/TLS 协议对数据进行加密，保护用户数据不被窃取或篡改，确保通信的安全性。</p>
+<p>提升信任度：使用 HTTPS 的网站更受用户信赖，因为它表明网站采取了额外的安全措施来保护用户隐私和数据。</p>
+<p>浏览器支持：现代浏览器如 Chrome 将 HTTP 网站标记为“不安全”，而 HTTPS 网站则不会，这影响了用户对网站安全性的感知。</p>
+<p>搜索引擎优化：搜索引擎倾向于提升使用 HTTPS 的网站的搜索排名，因为它们被认为是更安全、更可靠的资源。</p>
+<hr />
+<h2 id="_3">常见域名<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
+<h2 id="domain-name">域名（Domain Name）<a class="headerlink" href="#domain-name" title="Permanent link">&para;</a></h2>
+<p>是互联网上用来识别和访问网站的一个易于记忆的地址。它将 IP 地址（一串数字）转换为人类可读的格式，比如 www.example.com。域名系统（DNS）负责将域名解析为对应的 IP 地址，以便用户的设备能够找到并访问相应的服务器。
+顶级域名（Top-Level Domain, TLD）： </br></p>
+<p><a class="glightbox" href="https://github.com/user-attachments/assets/29a37ddd-379c-452d-98c4-1e7b43bce374" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img alt="image" src="https://github.com/user-attachments/assets/29a37ddd-379c-452d-98c4-1e7b43bce374" /></a></p>
+<hr />
+<h3 id="subdomain">子域名（Subdomain）：<a class="headerlink" href="#subdomain" title="Permanent link">&para;</a></h3>
+<p>位于域名的最左侧部分，可以自定义。例如，在 subdomain.example.com 中，subdomain 就是子域名。
+二级域名（Second-Level Domain, SLD）：</p>
+<p>紧随子域名之后，通常是注册时选择的主要域名部分。例如，在 example.com 中，example 是二级域名。
+顶级域名（Top-Level Domain, TLD）：</p>
+<p>位于域名的最右侧部分，分为两类：
+通用顶级域名（Generic Top-Level Domains, gTLDs）：如.com、.org、.net 等。
+国家代码顶级域名（Country Code Top-Level Domains, ccTLDs）：如.cn（中国）、.us（美国）、.uk（英国）等。
+根域名（Root Domain）：</p>
+<p>根域名是域名层次结构的最顶层，用。表示，但不在域名中显示。例如，example.com.实际上是 example.com。</p>
+<p>一个完整的域名示例是<code>www.example.com</code> ，其结构如下：</p>
+<blockquote>
+<ul>
+<li>www：子域名</li>
+<li>example：二级域名</li>
+<li>com：顶级域名</li>
+</ul>
+</blockquote>
+<hr />
+<ol>
+<li>
+<p><strong>域名的合法性</strong>：</p>
+</li>
+<li>
+<p>域名的合法性涉及到域名是否按照 ICANN（互联网名称与数字地址分配机构）的规定进行注册和使用，以及是否遵守了相关的法律法规。</p>
+</li>
+<li>合法的域名不会侵犯他人的商标权、版权或其他知识产权。</li>
+<li>
+<p>合法性还意味着域名的注册和使用没有违反任何国家或地区的法律，例如，没有用于非法活动或欺诈行为。</p>
+</li>
+<li>
+<p><strong>域名的完整性</strong>：</p>
+</li>
+<li>
+<p>完整性指的是域名是否完整且正确，没有拼写错误或遗漏的部分。</p>
+</li>
+<li>一个完整的域名应该包括所有的子域名和顶级域名（TLD），例如 <code>www.example.com</code>。</li>
+<li>
+<p>完整性还涉及到域名是否正确地指向了预期的服务器或网站，没有被错误地重定向到其他网站。</p>
+</li>
+<li>
+<p><strong>顶级域名（TLD）</strong>：</p>
+</li>
+<li>
+<p>顶级域名是域名结构中的最后一部分，如 <code>.com</code>、<code>.org</code>、<code>.net</code> 等。</p>
+</li>
+<li>TLD 分为几种类型，包括通用顶级域名（gTLDs）如 <code>.com</code>、<code>.net</code>，以及国家代码顶级域名（ccTLDs）如 <code>.uk</code>、<code>.de</code>。</li>
+<li>
+<p>TLD 可以提供关于网站性质和目的的信息，例如 <code>.gov</code> 通常用于政府网站，<code>.edu</code> 用于教育机构。</p>
+</li>
+<li>
+<p><strong>子域名</strong>：</p>
+</li>
+<li>
+<p>子域名是主域名的一个分支，用于指向同一主域名下的不同部分或服务。</p>
+</li>
+<li>例如，在 <code>mail.example.com</code> 中，<code>mail</code> 是一个子域名，用于指向该域的邮件服务。</li>
+<li>
+<p>子域名的使用可以帮助组织网站内容，但也可能导致安全问题，如子域名劫持。</p>
+</li>
+<li>
+<p><strong>国别域名</strong>：</p>
+</li>
+<li>
+<p>国别域名是特定国家的顶级域名，如 <code>.uk</code>（英国）、<code>.de</code>（德国）等。</p>
+</li>
+<li>这些域名通常用于标识网站的地理位置和目标受众，有助于用户识别与自己地区相关的网站。</li>
+<li>
+<p>国别域名也可以用于表示网站内容的语言或文化背景。</p>
+</li>
+<li>
+<p><strong>混合域名</strong>：</p>
+</li>
+<li>混合域名是指那些故意将字母和数字混合使用的域名，以模仿知名品牌或网站。</li>
+<li>例如，将知名品牌的域名中的某个字母替换为相似的数字（如将 "e" 替换为 "3"），以欺骗用户。</li>
+<li>这种域名通常用于钓鱼攻击，目的是诱使用户输入敏感信息，如用户名和密码。</li>
+</ol>
+<h2 id="_4">总结<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
+<p><strong>需注意以下几点：1. 核实域名的合法性和完整性，避免拼写错误或遗漏。2. 识别顶级域名（TLD），区分通用和国别域名。3. 警惕子域名和混合域名，防范钓鱼网站。4. 使用 HTTPS 协议，确保数据传输安全。5. 检查域名 WHOIS 信息，确认注册人和注册日期。6. 使用安全工具检测域名声誉，避免访问有不良记录的网站。简而言之，用户应保持警惕，仔细检查域名，以确保网络安全。</strong></p>
+<h2 id="_5">参考文章<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h2>
 <p>https://cloud.tencent.com/developer/article/1758154</p>
 <p>https://www.cloudflare.com/zh-cn/learning/ssl/what-is-https/</p>
 
@@ -1179,7 +1297,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 23, 2024</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date">November 24, 2024</span>
   </span>
 
     
@@ -1199,11 +1317,11 @@
   <span class="md-source-file__fact">
     <span class="md-icon" title="Contributors">
       
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 4a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4m0 10c4.42 0 8 1.79 8 4v2H4v-2c0-2.21 3.58-4 8-4"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 5.5A3.5 3.5 0 0 1 15.5 9a3.5 3.5 0 0 1-3.5 3.5A3.5 3.5 0 0 1 8.5 9 3.5 3.5 0 0 1 12 5.5M5 8c.56 0 1.08.15 1.53.42-.15 1.43.27 2.85 1.13 3.96C7.16 13.34 6.16 14 5 14a3 3 0 0 1-3-3 3 3 0 0 1 3-3m14 0a3 3 0 0 1 3 3 3 3 0 0 1-3 3c-1.16 0-2.16-.66-2.66-1.62a5.54 5.54 0 0 0 1.13-3.96c.45-.27.97-.42 1.53-.42M5.5 18.25c0-2.07 2.91-3.75 6.5-3.75s6.5 1.68 6.5 3.75V20h-13zM0 20v-1.5c0-1.39 1.89-2.56 4.45-2.9-.59.68-.95 1.62-.95 2.65V20zm24 0h-3.5v-1.75c0-1.03-.36-1.97-.95-2.65 2.56.34 4.45 1.51 4.45 2.9z"/></svg>
       
     </span>
     <nav>
-      flash
+      flash, github-actions[bot]
     </nav>
   </span>
 

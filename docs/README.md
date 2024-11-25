@@ -61,7 +61,7 @@
 
 - **[高效检索信息/获取资源](./02-search-platforms/search-platforms.md)**
 - **论文阅读与撰写**
-- **计算机基础技能**
+- **[计算机基础技能](./07-computer-basic/computer-basic.md)**
 - **运用新质生产力**
 - **合理规划时间**
 - **高效学习技巧**

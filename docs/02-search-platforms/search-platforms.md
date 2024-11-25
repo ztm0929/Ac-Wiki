@@ -108,11 +108,11 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 ### 电子书
 
 - [鸠摩读书](https://www.jiumodiary.com/)
-- [Z-lib](https://z-library.sk/)
+- [Z-lib](https://go-to-library.sk/)
 
 ???+ warning
 
-    - 由于网站性质，Z-lib 的官网时常被屏蔽，可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
+    - 由于网站性质，Z-lib 的官网时常被屏蔽，此处的站点公布的地址可以访问到官方站点，同时可以查看[维基百科](https://en.m.wikipedia.org/wiki/Z-Library)或者其[中文 Telegram 频道](https://t.me/zlib_china_official)查看最新官方网站。谨防虚假网站！
 
 - [安娜的档案](https://zh.annas-archive.org/)
 
@@ -168,20 +168,22 @@ AI 驱动的搜索引擎，会先从多个搜索引擎检索信息，然后使�
 ### 数码
 
 - [酷安](https://www.coolapk.com) 活跃的数码社区，涵盖软硬件
-  
 
 ### 以图搜图
+
 有时有一张模糊的网络图片，但是不知道图片的出处信息和原图。以下是*传统*的搜索图片的网址
-这里推荐一个集成度较高的半付费中文搜索图片[app搜图神器](http://www.soutushenqi.com/home)
+这里推荐一个集成度较高的半付费中文搜索图片[app 搜图神器](http://www.soutushenqi.com/home)
+
 > - 国内（风景，微博等中文互联网论坛图片）
-  - [百度识图](https://graph.baidu.com/pcpage/index?tpl_from=pc)
-  - [搜狗识图](https://pic.sogou.com/)
-  - [360识图](https://st.so.com/)
-> - 国外 （国外大多以插画，动漫识别精准度较高）
-  - [yandex](https://ya.ru/images/touch/?lr=111500&redircnt=1732120675.1)
-  - [google 识图](https://images.google.com/?hl=zh-CN)
-  - [ascii2d](https://ascii2d.net/?forceOutSide=true)
-  - [sauceNao](https://saucenao.com/index.php?forceOutSide=true)
+
+- [百度识图](https://graph.baidu.com/pcpage/index?tpl_from=pc)
+- [搜狗识图](https://pic.sogou.com/)
+- [360 识图](https://st.so.com/)
+  > - 国外（国外大多以插画，动漫识别精准度较高）
+- [yandex](https://ya.ru/images/touch/?lr=111500&redircnt=1732120675.1)
+- [google 识图](https://images.google.com/?hl=zh-CN)
+- [ascii2d](https://ascii2d.net/?forceOutSide=true)
+- [sauceNao](https://saucenao.com/index.php?forceOutSide=true)
 
 ### 文献检索
 

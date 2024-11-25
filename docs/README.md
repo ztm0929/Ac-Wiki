@@ -18,7 +18,7 @@
 
 1.4. 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与编写中，这样才可能使项目稳定的维持下去
 
-1.5. [频道关联群组](https://t.me/AcFourm) 用作维护组与用户交流的场所，欢迎建言献策，友好沟通，群内交流并无过多约束，保持一个正常人应有的道德水平即可
+1.5. 频道关联群组[TG](https://t.me/AcFourm)/[QQ](https://qm.qq.com/q/rmBHBLvpew) 用作维护组与用户交流的场所，欢迎建言献策，友好沟通，群内交流并无过多约束，保持一个正常人应有的道德水平即可
 
 1.6. 本项目并不局限于此平台，考虑到使用者群体，我们后期会积极建立各式网站，并会迁移已有的更新内容
 
@@ -29,28 +29,31 @@
 ## 2.1. 生活经验
 
 - ### [学生优惠](./01-student-discounts/student-discounts.md)
+
 ### 圆梦帮扶
+
  - **奖/助学金申请**
  - **勤工俭学申请**
  - **[国家助学贷款（常见问题）](./01-student-discounts/student-assistance/national-student-loan-FAQ.md)**
  - **大学生创业扶持**
 
 ### 校园生活
-  - **图书馆**
-  - **选课指导**
-  - **化解矛盾**
-  - **辅导员的“妙用”**
-  - **人际关系**
-  - **脱单技巧**
+
+- **图书馆**
+- **选课指导**
+- **化解矛盾**
+- **辅导员的“妙用”**
+- **人际关系**
+- **脱单技巧**
 
 ### 社会生活
- - **五险一金**
- - **储蓄与借贷**
- - **保持健康**
- - **出境须知**
- - **实习/入职**
- - **正确维权**
 
+- **五险一金**
+- **储蓄与借贷**
+- **保持健康**
+- **出境须知**
+- **实习/入职**
+- **正确维权**
 
 ## 2.2. 学术技能
 
@@ -58,7 +61,7 @@
 
 - **[高效检索信息/获取资源](./02-search-platforms/search-platforms.md)**
 - **论文阅读与撰写**
-- **计算机基础技能**
+- **[计算机基础技能](./07-computer-basic/computer-basic.md)**
 - **运用新质生产力**
 - **合理规划时间**
 - **高效学习技巧**
@@ -71,14 +74,16 @@
 - **数据检索**
 
 #### 网络安全
-  - **[通讯安全](./03-tools/Android/加密通讯.md)**
-  - **[密码管理](./03-tools/cyber%20security/password_manage1.md)**
-  - **[账号安全](./03-tools/cyber%20security/Authenticator.md)**
-  - **隐私保护**
+
+- **[通讯安全](./03-tools/Android/加密通讯.md)**
+- **[密码管理](./03-tools/cyber%20security/password_manage1.md)**
+- **[账号安全](./03-tools/cyber%20security/Authenticator.md)**
+- **隐私保护**
 
 #### 校园应用
-  - **[风驰电掣](./03-tools/qi-ji-yin-qiao/campus-running.md)**
-  - **[珍惜时间](./03-tools/qi-ji-yin-qiao/pointless-courses.md)**
+
+- **[风驰电掣](./03-tools/qi-ji-yin-qiao/campus-running.md)**
+- **[珍惜时间](./03-tools/qi-ji-yin-qiao/pointless-courses.md)**
 
 ### 考赛介绍
 
@@ -107,6 +112,8 @@
   src="https://img.shields.io/badge/Telegram Group-AcWiKi-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto&labelColor=orange&color=blue&link=https%3A%2F%2Ft.me%2FAcWiki"
  />
 </a>
+
+QQ群：搜索860675581 或 点击链接加入群聊：[https://qm.qq.com/q/WJI3hgBcm4](https://qm.qq.com/q/WJI3hgBcm4)
 
 <a href="https://star-history.com/#Ac-Wiki/AcWiKi&Date">
  <picture>

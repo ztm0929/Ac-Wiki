@@ -27,25 +27,37 @@
 
 既要又要，这里推荐高性能台式机+续航高（轻薄本）既满足游戏/ai等高性能场景，也可以满足图书馆等复杂的外出场景。满足全场景。**（梦寐以求的场景）**
 
-## 计算机操作系统
+# 计算机操作系统
+下面列举常见的主流计算机操作系统
+---
+### ![image](https://github.com/user-attachments/assets/14aeedc1-c1db-449d-a116-3b903c204e35)![image](https://github.com/user-attachments/assets/8d096b51-4412-4b39-8172-8b59f4591884)![image](https://github.com/user-attachments/assets/da46853d-e308-4631-b8ff-8b2973706a92)![image](https://github.com/user-attachments/assets/7dbece93-453b-4c5c-bebc-2f1eedc02a9a)![image](https://github.com/user-attachments/assets/a76a9eb9-9b84-4305-adc1-adf82607da4b)
+[ **Microsoft Windows**](https://www.microsoft.com/zh-hk/windows/?r=1)
 
-### 常见电脑操作系统
+#### Microsoft Windows的重大更新版本历史
+<img src="https://github.com/user-attachments/assets/8b9889dd-77a4-4683-89d8-49688dd659ee" width="700" height="300" alt=""><br>
+1983年11月10日，微软对外宣布在MS-DOS（自1981年植根在IBM电脑上的操作接口）上开发一个图形用户界面操作系统，即微软窗口系统（Microsoft Windows）。<br>
 
+ #### Windows 1.0
+   1985年11月20日，微软推出了历史上第一款视窗操作系统——Windows 1.0
+   Windows 1.0并不是完整的操作系统，而是对MS-DOS的拓展，因此亦继承了后者的问题。而且附带的应用程序功能太过薄弱，无法吸引企业用户。
+   <img src="https://github.com/user-attachments/assets/84aa7a64-55fb-4cc3-a232-04c9e7a91cd1" width="700" height="300" alt=""><br>
 
-#### **Microsoft Windows**
-**Microsoft Windows**是最广泛使用的个人电脑操作系统，由**微软**开发。它有多个版本，包括我们熟知的Windows 10和Windows 11。
+   
+   在Intel推出 Intel 80286后，微软适时推出了Windows/286，在DOS程序的基础上添加了对**保护模式**的支持。自Windows 3.0开始，Windows逐步增强了对**多语言**的支持，由此还衍生出一个仅有简体中文的Windows版本：***Windows 3.02***。
+  #### Windows 95 & Windows 98
+<img src="https://github.com/user-attachments/assets/e6d7efee-16fb-45b7-aab1-cf1c3c1b38b0" width="700" height="300" alt=""><br>
+<img src="https://github.com/user-attachments/assets/0dd4497c-13f0-4db6-8545-7f919752a8e5" width="700" height="300" alt=""><br>
 
-早期的Windows并不是一个真正意义上的操作系统，它更像是在MS-DOS基础上运行的一个图形环境，是微软与苹果的Macintosh竞争的产物。
-
-在Intel推出 Intel 80286后，微软适时推出了Windows/286，在DOS程序的基础上添加了对**保护模式**的支持。自Windows 3.0开始，Windows逐步增强了对**多语言**的支持，由此还衍生出一个仅有简体中文的Windows版本：Windows 3.02。
 
 为了与Macintosh在个人电脑领域进行竞争，在20世纪的最后几年内，微软相继推出了Windows 95 / 98 / Me 等被称为**Windows 9x**的系统，以及Windows NT 3.1/ NT 3.5/ NT 4.0/ 2000等被称为**Windows NT**的系统。其中，Windows 9x被认为是DOS内核的延续，复杂的混合16位/32位内核，薄弱的安全机制，不完全的内存保护等等导致Windows 9x极其不稳定。而基于OS/2新技术，拥有完整32位内核的Windows NT具有更好的安全性和稳定性。在长期的发展中，微软抛弃了以往的Windows 9x内核。
 
+#### **Windows XP**
+<img src="https://github.com/user-attachments/assets/727333b1-7888-46d1-9a87-e77316682bc0" width="700" height="300" alt=""><br>
 步入21世纪，微软推出了迄今为止最为成功的操作系统版本——**Windows XP**。它兼具NT的安全稳定以及9x系列（尤其是Windows Me）的娱乐性。Windows XP长期霸占计算机操作系统市场，直到2014年4月8日微软宣布停止支持Windows XP才逐渐衰落。
 
 在Windows XP后，微软也发布了诸如Windows Vista、 Windows 7、 Windows 8/8.1、 Windows 10和Windows 11等新版本。目前主流市场上为Windows 10和Windows 11，其中Windows 10的市场份额更大。[<sup>1</sup>](https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/) Windows 10 的占用更小，而Windows 11对新的处理器（尤其是Intel 12代及以后推出大小核）、新的内存（DDR5）支持更好。可以根据自己的电脑类型、性能和需求选择适合自己的系统。
 
-
+---
 #### **macOS**
 **macOS**是**苹果公司**为其Mac系列电脑开发的操作系统。macOS以其稳定性和易用性而闻名。
 
@@ -63,3 +75,7 @@
 
 ## 下载软件
 
+## 参考链接
+https://zhuanlan.zhihu.com/p/503458188
+
+作者 Kristiyan Bogdanov - File:Windows_Updated_Family_Tree.png，CC BY-SA 3.0，https://commons.wikimedia.org/w/index.php?curid=94951746

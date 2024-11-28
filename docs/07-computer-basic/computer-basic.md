@@ -30,7 +30,7 @@
 # 计算机操作系统
 下面列举常见的主流计算机操作系统
 ---
-### ![image](https://github.com/user-attachments/assets/14aeedc1-c1db-449d-a116-3b903c204e35)![image](https://github.com/user-attachments/assets/8d096b51-4412-4b39-8172-8b59f4591884)![image](https://github.com/user-attachments/assets/da46853d-e308-4631-b8ff-8b2973706a92)![image](https://github.com/user-attachments/assets/7dbece93-453b-4c5c-bebc-2f1eedc02a9a)![image](https://github.com/user-attachments/assets/a76a9eb9-9b84-4305-adc1-adf82607da4b)
+### ![image](https://github.com/user-attachments/assets/ff3bb882-b4e9-460d-8301-8beefb7a5d77)
 [ **Microsoft Windows**](https://www.microsoft.com/zh-hk/windows/?r=1)
 
 #### Microsoft Windows的重大更新版本历史

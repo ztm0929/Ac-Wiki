@@ -40,7 +40,7 @@
 ### 4. [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator)
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.azure.authenticator)
-- **!!实测只支持密码同步,不支持2FA密钥同步**
+- **!! 实测只支持密码同步，不支持 2FA 密钥同步**
 - **特点**: 支持双重验证（TOTP）和 Microsoft 账户的无密码登录，支持多设备同步功能。
 - **优点**:
   - **多设备备份和同步**: 可以将账户密码备份到云端，并同步到多个设备，只要用 Microsoft 账户登录即可恢复。

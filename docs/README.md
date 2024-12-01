@@ -32,10 +32,10 @@
 
 ### 圆梦帮扶
 
- - **奖/助学金申请**
- - **勤工俭学申请**
- - **[国家助学贷款（常见问题）](./01-student-discounts/student-assistance/national-student-loan-FAQ.md)**
- - **大学生创业扶持**
+- **奖/助学金申请**
+- **勤工俭学申请**
+- **[国家助学贷款（常见问题）](./01-student-discounts/student-assistance/national-student-loan-FAQ.md)**
+- **大学生创业扶持**
 
 ### 校园生活
 
@@ -113,7 +113,7 @@
  />
 </a>
 
-QQ群：搜索860675581 或 点击链接加入群聊：[https://qm.qq.com/q/WJI3hgBcm4](https://qm.qq.com/q/WJI3hgBcm4)
+QQ 群：搜索 860675581 或 点击链接加入群聊：[https://qm.qq.com/q/WJI3hgBcm4](https://qm.qq.com/q/WJI3hgBcm4)
 
 <a href="https://star-history.com/#Ac-Wiki/AcWiKi&Date">
  <picture>

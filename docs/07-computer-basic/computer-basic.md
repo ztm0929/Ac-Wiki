@@ -57,39 +57,40 @@
 <br>
 
  ##### Windows 1.0/2.0/3.0
+ 
    1985年11月20日，微软推出了历史上第一款视窗操作系统——Windows 1.0
    早期的Windows并不是一个真正意义上的操作系统，它更像是在MS-DOS基础上运行的一个图形环境，是微软与苹果的Macintosh竞争的产物。
-   <img src="./resources/img1.png" alt=""><br>
+   <img src="https://raw.githubusercontent.com/Ac-Wiki/AcWiKi/main/docs/07-computer-basic/resources/img1.png" alt=""><br>
 
    
    在Intel推出 Intel 80286后，微软适时推出了Windows/286，在DOS程序的基础上添加了对**保护模式**的支持。自Windows 3.0开始，Windows逐步增强了对**多语言**的支持，由此还衍生出一个仅有简体中文的Windows版本：***Windows 3.02***。
 
 ##### Windows 9x & Windows NT
-<img src="./resources/img2.png" height="250" alt=""><br>
-<img src="./resources/img3.png" height="250" alt=""><br>
+<img src="https://raw.githubusercontent.com/Ac-Wiki/AcWiKi/main/docs/07-computer-basic/resources/img2.png" height="250" alt=""><br>
+<img src="https://raw.githubusercontent.com/Ac-Wiki/AcWiKi/main/docs/07-computer-basic/resources/img3.png" height="250" alt=""><br>
 
 为了与 Macintosh 在个人电脑领域进行竞争，在 20 世纪的最后几年内，微软相继推出了 Windows 95 / 98 / Me 等被称为**Windows 9x**的系统，以及 Windows NT 3.1/ NT 3.5/ NT 4.0/ 2000 等被称为**Windows NT**的系统。其中，Windows 9x 被认为是 DOS 内核的延续，复杂的混合 16 位/32 位内核，薄弱的安全机制，不完全的内存保护等等导致 Windows 9x 极其不稳定。而基于 OS/2 新技术，拥有完整 32 位内核的 Windows NT 具有更好的安全性和稳定性。在长期的发展中，微软抛弃了以往的 Windows 9x 内核。
 
 ##### **Windows XP**
-<img src="./resources/img4.png"  height="250" alt=""><br>
+<img src="https://raw.githubusercontent.com/Ac-Wiki/AcWiKi/main/docs/07-computer-basic/resources/img4.png"  height="250" alt=""><br>
 步入21世纪，微软推出了迄今为止最为成功的操作系统版本——**Windows XP**。它兼具NT的安全稳定以及9x系列（尤其是Windows Me）的娱乐性。Windows XP长期霸占计算机操作系统市场，直到2014年4月8日微软宣布停止支持Windows XP才逐渐衰落。
 
 在 Windows XP 后，微软也发布了诸如 Windows Vista、Windows 7、Windows 8/8.1、Windows 10 和 Windows 11 等新版本。目前主流市场上为 Windows 10 和 Windows 11，其中 Windows 10 的市场份额更大。[<sup>1</sup>](https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/) Windows 10 的占用更小，而[Windows 11](https://zh.wikipedia.org/wiki/Windows_11)对新的处理器（尤其是 Intel 12 代及以后推出大小核）、新的内存（DDR5）支持更好。可以根据自己的电脑类型、性能和需求选择适合自己的系统。
 
 ---
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/1920px-MacOS_wordmark_%282017%29.svg.png" height="100" alt=""> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/MacOS_wordmark_%282017%29.svg/1920px-MacOS_wordmark_%282017%29.svg.png" width="100" alt=""> 
 
 #### **macOS**
 
-<img src="https://www.apple.com/newsroom/images/2023/09/macos-sonoma-is-available-today/article/Apple-macOS-Sonoma-3up_big.jpg.large.jpg"  height="200" alt=""><br>
+<img src="https://www.apple.com/newsroom/images/2023/09/macos-sonoma-is-available-today/article/Apple-macOS-Sonoma-3up_big.jpg.large.jpg"  height="100" alt=""><br>
 [**macOS**](https://zh.wikipedia.org/wiki/MacOS)是**苹果公司**为其Mac系列电脑开发的操作系统。macOS以其稳定性和易用性而闻名。
 
 早期的 Mac OS 是苹果基于 Lisa OS 进行研发的，作为首个拥有图形化界面的个人电脑操作系统，Lisa 并没有 Macintosh 成功。苹果基于“将个人电脑变成家电”的理念设计了早期的 Mac OS（在 Mac OS 7.0 以前被称为 System Software）。史蒂夫·乔布斯离职后，苹果一度陷入危机。为了挽救，苹果决定收购乔布斯创立的 NeXT 公司，通过这种方式使得乔布斯回到苹果。乔布斯回到苹果后着手于改造 Mac OS，基于 NeXTSTEP 的设计，Mac OS 逐渐走向成熟。到了 Mac OS 9.0 后，苹果决定放弃原有的 Mac OS，转向以 Mach 为基础的 XNU 内核设计的 Darwin 新底层，从而使得 Mac OS 发生了本质上的不同，苹果将其称为 Mac OS X（2012～2015 年间被称为 OS X，而 2015 年以后则称为 macOS），而 9.0 以前的版本则被称为 Classic Mac OS。
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height="100" alt=""> <br> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" height="50" alt=""> <br> 
 
 #### **Linux**
 
@@ -97,10 +98,10 @@
 Linux严格来说是单指操作系统的内核，因操作系统中包含了许多用户图形接口和其他实用工具。如今Linux常用来指基于Linux的完整操作系统，内核则改以Linux内核称之。由于这些支持用户空间的系统工具和库主要由理查德·斯托曼于1983年发起的GNU计划提供，自由软件基金会提议将其组合系统命名为GNU/Linux，但Linux不属于GNU计划，这个名称并没有得到社群的一致认同。
 通常情况下，Linux被打包成供个人计算机和服务器使用的Linux发行版，一些流行的主流Linux发布版，包括Debian（及其派生版本Ubuntu、Linux Mint）、Fedora（及其相关版本Red Hat Enterprise Linux）和openSUSE等。
 
-#### <img src="https://github.com/user-attachments/assets/8a9fbed4-7aa0-4d29-ac8f-4e5fe1f62cf4" height="100" alt=""> <br> **Chrome OS**
+#### <img src="https://github.com/user-attachments/assets/8a9fbed4-7aa0-4d29-ac8f-4e5fe1f62cf4" height="50" alt=""> <br> **Chrome OS**
 
 
-<img src="https://github.com/user-attachments/assets/0afcd79e-6cca-4bc0-9bf9-59303dbbbee1" height="250" alt=""><br>
+<img src="https://github.com/user-attachments/assets/0afcd79e-6cca-4bc0-9bf9-59303dbbbee1" height="100" alt=""><br>
 ChromeOS，前称Chrome OS，是由Google设计基于Linux内核的操作系统，并使用Google Chrome浏览器作为其主要用户界面。因此，Chrome OS主要支持Web应用程序，2016年起开始陆续兼容Android应用程序（可通过Google Play商店下载）和Linux应用程序。
 
 ---

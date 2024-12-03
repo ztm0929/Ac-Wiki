@@ -8,7 +8,7 @@
 
 ## 选购与配置
 
-电子产品的迭代速度是非常快的，正如摩尔定律所说，“集成电路上可容纳的晶体管数目，每隔约两年便会增加一倍”[<sup>1</sup>](<https://zh.wikipedia.org/zh-hans/%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8B>)。因此必须要认识到的是：你所购买的电脑经过很短的一段时间后便会迅速贬值，性能也会与最新的电脑拉开非常大的差距。
+电子产品的迭代速度是非常快的，正如摩尔定律所说，“集成电路上可容纳的晶体管数目，每隔约两年便会增加一倍”[<sup>1</sup>](https://zh.wikipedia.org/zh-hans/%E6%91%A9%E5%B0%94%E5%AE%9A%E5%BE%8B)。因此必须要认识到的是：你所购买的电脑经过很短的一段时间后便会迅速贬值，性能也会与最新的电脑拉开非常大的差距。
 
 有一大误区是，**“越贵、越好看**（这里指的是有各种好看的灯光（RGB）以及电脑的其他外饰）**的电脑性能越高”**，这实际上是不正确的。
 
@@ -16,16 +16,13 @@
 
     例如：华为的MateBook X Pro 酷睿 Ultra 微绒典藏版，售价为11199起，但其内部的锐炫显卡远远不如5000+价位就能买到的NVIDIA Geforce RTX 4060这样的独显。
 
-**不推荐大学生购买台式机**
-    1. 台式机耗电量更大，不适合寝室内使用。
-    2. 台式机过于笨重，便携性太低。
+**不推荐大学生购买台式机** 1. 台式机耗电量更大，不适合寝室内使用。2. 台式机过于笨重，便携性太低。
 
-如果在预算足够 ~~家里有矿~~ 的情况下，可以尽量冲击自己喜欢的更高配置的电脑。一般而言，有关于电脑的参数，越大代表性能越高、存储空间更大、更先进和强大。如果按日常需求而言，一台3000左右的办公本是不错的选择；而如果有AI计算、游戏等的需求，那么6000左右的、带有比较好的显卡的游戏本是更佳的搭配。
-
+如果在预算足够 ~~家里有矿~~ 的情况下，可以尽量冲击自己喜欢的更高配置的电脑。一般而言，有关于电脑的参数，越大代表性能越高、存储空间更大、更先进和强大。如果按日常需求而言，一台 3000 左右的办公本是不错的选择；而如果有 AI 计算、游戏等的需求，那么 6000 左右的、带有比较好的显卡的游戏本是更佳的搭配。
 
 ### ~~家里有矿~~
 
-~~既要又要，这里推荐高性能台式机+续航高（轻薄本）既满足游戏/ai等高性能场景，也可以满足图书馆等复杂的外出场景。满足全场景。**（梦寐以求的场景）**~~
+~~既要又要，这里推荐高性能台式机 + 续航高（轻薄本）既满足游戏/ai 等高性能场景，也可以满足图书馆等复杂的外出场景。满足全场景。**（梦寐以求的场景）**~~
 
 ### Q&A
 
@@ -71,14 +68,13 @@
 <img src="./resources/img2.png" height="250" alt=""><br>
 <img src="./resources/img3.png" height="250" alt=""><br>
 
-
-为了与Macintosh在个人电脑领域进行竞争，在20世纪的最后几年内，微软相继推出了Windows 95 / 98 / Me 等被称为**Windows 9x**的系统，以及Windows NT 3.1/ NT 3.5/ NT 4.0/ 2000等被称为**Windows NT**的系统。其中，Windows 9x被认为是DOS内核的延续，复杂的混合16位/32位内核，薄弱的安全机制，不完全的内存保护等等导致Windows 9x极其不稳定。而基于OS/2新技术，拥有完整32位内核的Windows NT具有更好的安全性和稳定性。在长期的发展中，微软抛弃了以往的Windows 9x内核。
+为了与 Macintosh 在个人电脑领域进行竞争，在 20 世纪的最后几年内，微软相继推出了 Windows 95 / 98 / Me 等被称为**Windows 9x**的系统，以及 Windows NT 3.1/ NT 3.5/ NT 4.0/ 2000 等被称为**Windows NT**的系统。其中，Windows 9x 被认为是 DOS 内核的延续，复杂的混合 16 位/32 位内核，薄弱的安全机制，不完全的内存保护等等导致 Windows 9x 极其不稳定。而基于 OS/2 新技术，拥有完整 32 位内核的 Windows NT 具有更好的安全性和稳定性。在长期的发展中，微软抛弃了以往的 Windows 9x 内核。
 
 ##### **Windows XP**
 <img src="./resources/img4.png"  height="250" alt=""><br>
 步入21世纪，微软推出了迄今为止最为成功的操作系统版本——**Windows XP**。它兼具NT的安全稳定以及9x系列（尤其是Windows Me）的娱乐性。Windows XP长期霸占计算机操作系统市场，直到2014年4月8日微软宣布停止支持Windows XP才逐渐衰落。
 
-在Windows XP后，微软也发布了诸如Windows Vista、 Windows 7、 Windows 8/8.1、 Windows 10和Windows 11等新版本。目前主流市场上为Windows 10和Windows 11，其中Windows 10的市场份额更大。[<sup>1</sup>](https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/) Windows 10 的占用更小，而[Windows 11](https://zh.wikipedia.org/wiki/Windows_11)对新的处理器（尤其是Intel 12代及以后推出大小核）、新的内存（DDR5）支持更好。可以根据自己的电脑类型、性能和需求选择适合自己的系统。
+在 Windows XP 后，微软也发布了诸如 Windows Vista、Windows 7、Windows 8/8.1、Windows 10 和 Windows 11 等新版本。目前主流市场上为 Windows 10 和 Windows 11，其中 Windows 10 的市场份额更大。[<sup>1</sup>](https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/) Windows 10 的占用更小，而[Windows 11](https://zh.wikipedia.org/wiki/Windows_11)对新的处理器（尤其是 Intel 12 代及以后推出大小核）、新的内存（DDR5）支持更好。可以根据自己的电脑类型、性能和需求选择适合自己的系统。
 
 ---
 
@@ -89,7 +85,7 @@
 <img src="https://www.apple.com/newsroom/images/2023/09/macos-sonoma-is-available-today/article/Apple-macOS-Sonoma-3up_big.jpg.large.jpg"  height="200" alt=""><br>
 [**macOS**](https://zh.wikipedia.org/wiki/MacOS)是**苹果公司**为其Mac系列电脑开发的操作系统。macOS以其稳定性和易用性而闻名。
 
-早期的Mac OS是苹果基于Lisa OS进行研发的，作为首个拥有图形化界面的个人电脑操作系统，Lisa并没有Macintosh成功。苹果基于“将个人电脑变成家电”的理念设计了早期的Mac OS（在Mac OS 7.0以前被称为System Software）。史蒂夫·乔布斯离职后，苹果一度陷入危机。为了挽救，苹果决定收购乔布斯创立的NeXT公司，通过这种方式使得乔布斯回到苹果。乔布斯回到苹果后着手于改造Mac OS，基于NeXTSTEP的设计，Mac OS逐渐走向成熟。到了Mac OS 9.0后，苹果决定放弃原有的Mac OS ，转向以Mach为基础的XNU内核设计的Darwin新底层，从而使得Mac OS发生了本质上的不同，苹果将其称为 Mac OS X（2012～2015年间被称为OS X，而2015年以后则称为macOS），而9.0以前的版本则被称为Classic Mac OS。
+早期的 Mac OS 是苹果基于 Lisa OS 进行研发的，作为首个拥有图形化界面的个人电脑操作系统，Lisa 并没有 Macintosh 成功。苹果基于“将个人电脑变成家电”的理念设计了早期的 Mac OS（在 Mac OS 7.0 以前被称为 System Software）。史蒂夫·乔布斯离职后，苹果一度陷入危机。为了挽救，苹果决定收购乔布斯创立的 NeXT 公司，通过这种方式使得乔布斯回到苹果。乔布斯回到苹果后着手于改造 Mac OS，基于 NeXTSTEP 的设计，Mac OS 逐渐走向成熟。到了 Mac OS 9.0 后，苹果决定放弃原有的 Mac OS，转向以 Mach 为基础的 XNU 内核设计的 Darwin 新底层，从而使得 Mac OS 发生了本质上的不同，苹果将其称为 Mac OS X（2012～2015 年间被称为 OS X，而 2015 年以后则称为 macOS），而 9.0 以前的版本则被称为 Classic Mac OS。
 
 ---
 
@@ -135,6 +131,7 @@ ChromeOS，前称Chrome OS，是由Google设计基于Linux内核的操作系统�
 
 
 ## 参考链接
+
 https://zh.wikipedia.org/wiki/Linux
 https://zh.wikipedia.org/wiki/Windows_11
 https://zhuanlan.zhihu.com/p/503458188

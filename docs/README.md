@@ -97,6 +97,8 @@
 
 # 3. 📎引用与致谢
 
+- [@方山厨子](https://space.bilibili.com/274459325)的[《成年人社会生活常识课》](https://b23.tv/YOrG3A5)
+
 # 4. 💁联系我们
 
 <a href="https://t.me/AcWiki">

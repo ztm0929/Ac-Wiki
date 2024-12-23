@@ -14,7 +14,24 @@
 
 #### CET6
 
-#### IETLS
+#### [IELTS](https://ielts.org/)
+
+IELTS 也称**雅思**，全称**国际英语语言测试系统（International English Language Testing System）**，由澳大利亚教育国际开发署（IDP）、剑桥大学考试委员会、[英国文化协会](https://www.britishcouncil.cn/)共同于 1989 年设立。分数可作为一些国际上的高等院校的入学依据。
+
+IELTS 分为**听**，**说**，**读**，**写**四个部分，每个部分各有 9 分，根据学生的能力水平评定分数，最后的分数由四个部分的得分平均值裁定。总分和四个单项分均允许半分，每一项的分数权重相同。总分即是四个部分所得分数经过平均后四舍五入的成绩。总分会以最接近的整分或半分报告。为了避免疑惑，采用以下取整规定：如果平均成绩的小数位是.25，就四舍五入到下个半分档；如果平均成绩的小数位是.75，就四舍五入到下一整分档。[<sup>1</sup>](https://zh.wikipedia.org/wiki/%E9%9B%85%E6%80%9D)
+
+💰考试费用：含税的雅思考试费为 2170¥，用于英国签证及移民的雅思考试费（UKVI）为 2220¥，而生活技能类考试费用为 1250¥
+
+考试时间安排[<sup>1</sup>](https://zh.wikipedia.org/wiki/%E9%9B%85%E6%80%9D)：
+
+| 考题 | 所需时间   | 题型安排  |
+| ---- | ---------- | --------- |
+| 阅读 | 60 分钟    | 三篇文章  |
+| 听力 | 40 分钟    | 4 个 part |
+| 口说 | 11-14 分钟 | 4 个 part |
+| 写作 | 60 分钟    | 两个大题  |
+
+中国大陆地区的报名通过[NEEA](https://ielts.neea.cn/)进行报名参加，选择适当的时间和离你学校最近的考点（也可能你的学校就有考点哦），提前到考场签到，带好证件，按时参加即可。
 
 #### [TOEFL](https://www.ets.org/toefl.html)
 
@@ -39,9 +56,20 @@ TOEFL 也称**托福**，是由[ETS](https://www.ets.org)举办的英语能力�
 
 ## 竞赛
 
-### 信息安全类竞赛赛
+### 信息安全类竞赛
 
-#### [Hackergame](https://hack.lug.ustc.edu.cn/)
+#### CTF 赛制
+
+CTF 赛制为常规信息安全类竞赛采用的赛制。其主要聚焦于“攻”方向，即攻破题目。方向通常包含 Web（网络攻防）、Crypto（密码学）、Reverse（逆向工程）、Pwn（二进制安全）、Misc（杂项）等。通常采用该赛制的赛事允许联网，但不允许交换 flag 与在赛事结束前跨队交流解题思路等。部分赛事会要求选手录屏。
+
+更多信息及入门可以参照以下维基：
+
+- [CTF-Wiki](https://ctf-wiki.org)：应用最为广泛的 CTF 维基。
+- [Hello-CTF](https://hello-ctf.com)：由网络攻防圈内知名选手探姬创建的 CTF 维基，数据较新。
+
+以下比赛为贡献者建议的常见或推荐的高校的 CTF 赛事。
+
+##### [Hackergame](https://hack.lug.ustc.edu.cn/)
 
 Hackergame 是由**中国科学技术大学**主办的信息安全相关技术类的比赛，赛制为 CTF[<sup>1</sup>](<https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)>)类比赛，从题目中获得正确 flag 并获取相应积分，题目具有趣味性，且对新手具有循序渐进的引导。
 
@@ -50,6 +78,39 @@ Hackergame 是由**中国科学技术大学**主办的信息安全相关技术�
 赛制其他具体要求参见[QA](https://hack.lug.ustc.edu.cn/qa/)。
 
 历年题目及题解 (write-ups): [USTC-Hackergame](https://github.com/USTC-Hackergame)
+
+##### [GeekGame](https://geekgame.pku.edu.cn/)
+
+GeekGame 与 Hackergame 类似，是由**北京大学**（2024 年第四届 GeekGame 与**清华大学**THUCTF 合办，称为“京华杯”）主办的信息安全综合能力比赛，赛制为 CTF[<sup>1</sup>](<https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)>)类比赛，从题目中获得正确 flag 并获取相应积分。
+
+相较于 Hackergame，GeekGame 在规则上存在不同：题目分数会随着解答成功人数的增多而减少，因此做出更少人做出的题目能够获得更多的分数。赛制分为两个阶段，第二阶段将放出提示，但只能获得 40% 的分数。
+
+选手常见问题详见[选手常见问题](https://geekgame.pku.edu.cn/#/info/faq)。
+
+比赛规则和参赛须知详见[《诚信比赛须知》和《隐私政策》](https://geekgame.pku.edu.cn/#/user/terms)。
+
+历年题目及题解 (write-ups): [PKU-GeekGame](https://github.com/PKU-GeekGame/)
+
+##### [山河::CTF](https://ctf.qlu.edu.cn/)
+
+山河::CTF 是由**齐鲁工业大学**主办的信息安全综合能力比赛，赛制为 CTF[<sup>1</sup>](<https://en.wikipedia.org/wiki/Capture_the_flag_(cybersecurity)>)类比赛，从题目中获得正确 flag 并获取相应积分。
+
+**本比赛为个人赛，禁止与他人交流正在进行中的赛题**
+
+常见问题，比赛题解等可见于[比赛官网](https://ctf.qlu.edu.cn/)与微信公众号。
+
+#### AWDP 赛制
+
+相比 CTF 赛制，其加入了“防”方向，即一道题中会有攻破获得 flag 和加固题目令其不被攻破的方向。方向通常只包含 Web（网络攻防）、Pwn（二进制安全）。攻破部分和 CTF 赛制类似；防守部分中，平台将会每隔一段固定时间对题目进行攻击，防守成功即得分。
+
+<!--
+### AWD 赛制
+
+该条目仍在建设。
+
+如果需要类似参考，建议移步至探姬 [Hello-CTF：AWD](https://hello-ctf.com/HC_AWD/)。
+
+-->
 
 ### 程序设计竞赛
 

@@ -90,6 +90,7 @@
 - **学科等级**
 - **[专业技能](./04-study/certification.md)**
 - **[考试竞赛](./04-study/study.md)**
+- **[研招](./04-study/yanzhao.md)**
 
 ## 2.3. 待补充
 

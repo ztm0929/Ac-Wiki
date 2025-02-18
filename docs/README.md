@@ -159,9 +159,10 @@ python3 -m venv venv
   ```
 
 - 对于 Windows 用户：在 PowerShell 中执行以下命令进入虚拟环境：
+
   ```pwsh
-  venv\Scripts\activate.bat
-  ```
+  venv\Scripts\activate
+  ``` 
 
 ## 5.3 安装依赖
 

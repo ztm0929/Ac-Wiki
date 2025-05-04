@@ -125,21 +125,19 @@ ChromeOS，前称 Chrome OS，是由 Google 设计基于 Linux 内核的操作�
 
 #### 2345
 
-臭名昭著的 2345 及 2345 全家桶，自 2005 年开始通过制作盗版 Windows XP 以及捆绑在其他安装包的行为进行传播。安装后将自己的内核写入注册表和系统内核程序，甚至在安全模式下也无法避免加载 2345 的程序。（可参见视频：【2345 到底有多流氓？又该如何彻底清除？】https://www.bilibili.com/video/BV13L4y1s7pF）
+臭名昭著的 2345 及 2345 全家桶，自 2005 年开始通过制作盗版 Windows XP 以及捆绑在其他安装包的行为进行传播。安装后将自己的内核写入注册表和系统内核程序，甚至在安全模式下也无法避免加载 2345 的程序。（可参见视频：[2345 到底有多流氓？又该如何彻底清除？](https://www.bilibili.com/video/BV13L4y1s7pF)）
 
 ## 参考链接
 
-https://zh.wikipedia.org/wiki/Linux
-https://zh.wikipedia.org/wiki/Windows_11
-https://zhuanlan.zhihu.com/p/503458188
-https://zh.wikipedia.org/wiki/MacOS
-https://commons.wikimedia.org/w/index.php?curid=94951746 作者 Kristiyan Bogdanov - File:Windows_Updated_Family_Tree.png，CC BY-SA 3.0，  
-https://en.wikipedia.org/w/index.php?curid=65836114 By Apple Inc. - Screenshot taken from my personal MacBook Pro., Fair use,
-https://commons.wikimedia.org/w/index.php?curid=118370375 作者 Exopeditor101 - 自己的作品，CC BY-SA 4.0
+- [https://zh.wikipedia.org/wiki/Linux](https://zh.wikipedia.org/wiki/Linux)
+- [https://zh.wikipedia.org/wiki/Windows_11](https://zh.wikipedia.org/wiki/Windows_11)
+- [https://zhuanlan.zhihu.com/p/503458188](https://zhuanlan.zhihu.com/p/503458188)
+- [https://zh.wikipedia.org/wiki/MacOS](https://zh.wikipedia.org/wiki/MacOS)
+- [https://commons.wikimedia.org/w/index.php?curid=94951746](https://commons.wikimedia.org/w/index.php?curid=94951746) 作者 Kristiyan Bogdanov - File:Windows_Updated_Family_Tree.png，CC BY-SA 3.0，  
+- [https://en.wikipedia.org/w/index.php?curid=65836114](https://en.wikipedia.org/w/index.php?curid=65836114) By Apple Inc. - Screenshot taken from my personal MacBook Pro., Fair use,
+- [https://commons.wikimedia.org/w/index.php?curid=118370375](https://commons.wikimedia.org/w/index.php?curid=118370375) 作者 Exopeditor101 - 自己的作品，CC BY-SA 4.0
 
 [Windows 1.02](./resources/img1.png)、[Windows 95](./resources/img2.png)、 [Windows NT](./resources/img3.png)、[Windows XP](./resources/img4.png) 图像来源 [GitHub@Coconut-Aero](https://github.com/Coconut-Aero)，Microsoft Windows 操作系统界面版权归微软所有
-
-【2345 到底有多流氓？又该如何彻底清除？】https://www.bilibili.com/video/BV13L4y1s7pF
 
 ## 开发者笔记
 

@@ -43,7 +43,7 @@ via 小众软件
 
 涵盖了一二级的 WPS、Ms Office，二级 python、C 语言，三级网络技术题库
 
-### [HiBitUninstaller](https://www.hibitsoft.ir/Uninstaller.html) 
+### [HiBitUninstaller](https://www.hibitsoft.ir/Uninstaller.html)
 
 卸载软件、注册表清理、软件强制卸载等一体化工具
 
@@ -51,9 +51,9 @@ via 小众软件
 
 下崽器一键删除软件，可以检测大量常见的垃圾牛皮藓并卸载
 
-### [SteamCommunity_302](https://www.dogfight360.com/blog/18682/) 
+### [SteamCommunity_302](https://www.dogfight360.com/blog/18682/)
 
-GitHub访问神器
+GitHub 访问神器
 
 ## macOS
 
@@ -146,9 +146,9 @@ https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIso
 
 海外版本为 [TickTick](https://play.google.com/store/apps/details?id=com.ticktick.task)
 
-### [termux](https://termux.dev/cn/) 
+### [termux](https://termux.dev/cn/)
 
-terminal软件，可以在手机上编程、写小工具等
+terminal 软件，可以在手机上编程、写小工具等
 
 ## Linux
 
@@ -162,11 +162,11 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 
 LocalSend 是一个开源的、跨平台应用程序，允许你在本地网络上与附近设备分享文件和消息，无需互联网连接。类似于 Mac 的 AirDrop
 
-### [chsrc](https://github.com/RubyMetric/chsrc) 
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
 一键切换镜像源
 
-### [squoosh](https://squoosh.app/) 
+### [squoosh](https://squoosh.app/)
 
 图片压缩
 
@@ -198,7 +198,7 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 
 ### AdGuard
 
-它的[Firefox beta版本](https://agrd.io/extension_firefox_beta)可以直接在墙内环境下安装，其他的都被block了
+它的[Firefox beta 版本](https://agrd.io/extension_firefox_beta)可以直接在墙内环境下安装，其他的都被 block 了
 
 ### [SpcriptCat](https://github.com/scriptscat/scriptcat)
 

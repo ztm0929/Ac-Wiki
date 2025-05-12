@@ -140,7 +140,7 @@ ChromeOS，前称 Chrome OS，是由 Google 设计基于 Linux 内核的操作�
 - [https://zh.wikipedia.org/wiki/Windows_11](https://zh.wikipedia.org/wiki/Windows_11)
 - [https://zhuanlan.zhihu.com/p/503458188](https://zhuanlan.zhihu.com/p/503458188)
 - [https://zh.wikipedia.org/wiki/MacOS](https://zh.wikipedia.org/wiki/MacOS)
-- [https://commons.wikimedia.org/w/index.php?curid=94951746](https://commons.wikimedia.org/w/index.php?curid=94951746) 作者 Kristiyan Bogdanov - File:Windows_Updated_Family_Tree.png，CC BY-SA 3.0，  
+- [https://commons.wikimedia.org/w/index.php?curid=94951746](https://commons.wikimedia.org/w/index.php?curid=94951746) 作者 Kristiyan Bogdanov - File:Windows_Updated_Family_Tree.png，CC BY-SA 3.0，
 - [https://en.wikipedia.org/w/index.php?curid=65836114](https://en.wikipedia.org/w/index.php?curid=65836114) By Apple Inc. - Screenshot taken from my personal MacBook Pro., Fair use,
 - [https://commons.wikimedia.org/w/index.php?curid=118370375](https://commons.wikimedia.org/w/index.php?curid=118370375) 作者 Exopeditor101 - 自己的作品，CC BY-SA 4.0
 

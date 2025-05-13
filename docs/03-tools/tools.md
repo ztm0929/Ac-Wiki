@@ -65,9 +65,11 @@ via 小众软件
 
 GitHub访问神器
 
+
 ### [爱传送](https://mfiles.maokebing.com/)
 
 局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
+
 
 ## macOS
 
@@ -160,7 +162,7 @@ GitHub访问神器
 
 ### [termux](https://termux.dev/cn/)
 
-terminal软件，可以在手机上编程、写小工具等
+terminal 软件，可以在手机上编程、写小工具等
 
 ## Linux
 
@@ -174,9 +176,9 @@ Neovim 的预制发行版，速度快，安装和更新容易。非常适合 Lin
 
 拦截广告，浏览体验更好。
 
-### AdGuard
+### [chsrc](https://github.com/RubyMetric/chsrc)
 
-它的 [Firefox beta](https://agrd.io/extension_firefox_beta) 版本可以直接在墙内环境下安装，其他的都被block了
+### [squoosh](https://squoosh.app/)
 
 ### [沉浸式翻译 - 网页翻译插件 | PDF 翻译 | 免费](https://immersivetranslate.com/)
 
@@ -197,6 +199,10 @@ YouTube 双语字幕，同时显示两种语言字幕，支持自定义样式。
 ### [Chrome 插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes?tab=readme-ov-file)
 
 为优秀的 Chrome 插件写一本中文说明书，让 Chrome 插件英雄们造福人类~
+
+### AdGuard
+
+它的[Firefox beta 版本](https://agrd.io/extension_firefox_beta)可以直接在墙内环境下安装，其他的都被 block 了
 
 ### [SpcriptCat](https://github.com/scriptscat/scriptcat)
 

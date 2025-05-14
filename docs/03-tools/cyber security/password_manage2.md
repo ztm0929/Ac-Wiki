@@ -52,14 +52,14 @@ HTTPS 阻止网站以任何在网络上窥探的人都能轻松查看的方式�
 
 ## 域名（Domain Name）
 
-是互联网上用来识别和访问网站的一个易于记忆的地址。它将 IP 地址（一串数字）转换为人类可读的格式，比如 www.example.com。域名系统（DNS）负责将域名解析为对应的 IP 地址，以便用户的设备能够找到并访问相应的服务器。
+是互联网上用来识别和访问网站的一个易于记忆的地址。它将 IP 地址（一串数字）转换为人类可读的格式，比如 <www.example.com。域名系统（DNS）负责将域名解析为对应的> IP 地址，以便用户的设备能够找到并访问相应的服务器。
 顶级域名（Top-Level Domain, TLD）： </br>
 
 ![image](https://github.com/user-attachments/assets/29a37ddd-379c-452d-98c4-1e7b43bce374)
 
 ---
 
-### 子域名（Subdomain）：
+### 子域名（Subdomain）
 
 位于域名的最左侧部分，可以自定义。例如，在 subdomain.example.com 中，subdomain 就是子域名。
 二级域名（Second-Level Domain, SLD）：
@@ -123,6 +123,6 @@ HTTPS 阻止网站以任何在网络上窥探的人都能轻松查看的方式�
 
 ## 参考文章
 
-https://cloud.tencent.com/developer/article/1758154
+<https://cloud.tencent.com/developer/article/1758154>
 
-https://www.cloudflare.com/zh-cn/learning/ssl/what-is-https/
+<https://www.cloudflare.com/zh-cn/learning/ssl/what-is-https/>

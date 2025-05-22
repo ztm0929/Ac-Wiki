@@ -47,6 +47,7 @@ theme:
     - content.action.edit # source edit
     - content.action.view # source view
     - content.feedback
+    - content.tooltips
     - navigation.instant # Instant navigation
     - navigation.instant.progress
     - navigation.top # Top navigation

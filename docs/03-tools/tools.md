@@ -65,6 +65,10 @@ via 小众软件
 
 GitHub 访问神器
 
+### [爱传送](https://mfiles.maokebing.com/)
+
+局域网多端传送/剪贴板同步软件，支持 iOS，Android，Windows，MacOs
+
 ## macOS
 
 ### [Alfred](https://www.alfredapp.com/)

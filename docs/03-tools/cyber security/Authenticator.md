@@ -69,6 +69,7 @@
 - **缺点**: 
   - 依赖于 KeePass，适用范围有限。
   - 功能相对单一，仅支持 TOTP。
+
 ## 总结
 
 - **Microsoft Authenticator** 和 **Google Authenticator** 非常稳定和可靠，适合与它们自家产品和服务生态圈配合使用。

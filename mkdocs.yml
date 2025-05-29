@@ -39,6 +39,8 @@ edit_uri: edit/main/docs/
 theme:
   language: zh
   name: material
+  font:
+    text: Noto Sans
   custom_dir: ./src/overrides
   logo: assets/logo.jpg
   favicon: assets/logo_clear.png
@@ -141,3 +143,5 @@ plugins:
       background: none
       shadow: false
       manual: false
+  - privacy:
+      assets: false # 图片等大量资源托管在 GitHub 上，开启可能会触发 API 请求的限制

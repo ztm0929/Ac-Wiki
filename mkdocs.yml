@@ -1,5 +1,7 @@
 nav:
   - Home: README.md
+  - 博客:
+      - blog/index.md
   - 关于Wiki: about-wiki.md
   - 学生优惠:
       - 主要: 01-student-discounts/student-discounts.md
@@ -53,6 +55,7 @@ theme:
     - navigation.instant.progress
     - navigation.top # Top navigation
     - navigation.footer
+    - navigation.indexes
     #- navigation.tabs 后续可考虑启用
     #- navigation.tabs.sticky
     - search.suggest
@@ -64,12 +67,12 @@ theme:
       scheme: default
       toggle:
         icon: material/weather-sunny
-        name: Switch to dark mode
+        name: 切换到深色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
         icon: material/weather-night
-        name: Switch to light mode
+        name: 切换到浅色模式
 
 extra:
   social:
@@ -145,3 +148,4 @@ plugins:
       manual: false
   - privacy:
       assets: false # 图片等大量资源托管在 GitHub 上，开启可能会触发 API 请求的限制
+  - blog

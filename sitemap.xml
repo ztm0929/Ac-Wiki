@@ -100,4 +100,12 @@
          <loc>https://acwiki.pages.dev/blog/</loc>
          <lastmod>2025-05-29</lastmod>
     </url>
+    <url>
+         <loc>https://acwiki.pages.dev/blog/2024/10/18/hello-acwiki/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
+    <url>
+         <loc>https://acwiki.pages.dev/blog/archive/2024/</loc>
+         <lastmod>2025-05-29</lastmod>
+    </url>
 </urlset>

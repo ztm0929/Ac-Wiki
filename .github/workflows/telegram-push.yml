@@ -4,15 +4,16 @@ on:
   push:
     branches:
       - main
-  pull_request:
+  pull_request_target:  # 改为 pull_request_target 以允许 Secrets 传递
     types: [opened]
 
 jobs:
-  bulid:
+  build:
     name: Build
     runs-on: ubuntu-latest
     steps:
       - name: send message on push
+        if: github.event_name == 'push'
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.GROUP_ID }}
@@ -22,8 +23,9 @@ jobs:
             Commit message: ${{ github.event.commits[0].message }}
 
             https://github.com/${{ github.repository }}/commit/${{github.sha}}
+            
       - name: send message on PR open
-        if: github.event_name == 'pull_request'
+        if: github.event_name == 'pull_request_target'
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.GROUP_ID }}

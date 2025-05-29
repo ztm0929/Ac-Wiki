@@ -149,4 +149,9 @@ plugins:
   - privacy:
       assets: false # 图片等大量资源托管在 GitHub 上，开启可能会触发 API 请求的限制
   - blog
+  - rss:
+      match_path: "blog/posts/.*"
+      date_from_meta:
+        as_creation: date.created
+        as_update: date.updated
   - tags

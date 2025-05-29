@@ -1,8 +1,13 @@
 ---
+authors:
+  - NekoMirra
+  - ztm0929
 date:
   created: 2024-10-18
   updated: 2025-05-29
 readtime: 3
+tags:
+  - AcWiki
 ---
 
 # Hello AcWiki!

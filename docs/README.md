@@ -231,7 +231,7 @@
       <h3 style="margin: 0; font-size: 18px; color: #333;">方山厨子</h3>
     </div>
     <p style="margin: 0 0 15px 0; font-size: 15px; color: #666; line-height: 1.6;">
-      <a href="https://b23.tv/YOrG3A5" style="color: #e91e63; text-decoration: none; border-bottom: 1px dashed #e91e63;">《成年人社会生活常识课》</a> - 提供了大量实用的社会生活知识，是本项目重要的参考资源。
+      <a href="https://www.bilibili.com/video/BV1eWxneME3Q" style="color: #e91e63; text-decoration: none; border-bottom: 1px dashed #e91e63;">《成年人社会生活常识课》</a> - 提供了大量实用的社会生活知识，是本项目重要的参考资源。
     </p>    <div style="text-align: right;">
       
 [![访问主页](https://img.shields.io/static/v1?label=哔哩哔哩&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/274459325)

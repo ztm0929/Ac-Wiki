@@ -21,7 +21,7 @@
     <a href="https://github.com/Ac-Wiki/AcWiKi/stargazers" style="margin: 5px; display: inline-block; transform: translateY(0); transition: all 0.2s ease;">
       <img src="https://img.shields.io/github/stars/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&color=ff9800" alt="GitHub Stars" style="filter: drop-shadow(0 2px 3px rgba(255, 152, 0, 0.3));"/>
     </a>
-    <a href="https://github.com/Ac-Wiki/AcWiKi/commits/main" style="margin: 5px; display: inline-block; transform: translateY(0); transition: all 0.2s ease;"> 
+    <a href="https://github.com/Ac-Wiki/AcWiKi/commits/main" style="margin: 5px; display: inline-block; transform: translateY(0); transition: all 0.2s ease;">
       <img src="https://img.shields.io/github/commit-activity/t/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&label=Commits&color=4caf50" alt="GitHub Commits" style="filter: drop-shadow(0 2px 3px rgba(76, 175, 80, 0.3));"/>
     </a>
     <a href="https://github.com/Ac-Wiki/AcWiKi/issues" style="margin: 5px; display: inline-block; transform: translateY(0); transition: all 0.2s ease;">
@@ -38,7 +38,7 @@
   <h2 style="margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;"><span style="font-size: 36px;">🔥</span> 特别推荐</h2>  <p style="font-size: 17px; line-height: 1.6; margin: 20px 0;"><strong><a href="https://kdocs.cn/l/cm7uuqpXuXew" style="color: #d4a000; text-decoration: none; border-bottom: 2px solid #f0c000;">ACwiki 航站楼</a></strong> - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航</p>
 
 <a href="https://kdocs.cn/l/cm7uuqpXuXew" class="skip-lightbox">
-  <img src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white"/>
+  <img alt="立即访问" src="https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white"/>
 </a>
 </div>
 
@@ -52,7 +52,7 @@
 <div align="center" style="margin-top: 20px;">
 
 <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new">
-  <img src="https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="提交建议" src="https://img.shields.io/static/v1?label=&message=提交建议&color=2196f3&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 </div>
@@ -218,7 +218,7 @@
 <p style="font-size: 16px; color: #666;">更多内容正在筹备中，欢迎加入共建！</p>
 
 <a href="https://github.com/Ac-Wiki/AcWiKi/issues/new">
-  <img src="https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="提出内容建议" src="https://img.shields.io/static/v1?label=&message=提出内容建议&color=9c27b0&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
@@ -243,9 +243,9 @@
     <p style="margin: 0 0 15px 0; font-size: 15px; color: #666; line-height: 1.6;">
       <a href="https://www.bilibili.com/video/BV1eWxneME3Q" style="color: #e91e63; text-decoration: none; border-bottom: 1px dashed #e91e63;">《成年人社会生活常识课》</a> - 提供了大量实用的社会生活知识，是本项目重要的参考资源。
     </p>    <div style="text-align: right;">
-      
+
 <a href="https://space.bilibili.com/274459325">
-  <img src="https://img.shields.io/static/v1?label=&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white"/>
+  <img alt="访问主页" src="https://img.shields.io/static/v1?label=&message=访问主页&color=e91e63&style=for-the-badge&logo=bilibili&logoColor=white"/>
 </a>
     </div>
   </div>
@@ -265,16 +265,16 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/lib-pku/libpku">
-        <img src="https://img.shields.io/static/v1?label=&message=贵校课程&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=贵校课程&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="贵校课程"/>
       </a>
       <a href="https://github.com/martinwu42/project-hover">
-        <img src="https://img.shields.io/static/v1?label=&message=气垫船&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=气垫船&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="气垫船"/>
       </a>
       <a href="https://github.com/EECS-PKU-XSB/Shared-learning-materials">
-        <img src="https://img.shields.io/static/v1?label=&message=信科资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=信科资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="信科资料"/>
       </a>
       <a href="https://github.com/tongtzeho/PKUCourse">
-        <img src="https://img.shields.io/static/v1?label=&message=大作业&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=大作业&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="大作业"/>
       </a>
     </div>
   </div>
@@ -286,7 +286,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/PKUanonym/REKCARC-TSC-UHT">
-        <img src="https://img.shields.io/static/v1?label=&message=计算机&color=34a853&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=计算机&color=34a853&style=for-the-badge&logo=github&logoColor=white" alt="计算机"/>
       </a>
     </div>
   </div>
@@ -298,7 +298,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/QSCTech/zju-icicles">
-        <img src="https://img.shields.io/static/v1?label=&message=课程攻略&color=ea4335&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=课程攻略&color=ea4335&style=for-the-badge&logo=github&logoColor=white" alt="课程攻略"/>
       </a>
     </div>
   </div>
@@ -310,7 +310,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/USTC-Resource/USTC-Course">
-        <img src="https://img.shields.io/static/v1?label=&message=计算机&color=fbbc05&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=计算机&color=fbbc05&style=for-the-badge&logo=github&logoColor=white" alt="计算机"/>
       </a>
     </div>
   </div>
@@ -321,10 +321,10 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/CoolPhilChen/SJTU-Courses/">
-        <img src="https://img.shields.io/static/v1?label=&message=课程资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=课程资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="课程资料"/>
       </a>
       <a href="https://github.com/SurviveSJTU/SurviveSJTUManual">
-        <img src="https://img.shields.io/static/v1?label=&message=生存手册&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=生存手册&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="生存手册"/>
       </a>
     </div>
   </div>
@@ -336,7 +336,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/idealclover/NJU-Review-Materials">
-        <img src="https://img.shields.io/static/v1?label=&message=复习资料&color=34a853&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=复习资料&color=34a853&style=for-the-badge&logo=github&logoColor=white" alt="复习资料"/>
       </a>
     </div>
   </div>
@@ -348,7 +348,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/zjdx1998/seucourseshare">
-        <img src="https://img.shields.io/static/v1?label=&message=课程共享&color=ea4335&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=课程共享&color=ea4335&style=for-the-badge&logo=github&logoColor=white" alt="课程共享"/>
       </a>
     </div>
   </div>
@@ -360,7 +360,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/sysuexam/SYSU-Exam">
-        <img src="https://img.shields.io/static/v1?label=&message=课程资料&color=fbbc05&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=课程资料&color=fbbc05&style=for-the-badge&logo=github&logoColor=white" alt="课程资料"/>
       </a>
     </div>
   </div>
@@ -372,7 +372,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/CooperNiu/ZZU-Courses-Resource">
-        <img src="https://img.shields.io/static/v1?label=&message=复习资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=复习资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white" alt="复习资料"/>
       </a>
     </div>
   </div>
@@ -384,7 +384,7 @@
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 8px; flex: 1;">
       <a href="https://github.com/brenner8023/gdut-course">
-        <img src="https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white" alt="课程攻略"/>
       </a>
     </div>
   </div>
@@ -403,13 +403,13 @@
 <div align="center">
 
 <a href="https://t.me/AcWiki">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=频道&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram频道"/>
 </a>
 <a href="https://t.me/AcFourm">
-  <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=Telegram&message=群组&color=26A5E4&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram群组"/>
 </a>
 <a href="https://qm.qq.com/q/WJI3hgBcm4">
-  <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white"/>
+  <img src="https://img.shields.io/static/v1?label=QQ群&message=860675581&color=12B7F5&style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ群"/>
 </a>
 
 </div>
@@ -450,48 +450,36 @@
 
 在终端执行以下命令克隆仓库：
 
-```bash
-git clone https://github.com/Ac-Wiki/AcWiKi.git
-```
+`git clone https://github.com/Ac-Wiki/AcWiKi.git`
 
 ## 5.2 初始化虚拟环境
 
 进入仓库根目录，使用以下命令创建虚拟环境
 
-```bash
-python3 -m venv venv
-```
+`python3 -m venv venv`
 
 ### Linux / macOS 用户
 
 在终端中执行以下命令进入虚拟环境：
 
-```bash
-source venv/bin/activate
-```
+`source venv/bin/activate`
 
 ### Windows 用户
 
 在 PowerShell 中执行以下命令进入虚拟环境：
 
-```powershell
-venv\Scripts\activate
-```
+`venv\Scripts\activate`
 
 ## 5.3 安装依赖
 
 仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
 
-```bash
-pip install -r requirements.txt
-```
+`pip install -r requirements.txt`
 
 ## 5.4 构建本地网页
 
 执行以下命令：
 
-```bash
-mkdocs serve
-```
+`mkdocs serve`
 
-一般情况下，将会部署在本地的`8000`端口，可根据终端输出判断端口号。访问 `http://127.0.0.1:端口号` 即可查看本地网页。
+一般情况下，将会部署在本地的 `8000` 端口，可根据终端输出判断端口号。访问 `http://127.0.0.1:8000` 即可查看本地网页。

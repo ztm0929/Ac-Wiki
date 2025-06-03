@@ -1,21 +1,18 @@
 <div align="center">
-  <a href="https://github.com/Ac-Wiki/AcWiKi">
-    <img src="./assets/logo_clear.png" alt="AcWiki Logo" width="200"/>
+  <a href="https://github.com/Ac-Wiki/Ac-Wiki">
+    <img src="./assets/logo_clear.png" alt="Ac-Wiki Logo" width="200"/>
   </a>
 </div>
 
-# ✨AcWiki
+# ✨Ac-Wiki
   
 ## 高等教育学社基础知识开源建设工程
   
   *专为大学生群体打造的知识共享平台，助力学业与社会衔接*
   
-  *由 AcWiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
+  *由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
 
   [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/AcWiKi)
-
-
-
 
 [![License](https://img.shields.io/github/license/Ac-Wiki/AcWiKi?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/AcWiKi/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/AcWiKi?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/AcWiKi/stargazers)
@@ -27,7 +24,7 @@
 
 ## 🔥 特别推荐
 
-> **[ACwiki 航站楼](https://kdocs.cn/l/cm7uuqpXuXew)** - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航
+> **[Ac-Wiki 航站楼](https://kdocs.cn/l/cm7uuqpXuXew)** - 为解决互联网信息碎片化带来的搜索成本上升，我们计划发起一项大型共建在线文档，邀请你共同建设学术导航
 
 [![立即访问](https://img.shields.io/static/v1?label=&message=立即访问&color=f0c000&style=for-the-badge&logo=internetexplorer&logoColor=white)](https://kdocs.cn/l/cm7uuqpXuXew)
 
@@ -47,7 +44,7 @@
 
 **1.** 本项目完全为自发组织的公益项目，我们随时欢迎您的参与和使用，并对您的付出与建议表达衷心的感谢
 
-**2.** 本项目英文名称 AcWiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与"AcFun",信息奥赛中的"Accepted"等并无主观或客观上的联系
+**2.** 本项目英文名称 Ac-Wiki 中，Ac 为 Academy（学术）的简称，Wiki 意为百科，本项目与"AcFun",信息奥赛中的"Accepted"等并无主观或客观上的联系
 
 **3.** 本项目更新的信息 / 内容 / 文件等资料，可能来自贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，会积极标明引用情况，引用情况请参阅相关页面注释
 
@@ -65,14 +62,14 @@
 
 ### 📚 学生优惠
 
-- ✅ [**学生优惠**](./01-student-discounts/student-discounts)
+- ✅ [**学生优惠**](./01-student-discounts/student-discounts.md)
 - 🚧 **编程 / 开发 / 新质生产力**
 
 ### 🤝 圆梦帮扶
 
-- ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/scholarship)
+- ✅ [奖/助学金申请](./08-Dream-Realization-Assistance/Scholar-Ship.md)
 - ✅ [勤工俭学申请](./08-Dream-Realization-Assistance/Work-Study-Program.md)
-- ✅ [国家助学贷款（常见问题）](./09-Campus-Life/national-student-loan-FAQ)
+- ✅ [国家助学贷款（常见问题）](./09-Campus-Life/national-student-loan-FAQ.md)
 - 🚧 大学生创业扶持
 
 ### 🏫 校园生活
@@ -106,7 +103,7 @@
 
 ### 📘 方法论
 
-- ✅ [**高效检索信息/获取资源**](./02-search-platforms/search-platforms)
+- ✅ [**高效检索信息/获取资源**](./02-search-platforms/search-platforms.md)
 - 🚧 **第一篇论文**
   - 🚧 学术规范与学术不端行为解释
   - 🚧 论文是什么，有哪些分类
@@ -118,7 +115,7 @@
   - 🚧 审阅与修订
   - 🚧 国内外著名期刊简介、分区、投稿方式
   - 🚧 其他学术名词解释：什么是影响因子，论文审稿流程，作者顺序与影响
-- ✅ [**计算机基础技能**](./07-computer-basic/computer-basic)
+- ✅ [**计算机基础技能**](./07-computer-basic/computer-basic.md)
 - 🚧 **运用新质生产力**
 - 🚧 **合理规划时间**
 - 🚧 **高效学习技巧**
@@ -126,27 +123,27 @@
 ### 🛠 工具平台
 
 - 🚧 **获取资源**
-- ✅ [**效率优化**](./03-tools/tools)
+- ✅ [**效率优化**](./03-tools/tools.md)
 - 🚧 **学术网站**
 - 🚧 **数据检索**
 
 #### 🔒 网络安全
 
-- ✅ [密码管理](./03-tools/cyber%20security/password_manage1)
-- ✅ [账号安全](./03-tools/cyber%20security/Authenticator)
-- ✅ [隐私保护](./03-tools/cyber%20security/privacy)
+- ✅ [密码管理](./03-tools/cyber%20security/password_manage1.md)
+- ✅ [账号安全](./03-tools/cyber%20security/Authenticator.md)
+- ✅ [隐私保护](./03-tools/cyber%20security/privacy.md)
 
 #### 🏃 校园应用
 
-- ✅ [**风驰电掣**](./03-tools/qi-ji-yin-qiao/campus-running)
-- ✅ [**珍惜时间**](./03-tools/qi-ji-yin-qiao/pointless-courses)
+- ✅ [**风驰电掣**](./03-tools/qi-ji-yin-qiao/campus-running.md)
+- ✅ [**珍惜时间**](./03-tools/qi-ji-yin-qiao/pointless-courses.md)
 
 ### 🏆 考赛介绍
 
 - 🚧 **学科等级**
-- ✅ [**专业技能**](./04-study/certification)
-- ✅ [**考试竞赛**](./04-study/study)
-- ✅ [**研招**](./04-study/yanzhao)
+- ✅ [**专业技能**](./04-study/certification.md)
+- ✅ [**考试竞赛**](./04-study/study.md)
+- ✅ [**研招**](./04-study/yanzhao.md)
 
 ## ⏳ 待补充
 
@@ -242,7 +239,7 @@
 
 ## 贡献/参与者
 
-感谢所有参与到开发/测试中的朋友们，是大家的帮助让 AcWiKi 越来越好！ (*´▽｀) ノノ
+感谢所有参与到开发/测试中的朋友们，是大家的帮助让 Ac-Wiki 越来越好！ (*´▽｀) ノノ
 
 <div align="center">
   <a href="https://github.com/Ac-Wiki/AcWiKi/graphs/contributors">

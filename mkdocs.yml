@@ -53,8 +53,8 @@ theme:
     - navigation.top # Top navigation
     - navigation.footer
     - navigation.indexes
-    #- navigation.tabs 后续可考虑启用
-    #- navigation.tabs.sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
     - search.suggest
     - search.highlight
     - search.share

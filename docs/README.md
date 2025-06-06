@@ -12,7 +12,7 @@
   
   *由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参与！*
 
-  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ac-Wiki/Ac-Wiki)
+  [![访问WIKI](https://img.shields.io/static/v1?label=GitHub&message=访问WIKI&color=2196f3&style=for-the-badge&logo=github&logoColor=white)](https://ac-wiki.org/)
 
 [![License](https://img.shields.io/github/license/Ac-Wiki/Ac-Wiki?style=for-the-badge&color=2196f3)](https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/Ac-Wiki/Ac-Wiki?style=for-the-badge&logo=github&color=ff9800)](https://github.com/Ac-Wiki/Ac-Wiki/stargazers)
@@ -114,7 +114,7 @@
   - 🚧 审阅与修订
   - 🚧 国内外著名期刊简介、分区、投稿方式
   - 🚧 其他学术名词解释：什么是影响因子，论文审稿流程，作者顺序与影响
-- ✅ [**计算机基础技能**](./07-computer-basic/computer-basic.md)
+- ✅ [**计算机基础技能**](./07-computer-basic/SurfingTutorial.md)
 - 🚧 **运用新质生产力**
 - 🚧 **合理规划时间**
 - 🚧 **高效学习技巧**

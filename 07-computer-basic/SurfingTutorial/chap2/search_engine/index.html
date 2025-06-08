@@ -1282,66 +1282,82 @@
 
 <h1 id="_1">引入<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h1>
 <p>前一页介绍的浏览器界面都非常简洁，大部分上网操作都是从<code>地址栏</code>开始的。
-<img alt="地址栏" src="../../img/chap2_edge_location.png" />
-*   <strong><code>后退</code>按钮：</strong> 返回之前浏览过的页面。<strong>重要提示：</strong> 点击标签页上的 <code>X</code> 是<strong>关闭当前标签页</strong>，并非后退操作。关闭标签页后，浏览历史通常无法恢复（除非重新打开标签页并点击历史记录）。
-*   <strong><code>前进</code>按钮：</strong> 在点击了“后退”之后，用于重新访问后续浏览过的页面。
-*   <strong><code>刷新</code>按钮：</strong> (通常位于地址栏右侧或按 <code>F5</code>) 重新加载当前页面，获取最新内容。
-*   <strong><code>主页</code>按钮：</strong> (可选显示) 一键返回设定的浏览器主页。
-*   <strong>地址栏 (URL 栏)：</strong> 浏览器的核心输入区域，用于：
-    *   <strong>输入网址 (URL)：</strong> 直接访问特定网站。URL 结构通常为：<code>协议://域名/路径?参数</code> (如 <code>https://www.example.com/path/to/page?query=value</code>)。
-    *   <strong>执行搜索：</strong> 直接在地址栏输入关键词，浏览器会使用默认搜索引擎进行搜索。
-    *   <strong>显示当前页面信息：</strong>
-        *   <strong>协议：</strong> 最左侧部分 (如 <code>https://</code>, <code>http://</code>)。<code>https</code> (带锁图标) 表示连接是加密的，更安全。<code>http</code> 是未加密的。
-        *   <strong>域名：</strong> 地址栏中通常高亮显示的部分 (如 <code>www.example.com</code>)。这是网站的唯一身份标识。
-        *   <strong>路径：</strong> 域名后面的部分 (如 <code>/path/to/page</code>)，指示当前页面在网站中的位置。
-*   <strong><code>书签/收藏</code>按钮：</strong> 保存当前网址，方便以后快速访问。</p>
+<img alt="地址栏" src="../../img/chap2_edge_location.png" /></p>
+<ul>
+<li><strong><code>后退</code>按钮：</strong> 返回之前浏览过的页面。<strong>重要提示：</strong> 点击标签页上的 <code>X</code> 是<strong>关闭当前标签页</strong>，并非后退操作。关闭标签页后，浏览历史通常无法恢复（除非重新打开标签页并点击历史记录）。</li>
+<li><strong><code>前进</code>按钮：</strong> 在点击了“后退”之后，用于重新访问后续浏览过的页面。</li>
+<li><strong><code>刷新</code>按钮：</strong> (通常位于地址栏右侧或按 <code>F5</code>) 重新加载当前页面，获取最新内容。</li>
+<li><strong><code>主页</code>按钮：</strong> (可选显示) 一键返回设定的浏览器主页。</li>
+<li><strong>地址栏 (URL 栏)：</strong> 浏览器的核心输入区域，用于：</li>
+<li><strong>输入网址 (URL)：</strong> 直接访问特定网站。URL 结构通常为：<code>协议://域名/路径?参数</code> (如 <code>https://www.example.com/path/to/page?query=value</code>)。</li>
+<li><strong>执行搜索：</strong> 直接在地址栏输入关键词，浏览器会使用默认搜索引擎进行搜索。</li>
+<li><strong>显示当前页面信息：</strong><ul>
+<li><strong>协议：</strong> 最左侧部分 (如 <code>https://</code>, <code>http://</code>)。<code>https</code> (带锁图标) 表示连接是加密的，更安全。<code>http</code> 是未加密的。</li>
+<li><strong>域名：</strong> 地址栏中通常高亮显示的部分 (如 <code>www.example.com</code>)。这是网站的唯一身份标识。</li>
+<li><strong>路径：</strong> 域名后面的部分 (如 <code>/path/to/page</code>)，指示当前页面在网站中的位置。</li>
+</ul>
+</li>
+<li><strong><code>书签/收藏</code>按钮：</strong> 保存当前网址，方便以后快速访问。</li>
+</ul>
 <h2 id="_2">域名<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
 <p><img alt="域名展示" src="../../img/chap2_domain.png" /></p>
-<p><strong>域名的作用：</strong>
-1.  <strong>唯一标识网站：</strong> 每个合法网站都有唯一的域名。
-2.  <strong>区分真假网站：</strong> 是识别广告网站、仿冒网站（钓鱼网站）的关键依据。
-3.  <strong>建立信任：</strong> 知名网站通常使用简洁、易记的官方域名。</p>
-<p><strong>如何识别？</strong>
-*   仔细查看地址栏中<strong>高亮显示的部分</strong>，确认它是否与你<strong>预期访问的官方网站域名</strong>完全一致（包括子域名，如 <code>www</code>）。
-*   如上图所示，只有<strong>最后一个结果</strong> (<code>www.mi.com</code>) 是小米的<strong>真正官网</strong>域名，其他都是广告、推广或非官方网站。</p>
+<p><strong>域名的作用：</strong></p>
+<ol>
+<li><strong>唯一标识网站：</strong> 每个合法网站都有唯一的域名。</li>
+<li><strong>区分真假网站：</strong> 是识别广告网站、仿冒网站（钓鱼网站）的关键依据。</li>
+<li><strong>建立信任：</strong> 知名网站通常使用简洁、易记的官方域名。</li>
+</ol>
+<p><strong>如何识别？</strong></p>
+<ul>
+<li>仔细查看地址栏中<strong>高亮显示的部分</strong>，确认它是否与你<strong>预期访问的官方网站域名</strong>完全一致（包括子域名，如 <code>www</code>）。</li>
+<li>如上图所示，只有<strong>最后一个结果</strong> (<code>www.mi.com</code>) 是小米的<strong>真正官网</strong>域名，其他都是广告、推广或非官方网站。</li>
+</ul>
 <p><strong>前提：</strong> 你需要<strong>知道目标网站的官方域名是什么</strong>。</p>
-<p><strong>搜索引擎的选择至关重要：</strong>
-*   如果一个搜索引擎（尤其某些国内搜索引擎）返回的结果中充斥着广告、无法清晰辨别官网域名，或者根本找不到官网链接，<strong>强烈建议更换搜索引擎</strong>。优质的搜索结果应清晰标注“官网”或优先展示官方来源。</p>
+<p><strong>搜索引擎的选择至关重要：</strong></p>
+<ul>
+<li>如果一个搜索引擎（尤其某些国内搜索引擎）返回的结果中充斥着广告、无法清晰辨别官网域名，或者根本找不到官网链接，<strong>强烈建议更换搜索引擎</strong>。优质的搜索结果应清晰标注“官网”或优先展示官方来源。</li>
+</ul>
 <h3 id="_3">如何直接使用网址访问网页<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
 <p><strong>场景：</strong> 你需要访问路由器管理后台，其地址通常是 <code>http://192.168.2.1/</code> (具体地址请查看路由器背面标签或说明书)。</p>
 <ul>
 <li>
 <p><strong>正确操作 (直接输入网址访问)：</strong>
-    <img alt="搜索以url" src="../../img/chap2_search_with_url.png" /></p>
-<ul>
-<li><strong>操作：</strong> 在地址栏<strong>直接输入</strong> <code>192.168.2.1</code> 或 <code>http://192.168.2.1</code> 并按回车。</li>
-<li><strong>结果：</strong> 浏览器会<strong>直接访问</strong>这个 IP 地址对应的本地网页（即你的路由器登录页面）。</li>
-</ul>
+  <img alt="搜索以 url" src="../../img/chap2_search_with_url.png" /></p>
+</li>
+<li>
+<p><strong>操作：</strong> 在地址栏<strong>直接输入</strong> <code>192.168.2.1</code> 或 <code>http://192.168.2.1</code> 并按回车。</p>
+</li>
+<li>
+<p><strong>结果：</strong> 浏览器会<strong>直接访问</strong>这个 IP 地址对应的本地网页（即你的路由器登录页面）。</p>
 </li>
 <li>
 <p><strong>错误操作 (使用搜索引擎搜索)：</strong>
-    <img alt="搜索以搜索引擎" src="../../img/chap2_search_with_search_engine.png" /></p>
-<ul>
+  <img alt="搜索以搜索引擎" src="../../img/chap2_search_with_search_engine.png" /></p>
+</li>
 <li><strong>操作：</strong> 在地址栏或搜索引擎框中输入 <code>192.168.2.1</code> 并按回车（或点击搜索按钮）。</li>
 <li><strong>结果：</strong> 搜索引擎会返回大量包含这个数字串的<strong>网页结果</strong>（通常是路由器设置教程、相关新闻等）。你<strong>无法</strong>通过这些链接直接访问到 <code>192.168.2.1</code> 这个本地地址。</li>
 </ul>
-</li>
+<p><strong>核心区别：</strong></p>
+<ul>
+<li><strong>地址栏输入：</strong> 浏览器理解为“<strong>我要访问这个具体的网址</strong>”。</li>
+<li><strong>搜索引擎框输入：</strong> 搜索引擎理解为“<strong>我要搜索包含这些关键词的网页</strong>”。</li>
 </ul>
-<p><strong>核心区别：</strong>
-*   <strong>地址栏输入：</strong> 浏览器理解为“<strong>我要访问这个具体的网址</strong>”。
-*   <strong>搜索引擎框输入：</strong> 搜索引擎理解为“<strong>我要搜索包含这些关键词的网页</strong>”。</p>
 <h1 id="_4">为什么需要搜索引擎？搜索引擎如何使用？<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h1>
-<p><strong>为什么需要？</strong>
-*   互联网上的网站浩如烟海，用户不可能记住所有需要的网址。
-*   搜索引擎通过爬取和索引网页内容，帮助用户根据关键词快速找到相关信息。</p>
-<p><strong>如何使用？</strong>
-*   <strong>基本操作：</strong> 在搜索引擎的输入框中输入描述你需求的关键词（如“如何更换轮胎”、“北京天气”、“Python 教程”），然后点击搜索或按回车。
-*   <strong>进阶技巧：</strong>
-    *   <strong>使用引号 (<code>"</code>)：</strong> 搜索<strong>完全匹配</strong>的短语。例如 <code>"量子力学基础"</code> 会精确匹配包含这个完整短语的页面，排除只包含“量子”、“力学”、“基础”的页面。
-    *   <strong>排除关键词 (<code>-</code>)：</strong> 在不想出现的关键词前加 <code>-</code>。例如 <code>下载 Photoshop -破解 -绿色版</code> 会排除包含“破解”和“绿色版”的结果。
-    *   <strong>限定网站 (<code>site:</code>)：</strong> 只在特定网站内搜索。例如 <code>site:zhihu.com 学习方法</code> 只在知乎内搜索“学习方法”。
-    *   <strong>限定文件类型 (<code>filetype:</code>)：</strong> 搜索特定类型的文件。例如 <code>filetype:pdf 经济学原理</code> 搜索 PDF 格式的经济学原理资料。
-    *   <strong>使用通配符 (<code>*</code>)：</strong> 代表未知词。例如 <code>世界最长的 * 河</code> 会匹配“世界最长的河流”、“世界最长的运河”等。</p>
+<p><strong>为什么需要？</strong></p>
+<ul>
+<li>互联网上的网站浩如烟海，用户不可能记住所有需要的网址。</li>
+<li>搜索引擎通过爬取和索引网页内容，帮助用户根据关键词快速找到相关信息。</li>
+</ul>
+<p><strong>如何使用？</strong></p>
+<ul>
+<li><strong>基本操作：</strong> 在搜索引擎的输入框中输入描述你需求的关键词（如“如何更换轮胎”、“北京天气”、“Python 教程”），然后点击搜索或按回车。</li>
+<li><strong>进阶技巧：</strong></li>
+<li><strong>使用引号 (<code>"</code>)：</strong> 搜索<strong>完全匹配</strong>的短语。例如 <code>"量子力学基础"</code> 会精确匹配包含这个完整短语的页面，排除只包含“量子”、“力学”、“基础”的页面。</li>
+<li><strong>排除关键词 (<code>-</code>)：</strong> 在不想出现的关键词前加 <code>-</code>。例如 <code>下载 Photoshop -破解 -绿色版</code> 会排除包含“破解”和“绿色版”的结果。</li>
+<li><strong>限定网站 (<code>site:</code>)：</strong> 只在特定网站内搜索。例如 <code>site:zhihu.com 学习方法</code> 只在知乎内搜索“学习方法”。</li>
+<li><strong>限定文件类型 (<code>filetype:</code>)：</strong> 搜索特定类型的文件。例如 <code>filetype:pdf 经济学原理</code> 搜索 PDF 格式的经济学原理资料。</li>
+<li><strong>使用通配符 (<code>*</code>)：</strong> 代表未知词。例如 <code>世界最长的 * 河</code> 会匹配“世界最长的河流”、“世界最长的运河”等。</li>
+</ul>
 <h3 id="_5">选择哪个搜索引擎？<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -1379,8 +1395,10 @@
 </tr>
 </tbody>
 </table>
-<p><strong>强烈不推荐：</strong>
-*   <strong>360搜索、搜狗搜索等：</strong> 搜索结果质量较低，广告泛滥且难以区分，信息可信度差。</p>
+<p><strong>强烈不推荐：</strong></p>
+<ul>
+<li><strong>360 搜索、搜狗搜索等：</strong> 搜索结果质量较低，广告泛滥且难以区分，信息可信度差。</li>
+</ul>
 <h2 id="_6">软件的搜索与下载：避开陷阱<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
 <p>软件下载是搜索引擎最常见的使用场景之一，也是风险（广告、捆绑软件、病毒）最高的场景。</p>
 <h3 id="_7">策略与原则<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
@@ -1394,56 +1412,52 @@
 </li>
 <li><strong>警惕下载站：</strong><ul>
 <li>下载站是下载软件的第二选择（官网不可用时）。</li>
-<li>识别下载站：搜索结果中的链接标题常包含“下载”、“软件园”、“之家”、“太平洋下载”、“华军软件园”、“ZOL下载”等字样。</li>
+<li>识别下载站：搜索结果中的链接标题常包含“下载”、“软件园”、“之家”、“太平洋下载”、“华军软件园”、“ZOL 下载”等字样。</li>
 </ul>
 </li>
 <li><strong>拒绝捆绑下载器：</strong><ul>
 <li><strong>绝对不要点击</strong>任何标注 <strong>“安全下载”</strong>、<strong>“高速下载”</strong>、<strong>“极速下载”</strong>、<strong>“一键安装”</strong> 的按钮！这些几乎都是<strong>下载器</strong>。</li>
 <li>下载器会在后台静默安装多款你不需要的软件（甚至包含病毒木马），导致电脑卡顿、弹窗广告泛滥。</li>
-<li><strong>危害示例：</strong> <a href="https://www.bilibili.com/video/BV15X4y1T73S">破坏力堪比勒索病毒！P2P高速下载器才是世界上最恶心的电脑病毒！</a></li>
+<li><strong>危害示例：</strong> <a href="https://www.bilibili.com/video/BV15X4y1T73S">破坏力堪比勒索病毒！P2P 高速下载器才是世界上最恶心的电脑病毒！</a></li>
 </ul>
 </li>
 <li><strong>检查下载的文件：</strong><ul>
 <li>官网下载：文件名通常清晰规范（如 <code>QQ9.9.9.exe</code>, <code>ChromeSetup.exe</code>）。</li>
-<li>下载站下载：优先选择 <strong>“本地下载”</strong>、<strong>“[地区]下载”</strong> (如电信/联通/移动)、<strong>“普通下载”</strong> 链接。下载后检查文件名：<ul>
+<li>下载站下载：优先选择 <strong>“本地下载”</strong>、<strong>“[地区]下载”</strong> (如电信/联通/移动)、<strong>“普通下载”</strong> 链接。下载后检查文件名：</li>
 <li><strong>安全：</strong> <code>.exe</code> 文件命名规范（如 <code>FastCopy_Setup.exe</code>）或压缩包（<code>.zip</code>, <code>.rar</code>, <code>.7z</code>）。</li>
 <li><strong>危险：</strong> <code>.exe</code> 文件命名奇怪、包含推广信息（如 <code>@下载_1234.exe</code>, <code>好压迷你版.exe</code>, <code>绿色破解.exe</code>）。</li>
-</ul>
-</li>
 </ul>
 </li>
 <li><strong>破解软件：</strong> 存在安全与法律风险，需格外谨慎。优先考虑官网试用版、免费替代品或教育授权。</li>
 </ol>
 <h2 id="_8">常规软件的搜索和下载<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h2>
-<p>如果你要下载QQ，在搜索引擎搜索<code>QQ</code>会得到下面的结果</p>
-<p><img alt="qq搜索" src="../../img/chap2_search_qq1.png" /></p>
+<p>如果你要下载 QQ，在搜索引擎搜索<code>QQ</code>会得到下面的结果</p>
+<p><img alt="qq 搜索" src="../../img/chap2_search_qq1.png" /></p>
 <p>请问，你应该选择哪一个？</p>
 <ul>
 <li>如果你选择<code>1</code>，恭喜你找到了正确的下载方式</li>
 <li>如果你选择<code>2</code>，说明你可能不太熟悉国内互联网</li>
 </ul>
-<p><strong>请注意:</strong></p>
+<p><strong>请注意：</strong></p>
 <ul>
 <li>大多数情况下搜索软件百度将会在第一页内显示<code>官网</code>字样，这样的结果通常是没有问题的</li>
 <li>通常情况下<code>安全下载</code>,<code>高速下载</code>等字样的链接会在你的电脑上安装捆绑软件</li>
 <li>如果你选择从官网下载软件，请不要被<code>最新版</code>，<code>官方版</code>等描述所迷惑，因为你在官网下载的软件通常是最新的官方版</li>
 <li>有时候排名第一的不一定的官网，需要仔细鉴别广告</li>
 </ul>
-<p>下面是Bing的搜索结果，没有官网字样</p>
-<p><img alt="qq搜索" src="../../img/chap2_search_qq2.png" /></p>
+<p>下面是 Bing 的搜索结果，没有官网字样</p>
+<p><img alt="qq 搜索" src="../../img/chap2_search_qq2.png" /></p>
 <h3 id="_9">下载方式演示<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
 <p><strong>常规软件 - 官网下载 (以 QQ 为例):</strong>
-    <img alt="qq搜索" src="../../img/chap2_search_qq1.png" /></p>
+    <img alt="qq 搜索" src="../../img/chap2_search_qq1.png" /></p>
 <ul>
 <li><strong>选择 1 (<code>腾讯QQ官方网站</code>):</strong> <strong>正确！</strong> 域名 <code>im.qq.com</code> 是腾讯官方域名。点击进入官网，找到官方下载按钮。</li>
 <li><strong>选择 2 (<code>腾讯软件中心</code> 或其他下载站):</strong> <strong>风险高！</strong> 虽然可能最终能下载到软件，但页面充斥着“高速下载”陷阱，极易误点导致下载器安装。<strong>即使找到真实下载链接，也优先选择官网。</strong></li>
 <li><strong>Bing 搜索结果 (无官网标注)：</strong>
-    <img alt="qq搜索" src="../../img/chap2_search_qq2.png" /><ul>
+  <img alt="qq 搜索" src="../../img/chap2_search_qq2.png" /></li>
 <li>仍需仔细识别域名 (<code>im.qq.com</code>) 进入官网下载。</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>
@@ -1452,12 +1466,10 @@
 <ul>
 <li>识别下载站链接 (标题含“下载”、“之家”等)。</li>
 <li><strong>进入下载站页面后：</strong>
-    <img alt="fastcopy" src="../../img/chap2_search_fastcopy2.png" /><ul>
+  <img alt="fastcopy" src="../../img/chap2_search_fastcopy2.png" /></li>
 <li><strong>避开陷阱：</strong> 无视所有 <strong>“安全下载”</strong>、<strong>“高速下载”</strong>、<strong>“在线安装”</strong> 按钮。它们通常是下载器或在线安装器。</li>
 <li><strong>寻找真实链接：</strong> 在页面下方或专门区域寻找 <strong>“本地下载”</strong>、<strong>“普通下载”</strong>、<strong>“[地区]下载”</strong> (如“上海电信下载”、“广东联通下载”) 链接。这些通常是真实的软件安装包或压缩包。</li>
 <li><strong>下载后检查：</strong> 确认文件名是规范的 <code>.exe</code> 或压缩包格式。</li>
-</ul>
-</li>
 </ul>
 </li>
 <li>
@@ -1466,12 +1478,10 @@
 <li><strong>常用论坛：</strong> <code>52破解</code> 是较知名和规范的软件分享论坛。</li>
 <li><strong>搜索方法：</strong> 在搜索引擎输入 <code>52破解 软件名称</code> (如 <code>52破解 Photoshop</code>)。</li>
 <li><strong>查找位置：</strong> 软件通常发布在 <code>『精品软件区』</code> 或其他相关板块。</li>
-<li><strong>下载方式：</strong> 链接多为百度网盘、阿里云盘、蓝奏云等。需注意：<ul>
+<li><strong>下载方式：</strong> 链接多为百度网盘、阿里云盘、蓝奏云等。需注意：</li>
 <li>网盘链接可能失效。</li>
 <li>下载需要相应网盘客户端或插件。</li>
 <li>解压密码通常在帖子内注明。</li>
-</ul>
-</li>
 <li><strong>信誉参考：</strong> <a href="https://masuit.com/">懒得勤快</a> 也是一个口碑较好的软件分享站点。</li>
 </ul>
 </li>
@@ -1479,25 +1489,23 @@
 <p><strong>通过 BT 下载：</strong></p>
 <ul>
 <li><strong>原理：</strong> P2P (点对点) 下载，下载者同时上传已下载部分。适合大型文件、冷门资源。</li>
-<li><strong>推荐客户端：</strong> <strong><code>qBittorrent</code></strong> (开源、免费、无广告、功能强大)。<strong>不推荐迅雷</strong> 原因：<ul>
+<li><strong>推荐客户端：</strong> <strong><code>qBittorrent</code></strong> (开源、免费、无广告、功能强大)。<strong>不推荐迅雷</strong> 原因：</li>
 <li><strong>吸血：</strong> 迅雷主要从其他 BT 用户下载，但很少上传回馈网络（影响整体速度）。</li>
 <li><strong>广告多：</strong> 界面充斥广告。</li>
 <li><strong>资源占用高。</strong></li>
 <li><strong>被私有 BT 站封禁：</strong> 很多高质量资源站禁止迅雷连接。</li>
-</ul>
-</li>
-<li><strong>寻找资源：</strong><ul>
+<li><strong>寻找资源：</strong></li>
 <li><strong>聚合搜索引擎：</strong> <a href="https://gw1.torlook.info/">TorLook</a> (覆盖广，支持多语言，<strong>推荐使用英文关键词搜索</strong>)。</li>
 <li><strong>专用索引站：</strong> 如 The Pirate Bay (TPB), RARBG, 1337x 等 (访问需注意网络和法律风险)。</li>
 <li><strong>论坛/Magnet 链接分享：</strong> 资源论坛常分享磁力链接 (<code>magnet:?xt=urn:btih:...</code>)。</li>
 </ul>
 </li>
-</ul>
-</li>
 </ol>
-<p><strong>关于 Windows 应用商店：</strong>
-*   虽然 Win10/11 自带 Microsoft Store，但<strong>一般不推荐</strong>作为主要软件下载渠道。
-*   <strong>原因：</strong> 应用数量和质量参差不齐，更新可能滞后，功能可能受限（沙盒环境）。但对于 UWP 应用或某些特定软件（如某些游戏、工具），它可能是唯一或便捷的来源。</p>
+<p><strong>关于 Windows 应用商店：</strong></p>
+<ul>
+<li>虽然 Win10/11 自带 Microsoft Store，但<strong>一般不推荐</strong>作为主要软件下载渠道。</li>
+<li><strong>原因：</strong> 应用数量和质量参差不齐，更新可能滞后，功能可能受限（沙盒环境）。但对于 UWP 应用或某些特定软件（如某些游戏、工具），它可能是唯一或便捷的来源。</li>
+</ul>
 <p><img alt="TorLook" src="../../img/chap2_search_torlook.png" /></p>
 
 
@@ -1521,7 +1529,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-05T21:31:02+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-05</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-08T10:07:44+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-08</span>
   </span>
 
     

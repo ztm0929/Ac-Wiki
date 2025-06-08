@@ -5,18 +5,6 @@
          <lastmod>2025-06-08</lastmod>
     </url>
     <url>
-         <loc>https://ac-wiki.org/about-wiki/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/01-student-discounts/student-discounts/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/02-search-platforms/search-platforms/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
          <loc>https://ac-wiki.org/03-tools/tools/</loc>
          <lastmod>2025-06-08</lastmod>
     </url>
@@ -149,55 +137,7 @@
          <lastmod>2025-06-08</lastmod>
     </url>
     <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/01-FirstLesson-Of-School/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/02-Different-Courses/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/03-Signin-And-Attendance/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/04-Changing-Majors/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/05-Minor/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/06-Student-Email/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/07-Library/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/08-Resolving-Conflicts/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/09-Relation-Ships/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/10-Getting-Out-Of-Singleness/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/11-Medical-Insurance/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/CampusLife/</loc>
-         <lastmod>2025-06-08</lastmod>
-    </url>
-    <url>
-         <loc>https://ac-wiki.org/09-Campus-Life/national-student-loan-FAQ/</loc>
+         <loc>https://ac-wiki.org/academic-resources/</loc>
          <lastmod>2025-06-08</lastmod>
     </url>
     <url>
@@ -206,6 +146,78 @@
     </url>
     <url>
          <loc>https://ac-wiki.org/blog/2024/10/18/hello-ac-wiki/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/01-FirstLesson-Of-School/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/02-Different-Courses/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/03-Signin-And-Attendance/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/04-Changing-Majors/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/05-Minor/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/06-Student-Email/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/07-Library/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/08-Resolving-Conflicts/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/09-Relation-Ships/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/10-Getting-Out-Of-Singleness/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/11-Medical-Insurance/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/campus-life/national-student-loan-FAQ/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/community-hub/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/community-hub/about-wiki/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/general-skills/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/general-skills/search-platforms/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/general-skills/student-discounts/</loc>
+         <lastmod>2025-06-08</lastmod>
+    </url>
+    <url>
+         <loc>https://ac-wiki.org/growth-path/</loc>
          <lastmod>2025-06-08</lastmod>
     </url>
     <url>

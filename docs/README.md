@@ -33,9 +33,9 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 ## 🎓 共建计划
 
-好久不见！距离全国高考还有 15 天，在此祝小朋友们金榜题名！
+好久不见！高考已经结束，在此祝小朋友们金榜题名！
 
-距离本项目启动已有近一年时间，在下一个开学季即将来临之际，我们将对 Ac-Wiki 进行新一轮的更新扩充。
+距离本项目启动已有近一年时间，在暑假即将结束、新学期即将到来之际，我们将对 Ac-Wiki 进行新一轮的更新扩充，为即将踏入大学校门的同学们提供更全面的指导。
 
 后期我们会在频道中征集对特定板块的建议并汇总，项目主页稍后会同步更新，我们呼吁更多志愿者参与文档共建，共同打通高等教育的"最后一公里"💗
 
@@ -87,6 +87,9 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 - ✅ [化解矛盾](./campus-life/08-Resolving-Conflicts.md)
 - ✅ [人际关系](./campus-life/09-Relation-Ships.md)
 - ✅ [脱单技巧](./campus-life/10-Getting-Out-Of-Singleness.md)
+- ✅ [国际交流项目指南](./campus-life/12-International-Exchange.md)
+- ✅ [大学生医保使用指南](./campus-life/11-Medical-Insurance.md)
+- 🚧 **专业学习指导**（生化环材专业实验室经验、转专业策略、专业发展建议）
 
 ### 🌎 社会生活
 
@@ -147,6 +150,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 - ✅ [**专业技能**](./04-study/certification.md)
 - ✅ [**考试竞赛**](./04-study/study.md)
 - ✅ [**研招**](./04-study/yanzhao.md)
+- ✅ [**生化/环境/材料专业指南**](./04-study/biochem-env-materials-guide.md)
 
 ## ⏳ 待补充
 
@@ -211,6 +215,10 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 ### 广东工业大学
 
 - [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenner8023/gdut-course)
+
+### 江西理工大学
+
+- [![学习资料库](https://img.shields.io/static/v1?label=&message=学习资料库&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikouhjw/jxust-Learning-database)
 
 ---
 

@@ -135,7 +135,11 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.betterem
   - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
   - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
 
 plugins:
   - search:

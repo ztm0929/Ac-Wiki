@@ -46,7 +46,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 **3.** 本项目更新的信息 / 内容 / 文件等资料，可能来自贡献者本人或各类已有书籍 / 资料 / 文献，同时会积极的在互联网中引用，我们秉持尊重原则，会积极标明引用情况，引用情况请参阅相关页面注释
 
-\*4.\*\* 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与完善中，本着自愿参与原则，我们将对贡献者在 GitHub Profile 页面展示致谢
+**4.** 这是一个用爱发电的项目，因此更新频率及生命周期可能无法保证，我们特别呼吁愿意贡献 / 有过 Wiki 编辑经验 / 各行业专家参与到项目的维护与完善中，本着自愿参与原则，我们将对贡献者在 GitHub Profile 页面展示致谢
 
 **5.** 频道关联群组 [TG](https://t.me/AcFourm)/[QQ](https://qm.qq.com/q/rmBHBLvpew) 用作维护组与用户交流的场所，欢迎建言献策，友好沟通，群内交流并无过多约束，请理性讨论
 
@@ -60,7 +60,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 ### 📚 学生优惠
 
-- ✅ [**学生优惠**](./01-student-discounts/student-discounts.md)
+- ✅ [**学生优惠**](./general-skills/student-discounts.md)
 - 🚧 **编程 / 开发 / 新质生产力**
 
 ### 🤝 圆梦帮扶
@@ -104,7 +104,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 ### 📘 方法论
 
-- ✅ [**高效检索信息/获取资源**](./02-search-platforms/search-platforms.md)
+- ✅ [**高效检索信息/获取资源**](./general-skills/search-platforms.md)
 - 🚧 **第一篇论文**
   - 🚧 学术规范与学术不端行为解释
   - 🚧 论文是什么，有哪些分类
@@ -130,8 +130,8 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 #### 🔒 网络安全
 
-- ✅ [密码管理](./03-tools/cyber%20security/password_manage1.md)
-- ✅ [账号安全](./03-tools/cyber%20security/Authenticator.md)
+- ✅ [密码管理](./03-tools/password_manage.md)
+<!--- ✅ [账号安全](./03-tools/cyber%20security/Authenticator.md) --->
 - ✅ [隐私保护](./03-tools/cyber%20security/privacy.md)
 
 #### 🏃 校园应用
@@ -169,51 +169,51 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 ### 北京大学
 
-- [![贵校课程](https://img.shields.io/static/v1?label=&message=贵校课程&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/lib-pku/libpku)
-- [![气垫船](https://img.shields.io/static/v1?label=&message=气垫船&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinwu42/project-hover)
-- [![信科资料](https://img.shields.io/static/v1?label=&message=信科资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
-- [![大作业](https://img.shields.io/static/v1?label=&message=大作业&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongtzeho/PKUCourse)
+[![贵校课程](https://img.shields.io/static/v1?label=&message=贵校课程&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/lib-pku/libpku)
+[![气垫船](https://img.shields.io/static/v1?label=&message=气垫船&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/martinwu42/project-hover)
+[![信科资料](https://img.shields.io/static/v1?label=&message=信科资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/EECS-PKU-XSB/Shared-learning-materials)
+[![大作业](https://img.shields.io/static/v1?label=&message=大作业&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tongtzeho/PKUCourse)
 
 ### 清华大学
 
-- [![计算机](https://img.shields.io/static/v1?label=&message=计算机&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+[![计算机](https://img.shields.io/static/v1?label=&message=计算机&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
 ### 浙江大学
 
-- [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=ea4335&style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSCTech/zju-icicles)
+[![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=ea4335&style=for-the-badge&logo=github&logoColor=white)](https://github.com/QSCTech/zju-icicles)
 
 ### 中国科学技术大学
 
-- [![计算机](https://img.shields.io/static/v1?label=&message=计算机&color=fbbc05&style=for-the-badge&logo=github&logoColor=white)](https://github.com/USTC-Resource/USTC-Course)
+[![计算机](https://img.shields.io/static/v1?label=&message=计算机&color=fbbc05&style=for-the-badge&logo=github&logoColor=white)](https://github.com/USTC-Resource/USTC-Course)
 
 ### 上海交通大学
 
-- [![课程资料](https://img.shields.io/static/v1?label=&message=课程资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoolPhilChen/SJTU-Courses/)
-- [![生存手册](https://img.shields.io/static/v1?label=&message=生存手册&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurviveSJTU/SurviveSJTUManual)
+[![课程资料](https://img.shields.io/static/v1?label=&message=课程资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CoolPhilChen/SJTU-Courses/)
+[![生存手册](https://img.shields.io/static/v1?label=&message=生存手册&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SurviveSJTU/SurviveSJTUManual)
 
 ### 南京大学
 
-- [![复习资料](https://img.shields.io/static/v1?label=&message=复习资料&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/idealclover/NJU-Review-Materials)
+[![复习资料](https://img.shields.io/static/v1?label=&message=复习资料&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/idealclover/NJU-Review-Materials)
 
 ### 东南大学
 
-- [![课程共享](https://img.shields.io/static/v1?label=&message=课程共享&color=ea4335&style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjdx1998/seucourseshare)
+[![课程共享](https://img.shields.io/static/v1?label=&message=课程共享&color=ea4335&style=for-the-badge&logo=github&logoColor=white)](https://github.com/zjdx1998/seucourseshare)
 
 ### 中山大学
 
-- [![课程资料](https://img.shields.io/static/v1?label=&message=课程资料&color=fbbc05&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sysuexam/SYSU-Exam)
+[![课程资料](https://img.shields.io/static/v1?label=&message=课程资料&color=fbbc05&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sysuexam/SYSU-Exam)
 
 ### 郑州大学
 
-- [![复习资料](https://img.shields.io/static/v1?label=&message=复习资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CooperNiu/ZZU-Courses-Resource)
+[![复习资料](https://img.shields.io/static/v1?label=&message=复习资料&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/CooperNiu/ZZU-Courses-Resource)
 
 ### 广东工业大学
 
-- [![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenner8023/gdut-course)
+[![课程攻略](https://img.shields.io/static/v1?label=&message=课程攻略&color=34a853&style=for-the-badge&logo=github&logoColor=white)](https://github.com/brenner8023/gdut-course)
 
 ### 江西理工大学
 
-- [![学习资料库](https://img.shields.io/static/v1?label=&message=学习资料库&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikouhjw/jxust-Learning-database)
+[![学习资料库](https://img.shields.io/static/v1?label=&message=学习资料库&color=4285f4&style=for-the-badge&logo=github&logoColor=white)](https://github.com/sikouhjw/jxust-Learning-database)
 
 ---
 
@@ -255,39 +255,42 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 
 # 🖥️ 本地部署
 
-## 5.1 克隆仓库
+## 克隆仓库
 
 确保您安装了 git，可于[Git 官网](https://git-scm.com/)下载
 
 在终端执行以下命令克隆仓库：
 
-`git clone https://github.com/Ac-Wiki/Ac-Wiki.git`
+`git clone https://github.com/Ac-Wiki/Ac-Wiki.git --depth=1`
 
-## 5.2 初始化虚拟环境
+## 初始化虚拟环境
 
-进入仓库根目录，使用以下命令创建虚拟环境
+### Win
+
+1. 使用 VSCode 打开仓库目录 `Code.exe ./Ac-Wiki`
+2. 打开 VSCode 的终端 `Ctrl + \``
+3. 验证 python 版本，输入 `python --version` 并回车，有类似 `Python 3.13.3` 的输出说明 python 已正确安装
+4. 输入 `python3 -m venv venv` 以创建一个名为 `venv` 的虚拟环境
+5. 此时，VSCode 会弹出提示，询问你是否使用该环境，选择是
+6. 在终端中输入 `python venv\Scripts\activate` 以使用该虚拟环境
+
+### Linux / macOS
+
+创建一个虚拟环境
 
 `python3 -m venv venv`
-
-### Linux / macOS 用户
 
 在终端中执行以下命令进入虚拟环境：
 
 `source venv/bin/activate`
 
-### Windows 用户
+## 安装依赖
 
-在 PowerShell 中执行以下命令进入虚拟环境：
-
-`venv\Scripts\activate`
-
-## 5.3 安装依赖
-
-仓库根目录下有`requirements.txt`，在虚拟环境中执行以下命令安装依赖：
+仓库根目录下有 `requirements.txt`，在虚拟环境中执行以下命令安装依赖：
 
 `pip install -r requirements.txt`
 
-## 5.4 构建本地网页
+## 构建本地网页
 
 执行以下命令：
 

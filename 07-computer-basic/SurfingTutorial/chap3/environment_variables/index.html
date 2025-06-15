@@ -233,7 +233,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../../.." class="md-tabs__link">
+      <a href="/" class="md-tabs__link">
         
   
   
@@ -429,7 +429,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../.." class="md-nav__link">
+      <a href="/" class="md-nav__link">
         
   
   
@@ -452,6 +452,10 @@
   
     
     
+      
+        
+      
+        
       
         
       
@@ -747,6 +751,52 @@
   
   
   
+    <li class="md-nav__item">
+      <a href="../../../../campus-life/11-Medical-Insurance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    医保指南
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../campus-life/12-International-Exchange/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    国际交流
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
     
     
       
@@ -769,10 +819,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_11" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_13" >
         
           
-          <label class="md-nav__link" for="__nav_2_11" id="__nav_2_11_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_13" id="__nav_2_13_label" tabindex="0">
             
   
   
@@ -785,8 +835,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_11_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_2_11">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_13">
             <span class="md-nav__icon md-icon"></span>
             圆梦帮扶
           </label>
@@ -1125,8 +1175,6 @@
       
         
       
-        
-      
     
     
     
@@ -1170,30 +1218,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../03-tools/cyber%20security/Authenticator/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    双重身份验证
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../../03-tools/cyber%20security/password_manage1/" class="md-nav__link">
+      <a href="../../../../03-tools/password_manage/" class="md-nav__link">
         
   
   
@@ -1982,7 +2007,7 @@
           <li class="md-nav__item">
   <a href="#_4" class="md-nav__link">
     <span class="md-ellipsis">
-      常用环境变量
+      查看常用环境变量
     </span>
   </a>
   
@@ -2013,25 +2038,25 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#linux_1" class="md-nav__link">
+    <span class="md-ellipsis">
+      Linux设置临时环境变量
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#linux_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      Linux设置永久环境变量
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#_6" class="md-nav__link">
-    <span class="md-ellipsis">
-      设置临时环境变量
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#_7" class="md-nav__link">
-    <span class="md-ellipsis">
-      设置永久环境变量
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#_8" class="md-nav__link">
     <span class="md-ellipsis">
       常用环境变量
     </span>
@@ -2045,7 +2070,7 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#_9" class="md-nav__link">
+  <a href="#_7" class="md-nav__link">
     <span class="md-ellipsis">
       环境变量的作用
     </span>
@@ -2116,17 +2141,17 @@
 <div class="highlight"><pre><span></span><code>set
 </code></pre></div>
 <h3 id="powershell">在 PowerShell 中查看环境变量<a class="headerlink" href="#powershell" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code>Get-ChildItem Env:
+<div class="highlight"><pre><span></span><code><span class="nb">Get-ChildItem</span> <span class="n">Env</span><span class="p">:</span>
 </code></pre></div>
 <h3 id="_2">设置临时环境变量<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code>set VARIABLE_NAME=value
+<div class="highlight"><pre><span></span><code><span class="nb">set </span><span class="n">VARIABLE_NAME</span><span class="p">=</span><span class="n">value</span>
 </code></pre></div>
 <h3 id="_3">设置永久环境变量<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h3>
 <ol>
 <li>打开"系统属性" → "高级" → "环境变量"</li>
 <li>在用户变量或系统变量中添加/修改</li>
 </ol>
-<h3 id="_4">常用环境变量<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
+<h3 id="_4">查看常用环境变量<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
 <ul>
 <li><code>PATH</code>: 系统查找可执行文件的路径</li>
 <li><code>TEMP</code>: 临时文件目录</li>
@@ -2139,10 +2164,10 @@
 <p>或</p>
 <div class="highlight"><pre><span></span><code>env
 </code></pre></div>
-<h3 id="_6">设置临时环境变量<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h3>
-<div class="highlight"><pre><span></span><code>export VARIABLE_NAME=value
+<h3 id="linux_1">Linux设置临时环境变量<a class="headerlink" href="#linux_1" title="Permanent link">&para;</a></h3>
+<div class="highlight"><pre><span></span><code><span class="nb">export</span><span class="w"> </span><span class="nv">VARIABLE_NAME</span><span class="o">=</span>value
 </code></pre></div>
-<h3 id="_7">设置永久环境变量<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
+<h3 id="linux_2">Linux设置永久环境变量<a class="headerlink" href="#linux_2" title="Permanent link">&para;</a></h3>
 <p>将 <code>export VARIABLE_NAME=value</code> 添加到以下文件之一：</p>
 <ul>
 <li><code>~/.bashrc</code> (bash 用户)</li>
@@ -2150,13 +2175,13 @@
 <li><code>/etc/environment</code> (系统全局)</li>
 </ul>
 <p>注意：~/.bashrs 和 ~/.zshrc 是 Shell 配置文件，终端启动前会执行一次，但对于 <code>/etc/environment</code>，只支持简单的 <code>VAR=VAL</code> 格式</p>
-<h3 id="_8">常用环境变量<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
+<h3 id="_6">常用环境变量<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h3>
 <ul>
 <li><code>PATH</code>: 可执行文件搜索路径</li>
 <li><code>HOME</code>: 用户主目录</li>
 <li><code>USER</code>: 当前用户名</li>
 </ul>
-<h2 id="_9">环境变量的作用<a class="headerlink" href="#_9" title="Permanent link">&para;</a></h2>
+<h2 id="_7">环境变量的作用<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
 <ol>
 <li>配置程序运行环境</li>
 <li>存储系统路径信息</li>
@@ -2174,10 +2199,10 @@
 <p>PowerShell 有一个特殊脚本，在步骤 2 没有找到指令，但是在当前目录找到指令是仍然会报错，但报错后脚本会告知用户，当前目录应该使用 ./a.out 类似的方式执行</p>
 <h3 id="path_1">添加目录到 PATH<a class="headerlink" href="#path_1" title="Permanent link">&para;</a></h3>
 <p>Windows:</p>
-<div class="highlight"><pre><span></span><code>setx PATH &quot;%PATH%;C:\new\path&quot;
+<div class="highlight"><pre><span></span><code><span class="n">setx</span> <span class="n">PATH</span> <span class="s2">&quot;%PATH%;C:\new\path&quot;</span>
 </code></pre></div>
 <p>Linux:</p>
-<div class="highlight"><pre><span></span><code>export PATH=$PATH:/new/path
+<div class="highlight"><pre><span></span><code><span class="nb">export</span><span class="w"> </span><span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:/new/path
 </code></pre></div>
 
 
@@ -2201,7 +2226,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-08T10:07:44+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-08</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-11T13:18:24+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-11</span>
   </span>
 
     
@@ -2228,6 +2253,11 @@
 
     
     <nav>
+      
+        <a href="https://github.com/Mikachu2333" class="md-author" title="@Mikachu2333">
+          
+          <img src="https://avatars.githubusercontent.com/u/63829496?v=4&amp;size=72" alt="Mikachu2333">
+        </a>
       
         <a href="https://github.com/conglinyizhi" class="md-author" title="@conglinyizhi">
           
@@ -2395,10 +2425,6 @@
         <script src="../../../../js/feedback.js"></script>
       
         <script src="https://cn.vercount.one/js"></script>
-      
-        <script src="../../../../js/mathjax.js"></script>
-      
-        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

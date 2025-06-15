@@ -233,7 +233,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../../.." class="md-tabs__link">
+      <a href="/" class="md-tabs__link">
         
   
   
@@ -429,7 +429,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../.." class="md-nav__link">
+      <a href="/" class="md-nav__link">
         
   
   
@@ -452,6 +452,10 @@
   
     
     
+      
+        
+      
+        
       
         
       
@@ -747,6 +751,52 @@
   
   
   
+    <li class="md-nav__item">
+      <a href="../../../../campus-life/11-Medical-Insurance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    医保指南
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../campus-life/12-International-Exchange/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    国际交流
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
     
     
       
@@ -769,10 +819,10 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_11" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_13" >
         
           
-          <label class="md-nav__link" for="__nav_2_11" id="__nav_2_11_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_13" id="__nav_2_13_label" tabindex="0">
             
   
   
@@ -785,8 +835,8 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_11_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_2_11">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_13">
             <span class="md-nav__icon md-icon"></span>
             圆梦帮扶
           </label>
@@ -1125,8 +1175,6 @@
       
         
       
-        
-      
     
     
     
@@ -1170,30 +1218,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../../../03-tools/cyber%20security/Authenticator/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    双重身份验证
-    
-  </span>
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../../../03-tools/cyber%20security/password_manage1/" class="md-nav__link">
+      <a href="../../../../03-tools/password_manage/" class="md-nav__link">
         
   
   
@@ -2203,11 +2228,13 @@
 <li>系统备份还原</li>
 </ul>
 </li>
-<li><strong>配置建议</strong>：
-  <div class="highlight"><pre><span></span><code><span class="k">1.</span> 设置中心 &gt; 弹窗设置：关闭所有推广选项
+<li><strong>配置建议</strong>：</li>
+</ul>
+<div class="highlight"><pre><span></span><code><span class="k">1.</span> 设置中心 &gt; 弹窗设置：关闭所有推广选项
 <span class="k">2.</span> 功能大全 &gt; 右键菜单管理：删除多余项
 <span class="k">3.</span> 安全防护中心 &gt; 核晶防护：开启（需 VT 支持）
-</code></pre></div></li>
+</code></pre></div>
+<ul>
 <li><strong>警惕点</strong>：安装时取消勾选"360 浏览器"等捆绑项</li>
 <li><a href="https://weishi.360.cn/">官网下载</a></li>
 </ul>
@@ -2302,16 +2329,16 @@
 <p>黑客可通过扫描工具发现开放端口</p>
 </li>
 <li>
-<p><strong>典型攻击场景</strong>：
-   <div class="highlight"><pre><span></span><code> sequenceDiagram
+<p><strong>典型攻击场景</strong>：</p>
+</li>
+</ol>
+<div class="highlight"><pre><span></span><code> sequenceDiagram
      actor 攻击者
      participant 受害者设备
      攻击者 -&gt;&gt;+ 受害者设备：扫描 IPv6 地址段
      受害者设备 --&gt;&gt;- 攻击者：响应开放端口 (如 445)
      攻击者 -&gt;&gt; 受害者设备：利用 SMB 漏洞植入木马
-</code></pre></div></p>
-</li>
-</ol>
+</code></pre></div>
 <h3 id="_7">最佳配置方案<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -2359,11 +2386,13 @@
 <p><strong>应用例外</strong>：</p>
 </li>
 <li>仅允许知名程序通过防火墙</li>
-<li>示例白名单：
-     <div class="highlight"><pre><span></span><code>chrome.exe
+<li>
+<p>示例白名单：</p>
+<div class="highlight"><pre><span></span><code>chrome.exe
 wechat.exe
 teams.exe
-</code></pre></div></li>
+</code></pre></div>
+</li>
 </ol>
 <blockquote>
 <p><strong>重要提醒</strong>：无论使用何种防护方案，<strong>定期备份</strong>（3-2-1 原则）是应对勒索软件的最后防线。建议使用 Veeam/Acronis 等专业工具执行系统镜像备份。</p>
@@ -2399,7 +2428,7 @@ teams.exe
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-08T10:07:44+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-08</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-11T13:18:24+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-11</span>
   </span>
 
     
@@ -2426,6 +2455,11 @@ teams.exe
 
     
     <nav>
+      
+        <a href="https://github.com/Mikachu2333" class="md-author" title="@Mikachu2333">
+          
+          <img src="https://avatars.githubusercontent.com/u/63829496?v=4&amp;size=72" alt="Mikachu2333">
+        </a>
       
         <a href="https://github.com/flash555588" class="md-author" title="@flash555588">
           
@@ -2593,10 +2627,6 @@ teams.exe
         <script src="../../../../js/feedback.js"></script>
       
         <script src="https://cn.vercount.one/js"></script>
-      
-        <script src="../../../../js/mathjax.js"></script>
-      
-        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

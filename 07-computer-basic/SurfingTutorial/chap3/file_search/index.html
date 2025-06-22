@@ -2138,21 +2138,15 @@
 </ul>
 <p>重要说明：</p>
 <ol>
-<li>搜索效率优化：<ul>
+<li>搜索效率优化：</li>
 <li>Windows：确保索引服务运行，将常用文件夹加入索引范围。</li>
 <li>Linux：定期运行<code>updatedb</code>更新 locate 数据库，对频繁搜索的目录考虑使用内存文件系统 (tmpfs)。</li>
-</ul>
-</li>
-<li>安全注意事项：<ul>
+<li>安全注意事项：</li>
 <li>搜索内容可能暴露敏感信息，避免在共享环境中保存搜索历史。</li>
 <li>复杂的正则表达式可能导致性能问题 (如 ReDoS 攻击)，特别在处理大型文件时。</li>
-</ul>
-</li>
-<li>高级技巧：<ul>
+<li>高级技巧：</li>
 <li>Windows：使用<code>content:</code>前缀强制搜索文件内容 (如<code>content:密码 *.txt</code>)。</li>
 <li>Linux：结合<code>find</code>的<code>-exec</code>参数直接处理搜索结果 (如批量删除<code>find -name "*.tmp" -exec rm {} \;</code>)。</li>
-</ul>
-</li>
 </ol>
 <h2 id="_4">参考资料<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
 <ul>
@@ -2185,7 +2179,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-11T13:18:24+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-11</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-18T21:35:42+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-18</span>
   </span>
 
     
@@ -2384,6 +2378,10 @@
         <script src="../../../../js/feedback.js"></script>
       
         <script src="https://cn.vercount.one/js"></script>
+      
+        <script src="../../../../js/mathjax.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

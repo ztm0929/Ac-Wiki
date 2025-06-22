@@ -2266,11 +2266,11 @@
 <h3 id="100">扩展名与文件类型并不是 100% 对应的<a class="headerlink" href="#100" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>文件头/魔数 (Magic Number) 是关键：</strong> 文件开头的几个特定字节（称为“文件头”或“魔数”）是操作系统和应用程序识别文件<strong>真实类型</strong>的最主要依据。例如：</li>
-<li><code>.exe</code> 和 <code>.dll</code> ~~文件通常以字节 <code>4D 5A</code> (对应字符 <code>MZ</code>) 开头。~~</li>
-<li><code>.pdf</code> ~~文件通常以 <code>%PDF-</code> 开头。~~</li>
-<li><code>.zip</code>, <code>.docx</code>, <code>.xlsx</code>, <code>.pptx</code> 文件本质是 ZIP 压缩包，~~以 <code>50 4B 03 04</code> (<code>PK</code>) 开头。~~</li>
-<li><code>.png</code> ~~文件以 <code>89 50 4E 47 0D 0A 1A 0A</code> 开头 (对应字符 <code>.PNG....</code>)。~~</li>
-<li><code>.jpg</code> ~~文件通常以 <code>FF D8 FF</code> 开头。~~</li>
+<li><code>.exe</code> 和 <code>.dll</code> <del>文件通常以字节 <code>4D 5A</code> (对应字符 <code>MZ</code>) 开头。</del></li>
+<li><code>.pdf</code> <del>文件通常以 <code>%PDF-</code> 开头。</del></li>
+<li><code>.zip</code>, <code>.docx</code>, <code>.xlsx</code>, <code>.pptx</code> 文件本质是 ZIP 压缩包，<del>以 <code>50 4B 03 04</code> (<code>PK</code>) 开头。</del></li>
+<li><code>.png</code> <del>文件以 <code>89 50 4E 47 0D 0A 1A 0A</code> 开头 (对应字符 <code>.PNG....</code>)。</del></li>
+<li><code>.jpg</code> <del>文件通常以 <code>FF D8 FF</code> 开头。</del></li>
 <li><strong>扩展名可以被随意修改：</strong> 你可以把一个 <code>.txt</code> 文件重命名为 <code>.exe</code> 或 <code>.jpg</code>。<strong>这不会改变文件的实际内容。</strong></li>
 <li><strong>后果：</strong> 双击修改后的 <code>.exe</code> 文件（本质仍是文本）会导致错误（因为它不是有效的可执行程序）。用图片查看器打开修改后的 <code>.jpg</code> 文件（本质是文本）会显示乱码或错误。</li>
 <li><strong>安全风险：</strong> 这是恶意软件常用的伪装手段！例如，一个病毒程序（真实是 <code>.exe</code>）可能被伪装成 <code>document.pdf.exe</code>（并隐藏已知扩展名，显示为 <code>document.pdf</code>）或直接重命名为 <code>image.jpg</code> 诱骗用户点击。</li>
@@ -2527,6 +2527,10 @@
         <script src="../../../../js/feedback.js"></script>
       
         <script src="https://cn.vercount.one/js"></script>
+      
+        <script src="../../../../js/mathjax.js"></script>
+      
+        <script src="https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js"></script>
       
     
   </body>

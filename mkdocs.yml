@@ -19,11 +19,11 @@ nav:
           - 勤工俭学申请: 08-Dream-Realization-Assistance/Work-Study-Program.md
           - 国家助学贷款: campus-life/national-student-loan-FAQ.md
   - 学术资源: 
-      - academic-resources/index.md
+      - academic-resources/README.md
       - 一些关键概念: academic-resources/some-key-concepts.md
-  - 成长通道: growth-path/index.md
+  - 成长通道: growth-path/README.md
   - 通识技能库:
-      - general-skills/index.md
+      - general-skills/README.md
       - 学生优惠: general-skills/student-discounts.md
       - 搜索引擎: general-skills/search-platforms.md
       - 工具:
@@ -38,7 +38,7 @@ nav:
       - 学习:
           - 考试和竞赛: 04-study/study.md
       - 生活:
-          - 生活实用小技巧: 05-common-sense-of-life/common-sense-of-life.md
+          - 生活实用小技巧: general-skills/life-tips.md
           - 保健手段: 05-common-sense-of-life/health.md
       - 就业:
           - 企业文化: 06-recruit-exercitation/recruit-exercitation.md

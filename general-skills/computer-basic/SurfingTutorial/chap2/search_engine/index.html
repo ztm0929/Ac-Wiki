@@ -2217,13 +2217,15 @@
 <li><strong><code>前进</code>按钮：</strong> 在点击了“后退”之后，用于重新访问后续浏览过的页面。</li>
 <li><strong><code>刷新</code>按钮：</strong> (通常位于地址栏右侧或按 <code>F5</code>) 重新加载当前页面，获取最新内容。</li>
 <li><strong><code>主页</code>按钮：</strong> (可选显示) 一键返回设定的浏览器主页。</li>
-<li><strong>地址栏 (URL 栏)：</strong> 浏览器的核心输入区域，用于：</li>
+<li><strong>地址栏 (URL 栏)：</strong> 浏览器的核心输入区域，用于：<ul>
 <li><strong>输入网址 (URL)：</strong> 直接访问特定网站。URL 结构通常为：<code>协议://域名/路径?参数</code> (如 <code>https://www.example.com/path/to/page?query=value</code>)。</li>
 <li><strong>执行搜索：</strong> 直接在地址栏输入关键词，浏览器会使用默认搜索引擎进行搜索。</li>
 <li><strong>显示当前页面信息：</strong><ul>
 <li><strong>协议：</strong> 最左侧部分 (如 <code>https://</code>, <code>http://</code>)。<code>https</code> (带锁图标) 表示连接是加密的，更安全。<code>http</code> 是未加密的。</li>
 <li><strong>域名：</strong> 地址栏中通常高亮显示的部分 (如 <code>www.example.com</code>)。这是网站的唯一身份标识。</li>
 <li><strong>路径：</strong> 域名后面的部分 (如 <code>/path/to/page</code>)，指示当前页面在网站中的位置。</li>
+</ul>
+</li>
 </ul>
 </li>
 <li><strong><code>书签/收藏</code>按钮：</strong> 保存当前网址，方便以后快速访问。</li>
@@ -2252,19 +2254,19 @@
 <li>
 <p><strong>正确操作 (直接输入网址访问)：</strong>
   <img alt="搜索以 url" src="../../img/chap2_search_with_url.png" /></p>
-</li>
-<li>
-<p><strong>操作：</strong> 在地址栏<strong>直接输入</strong> <code>192.168.2.1</code> 或 <code>http://192.168.2.1</code> 并按回车。</p>
-</li>
-<li>
-<p><strong>结果：</strong> 浏览器会<strong>直接访问</strong>这个 IP 地址对应的本地网页（即你的路由器登录页面）。</p>
+<ul>
+<li><strong>操作：</strong> 在地址栏<strong>直接输入</strong> <code>192.168.2.1</code> 或 <code>http://192.168.2.1</code> 并按回车。</li>
+<li><strong>结果：</strong> 浏览器会<strong>直接访问</strong>这个 IP 地址对应的本地网页（即你的路由器登录页面）。</li>
+</ul>
 </li>
 <li>
 <p><strong>错误操作 (使用搜索引擎搜索)：</strong>
   <img alt="搜索以搜索引擎" src="../../img/chap2_search_with_search_engine.png" /></p>
-</li>
+<ul>
 <li><strong>操作：</strong> 在地址栏或搜索引擎框中输入 <code>192.168.2.1</code> 并按回车（或点击搜索按钮）。</li>
 <li><strong>结果：</strong> 搜索引擎会返回大量包含这个数字串的<strong>网页结果</strong>（通常是路由器设置教程、相关新闻等）。你<strong>无法</strong>通过这些链接直接访问到 <code>192.168.2.1</code> 这个本地地址。</li>
+</ul>
+</li>
 </ul>
 <p><strong>核心区别：</strong></p>
 <ul>
@@ -2280,12 +2282,14 @@
 <p><strong>如何使用？</strong></p>
 <ul>
 <li><strong>基本操作：</strong> 在搜索引擎的输入框中输入描述你需求的关键词（如“如何更换轮胎”、“北京天气”、“Python 教程”），然后点击搜索或按回车。</li>
-<li><strong>进阶技巧：</strong></li>
+<li><strong>进阶技巧：</strong><ul>
 <li><strong>使用引号 (<code>"</code>)：</strong> 搜索<strong>完全匹配</strong>的短语。例如 <code>"量子力学基础"</code> 会精确匹配包含这个完整短语的页面，排除只包含“量子”、“力学”、“基础”的页面。</li>
 <li><strong>排除关键词 (<code>-</code>)：</strong> 在不想出现的关键词前加 <code>-</code>。例如 <code>下载 Photoshop -破解 -绿色版</code> 会排除包含“破解”和“绿色版”的结果。</li>
 <li><strong>限定网站 (<code>site:</code>)：</strong> 只在特定网站内搜索。例如 <code>site:zhihu.com 学习方法</code> 只在知乎内搜索“学习方法”。</li>
 <li><strong>限定文件类型 (<code>filetype:</code>)：</strong> 搜索特定类型的文件。例如 <code>filetype:pdf 经济学原理</code> 搜索 PDF 格式的经济学原理资料。</li>
 <li><strong>使用通配符 (<code>*</code>)：</strong> 代表未知词。例如 <code>世界最长的 * 河</code> 会匹配“世界最长的河流”、“世界最长的运河”等。</li>
+</ul>
+</li>
 </ul>
 <h3 id="_5">选择哪个搜索引擎？<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
 <table>
@@ -2333,22 +2337,30 @@
 <h3 id="_7">策略与原则<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
 <ol>
 <li><strong>官网优先：</strong> <strong>永远首选官方网站下载！</strong> 这是最安全、最可靠的途径。</li>
-<li><strong>识别官网：</strong></li>
+<li><strong>识别官网：</strong><ul>
 <li>在搜索引擎结果中寻找标注有 <strong>“官网”</strong> 的链接。</li>
 <li>仔细核对域名是否与官方域名一致（如 <code>www.qq.com</code>, <code>www.adobe.com/cn</code>）。</li>
 <li>官网通常设计专业，有清晰的导航、版权信息和官方联系方式。</li>
-<li><strong>警惕下载站：</strong></li>
+</ul>
+</li>
+<li><strong>警惕下载站：</strong><ul>
 <li>下载站是下载软件的第二选择（官网不可用时）。</li>
 <li>识别下载站：搜索结果中的链接标题常包含“下载”、“软件园”、“之家”、“太平洋下载”、“华军软件园”、“ZOL 下载”等字样。</li>
-<li><strong>拒绝捆绑下载器：</strong></li>
+</ul>
+</li>
+<li><strong>拒绝捆绑下载器：</strong><ul>
 <li><strong>绝对不要点击</strong>任何标注 <strong>“安全下载”</strong>、<strong>“高速下载”</strong>、<strong>“极速下载”</strong>、<strong>“一键安装”</strong> 的按钮！这些几乎都是<strong>下载器</strong>。</li>
 <li>下载器会在后台静默安装多款你不需要的软件（甚至包含病毒木马），导致电脑卡顿、弹窗广告泛滥。</li>
 <li><strong>危害示例：</strong> <a href="https://www.bilibili.com/video/BV15X4y1T73S">破坏力堪比勒索病毒！P2P 高速下载器才是世界上最恶心的电脑病毒！</a></li>
-<li><strong>检查下载的文件：</strong></li>
+</ul>
+</li>
+<li><strong>检查下载的文件：</strong><ul>
 <li>官网下载：文件名通常清晰规范（如 <code>QQ9.9.9.exe</code>, <code>ChromeSetup.exe</code>）。</li>
 <li>下载站下载：优先选择 <strong>“本地下载”</strong>、<strong>“[地区]下载”</strong> (如电信/联通/移动)、<strong>“普通下载”</strong> 链接。下载后检查文件名：<ul>
 <li><strong>安全：</strong> <code>.exe</code> 文件命名规范（如 <code>FastCopy_Setup.exe</code>）或压缩包（<code>.zip</code>, <code>.rar</code>, <code>.7z</code>）。</li>
 <li><strong>危险：</strong> <code>.exe</code> 文件命名奇怪、包含推广信息（如 <code>@下载_1234.exe</code>, <code>好压迷你版.exe</code>, <code>绿色破解.exe</code>）。</li>
+</ul>
+</li>
 </ul>
 </li>
 <li><strong>破解软件：</strong> 存在安全与法律风险，需格外谨慎。优先考虑官网试用版、免费替代品或教育授权。</li>
@@ -2375,40 +2387,34 @@
 <li>
 <p><strong>常规软件 - 官网下载 (以 QQ 为例):</strong>
    <img alt="qq 搜索" src="../../img/chap2_search_qq1.png" /></p>
-</li>
-<li>
-<p><strong>选择 1 (<code>腾讯QQ官方网站</code>):</strong> <strong>正确！</strong> 域名 <code>im.qq.com</code> 是腾讯官方域名。点击进入官网，找到官方下载按钮。</p>
-</li>
-<li><strong>选择 2 (<code>腾讯软件中心</code> 或其他下载站):</strong> <strong>风险高！</strong> 虽然可能最终能下载到软件，但页面充斥着“高速下载”陷阱，极易误点导致下载器安装。<strong>即使找到真实下载链接，也优先选择官网。</strong></li>
-<li>
-<p><strong>Bing 搜索结果 (无官网标注)：</strong>
-     <img alt="qq 搜索" src="../../img/chap2_search_qq2.png" /></p>
 <ul>
+<li><strong>选择 1 (<code>腾讯QQ官方网站</code>):</strong> <strong>正确！</strong> 域名 <code>im.qq.com</code> 是腾讯官方域名。点击进入官网，找到官方下载按钮。</li>
+<li><strong>选择 2 (<code>腾讯软件中心</code> 或其他下载站):</strong> <strong>风险高！</strong> 虽然可能最终能下载到软件，但页面充斥着“高速下载”陷阱，极易误点导致下载器安装。<strong>即使找到真实下载链接，也优先选择官网。</strong></li>
+<li><strong>Bing 搜索结果 (无官网标注)：</strong>
+  <img alt="qq 搜索" src="../../img/chap2_search_qq2.png" /><ul>
 <li>仍需仔细识别域名 (<code>im.qq.com</code>) 进入官网下载。</li>
+</ul>
+</li>
 </ul>
 </li>
 <li>
 <p><strong>通过下载站下载 (以 FastCopy 为例):</strong>
    <img alt="fastcopy" src="../../img/chap2_search_fastcopy1.png" /></p>
-</li>
-<li>
-<p>识别下载站链接 (标题含“下载”、“之家”等)。</p>
-</li>
-<li>
-<p><strong>进入下载站页面后：</strong>
-     <img alt="fastcopy" src="../../img/chap2_search_fastcopy2.png" /></p>
 <ul>
+<li>识别下载站链接 (标题含“下载”、“之家”等)。</li>
+<li><strong>进入下载站页面后：</strong>
+  <img alt="fastcopy" src="../../img/chap2_search_fastcopy2.png" /><ul>
 <li><strong>避开陷阱：</strong> 无视所有 <strong>“安全下载”</strong>、<strong>“高速下载”</strong>、<strong>“在线安装”</strong> 按钮。它们通常是下载器或在线安装器。</li>
 <li><strong>寻找真实链接：</strong> 在页面下方或专门区域寻找 <strong>“本地下载”</strong>、<strong>“普通下载”</strong>、<strong>“[地区]下载”</strong> (如“上海电信下载”、“广东联通下载”) 链接。这些通常是真实的软件安装包或压缩包。</li>
 <li><strong>下载后检查：</strong> 确认文件名是规范的 <code>.exe</code> 或压缩包格式。</li>
 </ul>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>通过论坛获取资源 (如破解软件、绿色版)：</strong></p>
-</li>
-<li>
-<p><strong>常用论坛：</strong> <code>52破解</code> 是较知名和规范的软件分享论坛。</p>
-</li>
+<ul>
+<li><strong>常用论坛：</strong> <code>52破解</code> 是较知名和规范的软件分享论坛。</li>
 <li><strong>搜索方法：</strong> 在搜索引擎输入 <code>52破解 软件名称</code> (如 <code>52破解 Photoshop</code>)。</li>
 <li><strong>查找位置：</strong> 软件通常发布在 <code>『精品软件区』</code> 或其他相关板块。</li>
 <li><strong>下载方式：</strong> 链接多为百度网盘、阿里云盘、蓝奏云等。需注意：<ul>
@@ -2417,12 +2423,12 @@
 <li>解压密码通常在帖子内注明。</li>
 </ul>
 </li>
-<li>
-<p><strong>信誉参考：</strong> <a href="https://masuit.com/">懒得勤快</a> 也是一个口碑较好的软件分享站点。</p>
+<li><strong>信誉参考：</strong> <a href="https://masuit.com/">懒得勤快</a> 也是一个口碑较好的软件分享站点。</li>
+</ul>
 </li>
 <li>
 <p><strong>通过 BT 下载：</strong></p>
-</li>
+<ul>
 <li><strong>原理：</strong> P2P (点对点) 下载，下载者同时上传已下载部分。适合大型文件、冷门资源。</li>
 <li><strong>推荐客户端：</strong> <strong><code>qBittorrent</code></strong> (开源、免费、无广告、功能强大)。<strong>不推荐迅雷</strong> 原因：<ul>
 <li><strong>吸血：</strong> 迅雷主要从其他 BT 用户下载，但很少上传回馈网络（影响整体速度）。</li>
@@ -2435,6 +2441,8 @@
 <li><strong>聚合搜索引擎：</strong> <a href="https://gw1.torlook.info/">TorLook</a> (覆盖广，支持多语言，<strong>推荐使用英文关键词搜索</strong>)。</li>
 <li><strong>专用索引站：</strong> 如 The Pirate Bay (TPB), RARBG, 1337x 等 (访问需注意网络和法律风险)。</li>
 <li><strong>论坛/Magnet 链接分享：</strong> 资源论坛常分享磁力链接 (<code>magnet:?xt=urn:btih:...</code>)。</li>
+</ul>
+</li>
 </ul>
 </li>
 </ol>
@@ -2466,7 +2474,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-30T03:21:18+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-30</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-07-06T14:38:27+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-07-06</span>
   </span>
 
     
@@ -2586,33 +2594,39 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-copyright">
-	<div class="md-copyright__highlight">
-		&copy; 2024 - 2025
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a>
-		构建代码采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
-			MIT 许可，
-		</a>
-		如无特别声明，文档内容采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
-			CC-BY-4.0 许可
-		</a>。
-	</div>
-	<div class="page-stats">
-		本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 | 全站访问量
-		<span id="vercount_value_site_pv">Loading</span> 次 | 全站访客数
-		<span id="vercount_value_site_uv">Loading</span> 人
-		<small>（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a>）</small>
-	</div>
-	使用
-	<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
-		Material for MkDocs
-	</a>
-	构建
-	<div>
-		<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2024199605号-4</a>
-		<a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备44030002007268号</a>
-	</div>
+    <div class="md-copyright__highlight">
+        &copy; 2024 - 2025
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a
+        >
+        构建代码采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
+            MIT 许可，
+        </a>
+        如无特别声明，文档内容采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
+            CC-BY-4.0 许可 </a
+        >。
+    </div>
+    <div class="page-stats">
+        本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 |
+        全站访问量 <span id="vercount_value_site_pv">Loading</span> 次 |
+        全站访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <small
+            >（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a
+            >）</small
+        >
+    </div>
+    使用
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
+        Material for MkDocs
+    </a>
+    构建
+    <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤 ICP 备 2024199605 号 -4</a
+        >
+        <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备 44030002007268 号</a
+        >
+    </div>
 </div>
       
         <div class="md-social">

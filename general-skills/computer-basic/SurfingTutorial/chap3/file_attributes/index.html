@@ -2388,19 +2388,25 @@
 <hr />
 <h3 id="100">扩展名与文件类型并不是 100% 对应的<a class="headerlink" href="#100" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong>文件头/魔数 (Magic Number) 是关键：</strong> 文件开头的几个特定字节（称为“文件头”或“魔数”）是操作系统和应用程序识别文件<strong>真实类型</strong>的最主要依据。例如：</li>
+<li><strong>文件头/魔数 (Magic Number) 是关键：</strong> 文件开头的几个特定字节（称为“文件头”或“魔数”）是操作系统和应用程序识别文件<strong>真实类型</strong>的最主要依据。例如：<ul>
 <li><code>.exe</code> 和 <code>.dll</code> <del>文件通常以字节 <code>4D 5A</code> (对应字符 <code>MZ</code>) 开头。</del></li>
 <li><code>.pdf</code> <del>文件通常以 <code>%PDF-</code> 开头。</del></li>
 <li><code>.zip</code>, <code>.docx</code>, <code>.xlsx</code>, <code>.pptx</code> 文件本质是 ZIP 压缩包，<del>以 <code>50 4B 03 04</code> (<code>PK</code>) 开头。</del></li>
 <li><code>.png</code> <del>文件以 <code>89 50 4E 47 0D 0A 1A 0A</code> 开头 (对应字符 <code>.PNG....</code>)。</del></li>
 <li><code>.jpg</code> <del>文件通常以 <code>FF D8 FF</code> 开头。</del></li>
-<li><strong>扩展名可以被随意修改：</strong> 你可以把一个 <code>.txt</code> 文件重命名为 <code>.exe</code> 或 <code>.jpg</code>。<strong>这不会改变文件的实际内容。</strong></li>
+</ul>
+</li>
+<li><strong>扩展名可以被随意修改：</strong> 你可以把一个 <code>.txt</code> 文件重命名为 <code>.exe</code> 或 <code>.jpg</code>。<strong>这不会改变文件的实际内容。</strong><ul>
 <li><strong>后果：</strong> 双击修改后的 <code>.exe</code> 文件（本质仍是文本）会导致错误（因为它不是有效的可执行程序）。用图片查看器打开修改后的 <code>.jpg</code> 文件（本质是文本）会显示乱码或错误。</li>
 <li><strong>安全风险：</strong> 这是恶意软件常用的伪装手段！例如，一个病毒程序（真实是 <code>.exe</code>）可能被伪装成 <code>document.pdf.exe</code>（并隐藏已知扩展名，显示为 <code>document.pdf</code>）或直接重命名为 <code>image.jpg</code> 诱骗用户点击。</li>
-<li><strong>如何查看真实文件类型？</strong></li>
+</ul>
+</li>
+<li><strong>如何查看真实文件类型？</strong><ul>
 <li>使用十六进制编辑器查看文件头。</li>
 <li>在 Linux/macOS 终端或 Windows 的 Git Bash/WSL 中使用 <code>file</code> 命令（如 <code>file example.txt</code>）。</li>
 <li>使用专业的文件分析工具（如 TrID, FileAlyzer, DROID 等）。</li>
+</ul>
+</li>
 <li><strong>无扩展名文件：</strong> 文件可以没有扩展名。操作系统和应用程序主要依赖文件头（魔数）或文件权限来判断其类型和用途（例如，Linux 下没有扩展名但有可执行权限和正确文件头的脚本仍然可以执行）。在 Windows 上双击无扩展名文件，系统会提示用户选择打开程序。</li>
 </ul>
 <hr />
@@ -2416,10 +2422,12 @@
 <h3 id="_5">不同操作系统的差异<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h3>
 <ul>
 <li><strong>Windows:</strong> 高度依赖文件扩展名来确定文件类型和关联程序（双击行为）。文件权限（NTFS）也起重要作用。</li>
-<li><strong>Linux/macOS (Unix-like):</strong> 扩展名更多是约定俗成。系统判断文件类型主要依赖：</li>
+<li><strong>Linux/macOS (Unix-like):</strong> 扩展名更多是约定俗成。系统判断文件类型主要依赖：<ol>
 <li><strong>文件头 (Magic Number)：</strong> 使用 <code>file</code> 命令的核心依据。</li>
 <li><strong>文件权限：</strong> <code>ls -l</code> 查看，<code>x</code> (可执行) 位决定文件是否能作为程序运行。一个没有 <code>.sh</code> 扩展名但拥有可执行权限且以 <code>#!/bin/bash</code> 开头的文件，仍然是可执行的 Shell 脚本。</li>
 <li><strong>MIME 类型数据库：</strong> 图形界面文件管理器也会利用扩展名和文件头信息查询 MIME 类型数据库来确定文件类型和关联程序。</li>
+</ol>
+</li>
 </ul>
 <h2 id="_6">参考<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h2>
 <p>电脑文件 : <a href="https://baike.baidu.com/item/%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6/21421152">https://baike.baidu.com/item/%E7%94%B5%E8%84%91%E6%96%87%E4%BB%B6/21421152</a></p>
@@ -2446,7 +2454,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-11T13:18:24+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-11</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-07-06T14:38:27+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-07-06</span>
   </span>
 
     
@@ -2566,33 +2574,39 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-copyright">
-	<div class="md-copyright__highlight">
-		&copy; 2024 - 2025
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a>
-		构建代码采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
-			MIT 许可，
-		</a>
-		如无特别声明，文档内容采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
-			CC-BY-4.0 许可
-		</a>。
-	</div>
-	<div class="page-stats">
-		本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 | 全站访问量
-		<span id="vercount_value_site_pv">Loading</span> 次 | 全站访客数
-		<span id="vercount_value_site_uv">Loading</span> 人
-		<small>（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a>）</small>
-	</div>
-	使用
-	<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
-		Material for MkDocs
-	</a>
-	构建
-	<div>
-		<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2024199605号-4</a>
-		<a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备44030002007268号</a>
-	</div>
+    <div class="md-copyright__highlight">
+        &copy; 2024 - 2025
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a
+        >
+        构建代码采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
+            MIT 许可，
+        </a>
+        如无特别声明，文档内容采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
+            CC-BY-4.0 许可 </a
+        >。
+    </div>
+    <div class="page-stats">
+        本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 |
+        全站访问量 <span id="vercount_value_site_pv">Loading</span> 次 |
+        全站访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <small
+            >（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a
+            >）</small
+        >
+    </div>
+    使用
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
+        Material for MkDocs
+    </a>
+    构建
+    <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤 ICP 备 2024199605 号 -4</a
+        >
+        <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备 44030002007268 号</a
+        >
+    </div>
 </div>
       
         <div class="md-social">

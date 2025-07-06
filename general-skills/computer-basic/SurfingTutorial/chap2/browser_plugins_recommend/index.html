@@ -2407,10 +2407,12 @@
 <ol>
 <li>点击油猴图标 &gt; "获取新脚本"
    <img alt="获取新脚本" src="../../img/chap2_tampermonkey_add_new_plugins.png" /></li>
-<li>选择脚本源：</li>
+<li>选择脚本源：<ul>
 <li><a href="https://greasyfork.org/">Greasy Fork</a>（中文友好）</li>
 <li><a href="https://openuserjs.org/">OpenUserJS</a></li>
 <li><a href="https://gist.github.com/">GitHub Gist</a></li>
+</ul>
+</li>
 <li>搜索所需功能（如"CSDN 去广告"）
    <img alt="搜索脚本 GF" src="../../img/chap2_tampermonkey_find_new_plugins_from_GF.png" /></li>
 <li>点击"安装此脚本"
@@ -2470,17 +2472,13 @@
 <ol>
 <li>
 <p><strong>脚本冲突解决</strong>：</p>
-</li>
-<li>
-<p>在油猴仪表盘中调整脚本执行顺序</p>
-</li>
-<li>
-<p>使用<code>@exclude</code>排除特定网站</p>
+<ul>
+<li>在油猴仪表盘中调整脚本执行顺序</li>
+<li>使用<code>@exclude</code>排除特定网站</li>
+</ul>
 </li>
 <li>
 <p><strong>自定义脚本</strong>：</p>
-</li>
-</ol>
 <div class="highlight"><pre><span></span><code><span class="c1">// ==UserScript==</span>
 <span class="c1">// @name         My Custom Script</span>
 <span class="c1">// @namespace    http://tampermonkey.net/</span>
@@ -2492,100 +2490,104 @@
 <span class="c1">// ==/UserScript==</span>
 
 <span class="p">(</span><span class="kd">function</span><span class="w"> </span><span class="p">()</span><span class="w"> </span><span class="p">{</span>
-<span class="w">  </span><span class="s2">&quot;use strict&quot;</span><span class="p">;</span>
-<span class="w">  </span><span class="c1">// 在此添加你的代码</span>
-<span class="w">  </span><span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">backgroundColor</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;#f0f0f0&quot;</span><span class="p">;</span>
+<span class="w">    </span><span class="s2">&quot;use strict&quot;</span><span class="p">;</span>
+<span class="w">    </span><span class="c1">// 在此添加你的代码</span>
+<span class="w">    </span><span class="nb">document</span><span class="p">.</span><span class="nx">body</span><span class="p">.</span><span class="nx">style</span><span class="p">.</span><span class="nx">backgroundColor</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s2">&quot;#f0f0f0&quot;</span><span class="p">;</span>
 <span class="p">})();</span>
 </code></pre></div>
-<ol>
-<li><strong>脚本自动更新</strong>：</li>
+</li>
+<li>
+<p><strong>脚本自动更新</strong>：</p>
+<ul>
 <li>在脚本设置中启用"自动更新"</li>
 <li>定期检查脚本的 GitHub 页面</li>
+</ul>
+</li>
 </ol>
 <h3 id="_11">安全使用指南<a class="headerlink" href="#_11" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
 <p><strong>来源审查</strong>：</p>
-</li>
-<li>
-<p>优先选择 Greasy Fork 验证脚本</p>
-</li>
+<ul>
+<li>优先选择 Greasy Fork 验证脚本</li>
 <li>检查脚本最后更新时间</li>
-<li>
-<p>查看用户评价和安装量</p>
+<li>查看用户评价和安装量</li>
+</ul>
 </li>
 <li>
 <p><strong>权限警惕</strong>：</p>
-</li>
-<li>
-<p>警惕请求<code>*://*/*</code>权限的脚本</p>
-</li>
-<li>
-<p>使用浏览器开发者工具监控脚本行为</p>
+<ul>
+<li>警惕请求<code>*://*/*</code>权限的脚本</li>
+<li>使用浏览器开发者工具监控脚本行为</li>
+</ul>
 </li>
 <li>
 <p><strong>沙盒测试</strong>：</p>
-</li>
+<ul>
 <li>新脚本先在虚拟机中测试</li>
 <li>使用浏览器隐身模式测试</li>
+</ul>
+</li>
 </ol>
 <h2 id="_12">插件与脚本的进阶应用<a class="headerlink" href="#_12" title="Permanent link">&para;</a></h2>
 <h3 id="_13">效率组合方案<a class="headerlink" href="#_13" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
 <p><strong>学术研究套件</strong>：</p>
-</li>
-<li>
-<p>Zotero Connector（文献管理）</p>
-</li>
+<ul>
+<li>Zotero Connector（文献管理）</li>
 <li>
 <p>Kami（PDF 标注）</p>
 </li>
 <li>
 <p>油猴脚本：Google Scholar 增强</p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>媒体下载方案</strong>：</p>
-</li>
+<ul>
 <li>
 <p>Video DownloadHelper</p>
 </li>
 <li>
 <p>油猴脚本：B 站/YouTube 下载增强</p>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>隐私保护组合</strong>：</p>
-</li>
+<ul>
 <li>Privacy Badger</li>
 <li>Decentraleyes</li>
 <li>油猴脚本：防追踪增强</li>
+</ul>
+</li>
 </ol>
 <h3 id="_14">常见问题解决<a class="headerlink" href="#_14" title="Permanent link">&para;</a></h3>
 <ol>
 <li>
 <p><strong>插件冲突</strong>：</p>
-</li>
-<li>
-<p>逐个禁用插件排查</p>
-</li>
-<li>
-<p>使用浏览器的"安全模式"测试</p>
+<ul>
+<li>逐个禁用插件排查</li>
+<li>使用浏览器的"安全模式"测试</li>
+</ul>
 </li>
 <li>
 <p><strong>脚本失效</strong>：</p>
-</li>
-<li>
-<p>检查网站 DOM 结构变化</p>
-</li>
+<ul>
+<li>检查网站 DOM 结构变化</li>
 <li>查看脚本的 GitHub Issues</li>
-<li>
-<p>临时使用开发者工具调试</p>
+<li>临时使用开发者工具调试</li>
+</ul>
 </li>
 <li>
 <p><strong>性能优化</strong>：</p>
-</li>
+<ul>
 <li>限制广告拦截插件的过滤规则数量</li>
 <li>禁用非活动标签页的插件运行</li>
+</ul>
+</li>
 </ol>
 <blockquote>
 <p><strong>重要提示</strong>：浏览器插件虽强大，但应保持精简。建议安装不超过 15 个扩展，定期审查插件权限和必要性。</p>
@@ -2613,7 +2615,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-30T03:21:18+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-30</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-07-06T14:38:27+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-07-06</span>
   </span>
 
     
@@ -2733,33 +2735,39 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-copyright">
-	<div class="md-copyright__highlight">
-		&copy; 2024 - 2025
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a>
-		构建代码采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
-			MIT 许可，
-		</a>
-		如无特别声明，文档内容采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
-			CC-BY-4.0 许可
-		</a>。
-	</div>
-	<div class="page-stats">
-		本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 | 全站访问量
-		<span id="vercount_value_site_pv">Loading</span> 次 | 全站访客数
-		<span id="vercount_value_site_uv">Loading</span> 人
-		<small>（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a>）</small>
-	</div>
-	使用
-	<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
-		Material for MkDocs
-	</a>
-	构建
-	<div>
-		<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2024199605号-4</a>
-		<a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备44030002007268号</a>
-	</div>
+    <div class="md-copyright__highlight">
+        &copy; 2024 - 2025
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a
+        >
+        构建代码采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
+            MIT 许可，
+        </a>
+        如无特别声明，文档内容采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
+            CC-BY-4.0 许可 </a
+        >。
+    </div>
+    <div class="page-stats">
+        本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 |
+        全站访问量 <span id="vercount_value_site_pv">Loading</span> 次 |
+        全站访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <small
+            >（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a
+            >）</small
+        >
+    </div>
+    使用
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
+        Material for MkDocs
+    </a>
+    构建
+    <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤 ICP 备 2024199605 号 -4</a
+        >
+        <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备 44030002007268 号</a
+        >
+    </div>
 </div>
       
         <div class="md-social">

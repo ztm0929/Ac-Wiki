@@ -2263,14 +2263,10 @@
 <h2 id="part3">part3：❌<a class="headerlink" href="#part3" title="Permanent link">&para;</a></h2>
 <ul>
 <li>随着网络空间安全危害事件的发生，密码作为个人信息账号的第一道防线，应该得到重视。</li>
-<li>很多人都有这个经历：<blockquote>
-<ul>
-<li><a href="https://linux.do/t/topic/235317">https://linux.do/t/topic/235317</a></li>
-<li><a href="https://linux.do/t/topic/239657">https://linux.do/t/topic/239657</a></li>
-<li><a href="https://linux.do/t/topic/235505">https://linux.do/t/topic/235505</a></li>
-</ul>
-</blockquote>
-</li>
+<li>很多人都有这个经历：
+    &gt; - <a href="https://linux.do/t/topic/235317">https://linux.do/t/topic/235317</a>
+    &gt; - <a href="https://linux.do/t/topic/239657">https://linux.do/t/topic/239657</a>
+    &gt; - <a href="https://linux.do/t/topic/235505">https://linux.do/t/topic/235505</a></li>
 <li>如果你频繁使用一个账户密码，且缺少二次验证，攻击者可以使用撞库等手段，破解你几乎所有的账号。</li>
 <li>下面，以 Android 为主，MacOS 为辅，通过各种手段，加强账号信息强度：</li>
 </ul>
@@ -2333,24 +2329,32 @@
 <p><a href="https://f-droid.org/packages/com.kunzisoft.keepass.libre/">F-Droid</a>｜<a href="https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free">G-Play</a>｜<a href="https://github.com/Kunzisoft/KeePassDX/releases">Github</a></p>
 <h5 id="_5">优点<a class="headerlink" href="#_5" title="Permanent link">&para;</a></h5>
 <ul>
-<li>安全性高</li>
+<li>安全性高<ul>
 <li>数据不存储在云端，而是在本地仓库<img alt="OD8znB.png" src="https://ooo.0x0.ooo/2024/10/26/OD8znB.png"></li>
 <li>自主选择加密方式，任意搭配开启关闭<strong>密码登陆，指纹解锁，密钥文件，实物密钥</strong>
-    (密钥文件可在 termux 生成)
-    <img alt="OD8F4s.png" src="https://ooo.0x0.ooo/2024/10/26/OD8F4s.png"></li>
-<li>定制化程度高</li>
+  (密钥文件可在 termux 生成)
+  <img alt="OD8F4s.png" src="https://ooo.0x0.ooo/2024/10/26/OD8F4s.png"></li>
+</ul>
+</li>
+<li>定制化程度高<ul>
 <li>作为赛博人，软件安全性固然重要，但我们也不想使用一款难看的老式 UI 软件，KeePassDX 提供内置图标和自定义图标，让密码管理也能乐在其中。
-    <img alt="OD87YN.png" src="https://ooo.0x0.ooo/2024/10/26/OD87YN.png"></li>
-<li>迁移能力强</li>
+  <img alt="OD87YN.png" src="https://ooo.0x0.ooo/2024/10/26/OD87YN.png"></li>
+</ul>
+</li>
+<li>迁移能力强<ul>
 <li>由于密码都存储在一个文件里 (当然你也可以搭建更多个数据库存储不同密码)，我们迁移密码只需要将密码数据库和密钥文件移动到目的地，搭配不同平台不同软件都可以直接使用 (图标包会存储在.kdbx 文件)</li>
 <li>比如我在 Android 端，将文件，密钥迁移到 MacOS，只需要下载 MacPass 或者 KeePassXC 等开源软件，导入数据即可使用。</li>
 <li>使用 resillion sync 或 syncthing 可以高效的同步密码库，多端同步</li>
 </ul>
+</li>
+</ul>
 <h5 id="_6">缺点<a class="headerlink" href="#_6" title="Permanent link">&para;</a></h5>
 <ul>
-<li>ALL IN BOOM</li>
+<li>ALL IN BOOM<ul>
 <li>正因为密码存储在数据库文件，如果误删密码库，要么去找文件恢复软件，要么从其他地方备份，要么......寄！</li>
 <li>所以，要开启不同的登陆验证方式，勤备份文件到安全的地方，多端同步。</li>
+</ul>
+</li>
 </ul>
 <h4 id="bitwardenandroidwindowslinuxiosmacosweb"><a href="https://bitwarden.com/">Bitwarden</a>（Android/Windows/Linux/IOS/MacOS/Web）<a class="headerlink" href="#bitwardenandroidwindowslinuxiosmacosweb" title="Permanent link">&para;</a></h4>
 <p>Bitwarden 是一个线上的开源密码管理器，你可以使用官方提供的服务，或者自己搭建一个服务器（<a href="https://www.iplaysoft.com/bitwarden-self-host.html">教程见此</a>）。官方提供的功能有限制不过一般够用了，自己搭建就没什么限制了。</p>
@@ -2395,7 +2399,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-03T23:52:12+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-03</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-07-06T14:38:27+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-07-06</span>
   </span>
 
     
@@ -2515,33 +2519,39 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-copyright">
-	<div class="md-copyright__highlight">
-		&copy; 2024 - 2025
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a>
-		构建代码采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
-			MIT 许可，
-		</a>
-		如无特别声明，文档内容采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
-			CC-BY-4.0 许可
-		</a>。
-	</div>
-	<div class="page-stats">
-		本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 | 全站访问量
-		<span id="vercount_value_site_pv">Loading</span> 次 | 全站访客数
-		<span id="vercount_value_site_uv">Loading</span> 人
-		<small>（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a>）</small>
-	</div>
-	使用
-	<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
-		Material for MkDocs
-	</a>
-	构建
-	<div>
-		<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2024199605号-4</a>
-		<a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备44030002007268号</a>
-	</div>
+    <div class="md-copyright__highlight">
+        &copy; 2024 - 2025
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a
+        >
+        构建代码采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
+            MIT 许可，
+        </a>
+        如无特别声明，文档内容采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
+            CC-BY-4.0 许可 </a
+        >。
+    </div>
+    <div class="page-stats">
+        本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 |
+        全站访问量 <span id="vercount_value_site_pv">Loading</span> 次 |
+        全站访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <small
+            >（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a
+            >）</small
+        >
+    </div>
+    使用
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
+        Material for MkDocs
+    </a>
+    构建
+    <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤 ICP 备 2024199605 号 -4</a
+        >
+        <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备 44030002007268 号</a
+        >
+    </div>
 </div>
       
         <div class="md-social">

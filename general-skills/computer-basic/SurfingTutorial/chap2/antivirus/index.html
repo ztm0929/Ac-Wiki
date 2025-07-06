@@ -2323,7 +2323,7 @@
 <h2 id="_3">主流杀毒软件深度评测<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
 <h3 id="1">1. 火绒安全<a class="headerlink" href="#1" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong>核心优势</strong>：</li>
+<li><strong>核心优势</strong>：<ul>
 <li><strong>零广告干扰</strong>：纯净无推广</li>
 <li><strong>超低资源占用</strong>：内存&lt;50MB，CPU&lt;1%</li>
 <li><strong>专业工具集</strong>：<ul>
@@ -2333,16 +2333,20 @@
 <li>漏洞修复</li>
 </ul>
 </li>
-<li><strong>适用场景</strong>：</li>
+</ul>
+</li>
+<li><strong>适用场景</strong>：<ul>
 <li>技术用户自定义防护</li>
 <li>老旧设备优化</li>
 <li>开发环境（避免误报）</li>
+</ul>
+</li>
 <li><strong>不足</strong>：病毒库更新频率较低（每日 1 次）</li>
 <li><a href="https://www.huorong.cn/">官网下载</a></li>
 </ul>
 <h3 id="2-360">2. 360 安全卫士<a class="headerlink" href="#2-360" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong>核心优势</strong>：</li>
+<li><strong>核心优势</strong>：<ul>
 <li><strong>云查杀引擎</strong>：分钟级威胁响应</li>
 <li><strong>勒索防护</strong>：专属文档保护功能</li>
 <li><strong>实用工具</strong>：<ul>
@@ -2351,26 +2355,34 @@
 <li>系统备份还原</li>
 </ul>
 </li>
-<li><strong>配置建议</strong>：</li>
 </ul>
+</li>
+<li>
+<p><strong>配置建议</strong>：</p>
 <div class="highlight"><pre><span></span><code><span class="k">1.</span> 设置中心 &gt; 弹窗设置：关闭所有推广选项
 <span class="k">2.</span> 功能大全 &gt; 右键菜单管理：删除多余项
 <span class="k">3.</span> 安全防护中心 &gt; 核晶防护：开启（需 VT 支持）
 </code></pre></div>
-<ul>
-<li><strong>警惕点</strong>：安装时取消勾选"360 浏览器"等捆绑项</li>
+</li>
+<li>
+<p><strong>警惕点</strong>：安装时取消勾选"360 浏览器"等捆绑项</p>
+</li>
 <li><a href="https://weishi.360.cn/">官网下载</a></li>
 </ul>
 <h3 id="3">3. 腾讯电脑管家<a class="headerlink" href="#3" title="Permanent link">&para;</a></h3>
 <ul>
-<li><strong>突出特性</strong>：</li>
+<li><strong>突出特性</strong>：<ul>
 <li><strong>微信联动</strong>：安全通知直达微信</li>
 <li><strong>账号保护</strong>：特别强化 QQ/微信防护</li>
 <li><strong>权限雷达</strong>：精细控制应用权限</li>
-<li><strong>优化方案</strong>：</li>
+</ul>
+</li>
+<li><strong>优化方案</strong>：<ul>
 <li>关闭"每日精选"资讯推送</li>
 <li>禁用"软件管理"自动升级</li>
 <li>开启"上网安全防护"中的钓鱼网站拦截</li>
+</ul>
+</li>
 <li><a href="https://pc.qq.com/">官网下载</a></li>
 </ul>
 <h3 id="_4">国际替代方案（推荐进阶用户）<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h3>
@@ -2443,18 +2455,14 @@
 <ol>
 <li>
 <p><strong>IPv6 普及风险</strong>：</p>
-</li>
-<li>
-<p>现代家庭宽带普遍分配公网 IPv6 地址</p>
-</li>
+<ul>
+<li>现代家庭宽带普遍分配公网 IPv6 地址</li>
 <li>设备直接暴露在互联网（如<code>2408:8207:7890::/48</code>）</li>
-<li>
-<p>黑客可通过扫描工具发现开放端口</p>
+<li>黑客可通过扫描工具发现开放端口</li>
+</ul>
 </li>
 <li>
 <p><strong>典型攻击场景</strong>：</p>
-</li>
-</ol>
 <div class="highlight"><pre><span></span><code> sequenceDiagram
      actor 攻击者
      participant 受害者设备
@@ -2462,6 +2470,8 @@
      受害者设备 --&gt;&gt;- 攻击者：响应开放端口 (如 445)
      攻击者 -&gt;&gt; 受害者设备：利用 SMB 漏洞植入木马
 </code></pre></div>
+</li>
+</ol>
 <h3 id="_7">最佳配置方案<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h3>
 <table>
 <thead>
@@ -2491,32 +2501,34 @@
 </table>
 <h3 id="_8">高级防护策略<a class="headerlink" href="#_8" title="Permanent link">&para;</a></h3>
 <ol>
-<li><strong>出站规则控制</strong>：</li>
+<li><strong>出站规则控制</strong>：<ul>
 <li>阻止可疑程序联网（如盗版软件激活器）</li>
 <li>路径：<code>高级安全防火墙 &gt; 出站规则 &gt; 新建规则</code></li>
-<li>
-<p><strong>端口管理</strong>：</p>
+</ul>
 </li>
 <li>
-<p>关闭高风险端口：</p>
+<p><strong>端口管理</strong>：</p>
 <ul>
+<li>关闭高风险端口：<ul>
 <li>135/TCP/UDP (RPC)</li>
 <li>445/TCP (SMB)</li>
 <li>3389/TCP (远程桌面)</li>
 </ul>
 </li>
+</ul>
+</li>
 <li>
 <p><strong>应用例外</strong>：</p>
-</li>
-<li>
-<p>仅允许知名程序通过防火墙</p>
-</li>
+<ul>
+<li>仅允许知名程序通过防火墙</li>
 <li>
 <p>示例白名单：</p>
 <div class="highlight"><pre><span></span><code>chrome.exe
 wechat.exe
 teams.exe
 </code></pre></div>
+</li>
+</ul>
 </li>
 </ol>
 <blockquote>
@@ -2553,7 +2565,7 @@ teams.exe
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-30T03:21:18+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-30</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-07-06T14:38:27+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-07-06</span>
   </span>
 
     
@@ -2673,33 +2685,39 @@ teams.exe
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-copyright">
-	<div class="md-copyright__highlight">
-		&copy; 2024 - 2025
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a>
-		构建代码采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
-			MIT 许可，
-		</a>
-		如无特别声明，文档内容采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
-			CC-BY-4.0 许可
-		</a>。
-	</div>
-	<div class="page-stats">
-		本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 | 全站访问量
-		<span id="vercount_value_site_pv">Loading</span> 次 | 全站访客数
-		<span id="vercount_value_site_uv">Loading</span> 人
-		<small>（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a>）</small>
-	</div>
-	使用
-	<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
-		Material for MkDocs
-	</a>
-	构建
-	<div>
-		<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2024199605号-4</a>
-		<a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备44030002007268号</a>
-	</div>
+    <div class="md-copyright__highlight">
+        &copy; 2024 - 2025
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a
+        >
+        构建代码采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
+            MIT 许可，
+        </a>
+        如无特别声明，文档内容采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
+            CC-BY-4.0 许可 </a
+        >。
+    </div>
+    <div class="page-stats">
+        本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 |
+        全站访问量 <span id="vercount_value_site_pv">Loading</span> 次 |
+        全站访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <small
+            >（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a
+            >）</small
+        >
+    </div>
+    使用
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
+        Material for MkDocs
+    </a>
+    构建
+    <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤 ICP 备 2024199605 号 -4</a
+        >
+        <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备 44030002007268 号</a
+        >
+    </div>
 </div>
       
         <div class="md-social">

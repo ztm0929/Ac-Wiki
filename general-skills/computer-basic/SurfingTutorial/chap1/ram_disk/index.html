@@ -2320,14 +2320,18 @@
 <p><strong>用户须知</strong>：</p>
 <ul>
 <li>内存 ≠ 存储空间！512GB 指的是硬盘容量，不是内存</li>
-<li>内存不足的表现：</li>
+<li>内存不足的表现：<ul>
 <li>程序频繁卡顿</li>
 <li>浏览器标签页崩溃</li>
 <li>出现"内存不足"警告</li>
-<li>2023 年推荐配置：</li>
+</ul>
+</li>
+<li>2023 年推荐配置：<ul>
 <li>基础办公：8GB</li>
 <li>游戏/设计：16-32GB</li>
 <li>专业工作站：64GB+</li>
+</ul>
+</li>
 </ul>
 <h2 id="_4">硬盘：计算机的"储藏室"<a class="headerlink" href="#_4" title="Permanent link">&para;</a></h2>
 <p><img alt="硬盘与分区示意图" src="../../img/chap1_disk_img2.png" /></p>
@@ -2377,33 +2381,31 @@
 <ol>
 <li>
 <p><strong>分区管理</strong>：</p>
-</li>
-<li>
-<p>单个硬盘可划分为多个分区（如 C 盘、D 盘）</p>
-</li>
+<ul>
+<li>单个硬盘可划分为多个分区（如 C 盘、D 盘）</li>
 <li>分区如同储物间的隔断，方便分类管理</li>
-<li>
-<p>系统分区 (C 盘) 建议≥256GB</p>
+<li>系统分区 (C 盘) 建议≥256GB</li>
+</ul>
 </li>
 <li>
 <p><strong>数据安全</strong>：</p>
-</li>
-</ol>
 <div class="highlight"><pre><span></span><code>graph TB
     删除操作 --&gt; 回收站 --&gt;|清空 | 文件索引移除
     真正删除 --&gt; 数据覆盖 --&gt; 物理擦除
 </code></pre></div>
 <ul>
 <li>SSD 数据删除后难以恢复（TRIM 指令立即擦除）</li>
-<li>
-<p>HDD 删除文件后，在未被覆盖前可尝试恢复</p>
+<li>HDD 删除文件后，在未被覆盖前可尝试恢复</li>
+</ul>
 </li>
 <li>
 <p><strong>混合存储方案</strong>：</p>
-</li>
+<ul>
 <li>最佳实践：SSD(系统 + 常用程序) + HDD(数据存储)</li>
 <li>性价比配置：512GB NVMe SSD + 2TB HDD</li>
 </ul>
+</li>
+</ol>
 <h2 id="_7">内存与硬盘协同工作流程<a class="headerlink" href="#_7" title="Permanent link">&para;</a></h2>
 <div class="highlight"><pre><span></span><code>sequenceDiagram
     用户-&gt;&gt;+硬盘: 启动Photoshop
@@ -2458,27 +2460,29 @@
 <ul>
 <li>SSD 保留 20% 空闲空间</li>
 <li>HDD 避免物理震动</li>
-<li>定期备份重要数据（3-2-1 原则）：</li>
-</ul>
+<li>
+<p>定期备份重要数据（3-2-1 原则）：</p>
 <div class="highlight"><pre><span></span><code>3 份副本 - 2 种介质 - 1 份异地
 </code></pre></div>
+</li>
+</ul>
 <h2 id="_14">技术演进趋势<a class="headerlink" href="#_14" title="Permanent link">&para;</a></h2>
 <ol>
 <li>
 <p><strong>内存技术</strong>：</p>
-</li>
-<li>
-<p>DDR5 普及（4800MHz 起）</p>
-</li>
-<li>
-<p>非易失性内存（Intel Optane）</p>
+<ul>
+<li>DDR5 普及（4800MHz 起）</li>
+<li>非易失性内存（Intel Optane）</li>
+</ul>
 </li>
 <li>
 <p><strong>存储技术</strong>：</p>
-</li>
+<ul>
 <li>PCIe 5.0 SSD（14GB/s+）</li>
 <li>QLC SSD 大容量普及</li>
 <li>云存储无缝集成</li>
+</ul>
+</li>
 </ol>
 <blockquote>
 <p><strong>终极提示</strong>：2023 年新机组装<strong>务必选择 SSD 作为系统盘</strong>，机械硬盘仅适合冷数据存储。内存配置不应低于 16GB 以保证未来 3-5 年的使用需求。</p>
@@ -2512,7 +2516,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-06-30T03:21:18+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-06-30</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-07-06T14:38:27+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-07-06</span>
   </span>
 
     
@@ -2632,33 +2636,39 @@
   <div class="md-footer-meta md-typeset">
     <div class="md-footer-meta__inner md-grid">
       <div class="md-copyright">
-	<div class="md-copyright__highlight">
-		&copy; 2024 - 2025
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a>
-		构建代码采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
-			MIT 许可，
-		</a>
-		如无特别声明，文档内容采用
-		<a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
-			CC-BY-4.0 许可
-		</a>。
-	</div>
-	<div class="page-stats">
-		本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 | 全站访问量
-		<span id="vercount_value_site_pv">Loading</span> 次 | 全站访客数
-		<span id="vercount_value_site_uv">Loading</span> 人
-		<small>（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a>）</small>
-	</div>
-	使用
-	<a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
-		Material for MkDocs
-	</a>
-	构建
-	<div>
-		<a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤ICP备2024199605号-4</a>
-		<a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备44030002007268号</a>
-	</div>
+    <div class="md-copyright__highlight">
+        &copy; 2024 - 2025
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/" target="_blank" rel="noopener noreferrer">Ac-Wiki</a
+        >
+        构建代码采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/LICENSE" rel="noopener noreferrer">
+            MIT 许可，
+        </a>
+        如无特别声明，文档内容采用
+        <a href="https://github.com/Ac-Wiki/Ac-Wiki/blob/main/docs/LICENSE-CC-BY-4.0.md" rel="noopener noreferrer">
+            CC-BY-4.0 许可 </a
+        >。
+    </div>
+    <div class="page-stats">
+        本页阅读量 <span id="vercount_value_page_pv">Loading</span> 次 |
+        全站访问量 <span id="vercount_value_site_pv">Loading</span> 次 |
+        全站访客数 <span id="vercount_value_site_uv">Loading</span> 人
+        <small
+            >（<a href="https://cn.vercount.one/" target="_blank" rel="noopener noreferrer">Vercount</a
+            >）</small
+        >
+    </div>
+    使用
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener noreferrer">
+        Material for MkDocs
+    </a>
+    构建
+    <div>
+        <a href="https://beian.miit.gov.cn/" target="_blank" rel="noopener noreferrer">粤 ICP 备 2024199605 号 -4</a
+        >
+        <a href="https://beian.mps.gov.cn/#/query/webSearch" target="_blank" rel="noopener noreferrer">粤公网安备 44030002007268 号</a
+        >
+    </div>
 </div>
       
         <div class="md-social">

@@ -280,7 +280,7 @@ _由 Ac-Wiki 维护组及全体用户用 ❤️‍🔥 制作。欢迎您的参�
 ### Win
 
 1. 使用 VSCode 打开仓库目录 `Code.exe ./Ac-Wiki`
-2. 打开 VSCode 的终端 `Ctrl + \``
+2. 打开 VSCode 的终端 `Ctrl` + `` ` ``
 3. 验证 python 版本，输入 `python --version` 并回车，有类似 `Python 3.13.3` 的输出说明 python 已正确安装
 4. 输入 `python3 -m venv venv` 以创建一个名为 `venv` 的虚拟环境
 5. 此时，VSCode 会弹出提示，询问你是否使用该环境，选择是

@@ -2462,12 +2462,11 @@
 </blockquote>
 <p>目前笔者见过两种刷课方式，直接发送课程完成的请求和使用脚本挂机并完成相关弹窗检测。本文仅涵盖部分笔者遇到的课程，欢迎各位补充和指正。</p>
 <h2 id="_2">安全教育（安全微伴）<a class="headerlink" href="#_2" title="Permanent link">&para;</a></h2>
-<p><a href="https://github.com/Coaixy/weiban-tool">weiban-tool</a></p>
+<p><a href="https://github.com/hangone/WeBan">WeBan</a></p>
 <ul>
-<li>该项目发送课程完成请求，因此完成速度较快。</li>
-<li>可以自动考试。</li>
-<li>项目文档指南较容易理解。PS：1，python 官网不挂梯下载速度极慢。2，电脑中需要先安装 visual c++ 支持库（vc 支持库）。</li>
-<li>笔者实测 1h 左右刷完 200+ 课程。</li>
+<li>实现了课程学习和根据题库自动考试，支持多用户多线程运行（配置 config.json），自动验证码识别（需要源码运行，安装 ddddocr）。</li>
+<li>项目文档指南较容易理解。运行前后会自动合并题库，如果一次没满分可以再考一次。 可将 answer/answer.json 文件提交 PR 一起完善题库。</li>
+<li>可调节每节课学习时间，单位（秒），默认 15 秒</li>
 </ul>
 <h2 id="_3">宪法小卫士<a class="headerlink" href="#_3" title="Permanent link">&para;</a></h2>
 <p><a href="https://greasyfork.org/zh-CN/scripts/430038-%E6%99%AE%E6%B3%95%E7%BD%91-%E5%AE%AA%E6%B3%95%E5%B0%8F%E5%8D%AB%E5%A3%AB-%E8%AF%BE%E5%90%8E%E7%BB%83%E4%B9%A0-%E8%80%83%E8%AF%95%E8%87%AA%E5%8A%A8%E7%AD%94%E9%A2%98">普法网（宪法小卫士）课后练习、考试自动答题</a></p>
@@ -2509,7 +2508,7 @@
     <span class="md-icon" title="最后更新">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2024-10-28T20:10:12+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2024-10-28</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-timeago"><span class="timeago" datetime="2025-09-26T22:43:51+08:00" locale="zh"></span></span><span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2025-09-26</span>
   </span>
 
     
@@ -2524,29 +2523,6 @@
 
     
     
-    
-      
-  <span class="md-source-file__fact">
-    
-      
-  <span class="md-icon" title="贡献者">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.09-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33s1.71.11 2.5.33c1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2"/></svg>
-  </span>
-  <span>GitHub</span>
-
-    
-    <nav>
-      
-        <a href="https://github.com/ztm0929" class="md-author" title="@ztm0929">
-          
-          <img src="https://avatars.githubusercontent.com/u/34964951?v=4&amp;size=72" alt="ztm0929">
-        </a>
-      
-      
-      
-    </nav>
-  </span>
-
     
   </aside>
 

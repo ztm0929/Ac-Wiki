@@ -116,9 +116,6 @@ extra:
         - icon: simple/telegram
           link: https://t.me/AcWiki
           name: Telegram 频道
-        - icon: simple/telegram
-          link: https://t.me/AcFourm
-          name: Telegram 群组
     analytics:
         provider: custom
         feedback:
